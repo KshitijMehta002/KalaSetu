@@ -1,0 +1,1501 @@
+productId,category,material,craftType,quality,rawMaterialCost,laborCost,packagingCost,otherCost,totalCost,competitorPrice,averageMarketPrice,demandScore,sellingPrice
+KS-PROD-0001,Handloom & Sarees,Silk Cotton,Jacquard Weaving,Fine Heritage,1830.0,1670.0,100.0,160.0,3760.0,5760.0,5780.0,9,4870.0
+KS-PROD-0002,Pottery & Terracotta,Clay,Wheel Pottery,Standard,480.0,280.0,70.0,80.0,910.0,1510.0,1510.0,9,1240.0
+KS-PROD-0003,Jewellery & Brassware,Cast Brass,Lost-Wax Dokra Casting,Masterpiece,3010.0,2730.0,120.0,160.0,6020.0,6590.0,7030.0,2,6920.0
+KS-PROD-0004,Textiles & Embroidery,Linen,Kantha Needlework,Masterpiece,440.0,320.0,90.0,20.0,870.0,1390.0,1350.0,5,1140.0
+KS-PROD-0005,Textiles & Embroidery,Organic Cotton,Chikankari Stitching,Standard,120.0,250.0,50.0,20.0,440.0,650.0,660.0,4,560.0
+KS-PROD-0006,Bags & Accessories,Embroidered Silk,Jute Stitching,Fine Heritage,300.0,560.0,80.0,60.0,1000.0,1240.0,1300.0,2,1150.0
+KS-PROD-0007,Bamboo & Cane Craft,Golden Cane,Split Cane Weaving,Fine Heritage,260.0,710.0,80.0,30.0,1080.0,1840.0,1740.0,6,1460.0
+KS-PROD-0008,Bamboo & Cane Craft,Wild Bamboo,Split Cane Weaving,Fine Heritage,260.0,310.0,100.0,70.0,740.0,1060.0,1050.0,6,910.0
+KS-PROD-0009,Bags & Accessories,Cotton Canvas,Hand Braiding,Standard,200.0,400.0,50.0,60.0,710.0,1160.0,1210.0,10,980.0
+KS-PROD-0010,Woodcraft & Carvings,Rosewood,Chisel Carving,Standard,710.0,400.0,70.0,80.0,1260.0,1970.0,1990.0,10,1660.0
+KS-PROD-0011,Bags & Accessories,Embroidered Silk,Jute Stitching,Masterpiece,600.0,710.0,70.0,40.0,1420.0,1970.0,1970.0,6,1720.0
+KS-PROD-0012,Bags & Accessories,Golden Jute,Hand Braiding,Masterpiece,630.0,590.0,40.0,60.0,1320.0,2150.0,2270.0,9,1820.0
+KS-PROD-0013,Woodcraft & Carvings,Sheesham Wood,Wood Turning,Fine Heritage,580.0,450.0,90.0,100.0,1220.0,1610.0,1670.0,5,1460.0
+KS-PROD-0014,Handloom & Sarees,Silk Cotton,Jacquard Weaving,Fine Heritage,3750.0,4910.0,170.0,70.0,8900.0,15000.0,15790.0,8,12530.0
+KS-PROD-0015,Home Decor & Brassware,Terracotta,Sand Casting,Masterpiece,350.0,930.0,80.0,50.0,1410.0,2270.0,2350.0,9,1910.0
+KS-PROD-0016,Handloom & Sarees,Chanderi Cotton,Pit Loom Weaving,Masterpiece,3560.0,4220.0,80.0,160.0,8020.0,9990.0,9220.0,1,9220.0
+KS-PROD-0017,Textiles & Embroidery,Tussar Silk,Chikankari Stitching,Standard,210.0,370.0,70.0,60.0,710.0,1200.0,1250.0,10,1000.0
+KS-PROD-0018,Bags & Accessories,Burlap,Jute Stitching,Standard,140.0,340.0,60.0,50.0,590.0,810.0,740.0,1,690.0
+KS-PROD-0019,Handloom & Sarees,Silk Cotton,Zari Booti Work,Masterpiece,2660.0,5540.0,120.0,80.0,8400.0,12040.0,12630.0,8,10610.0
+KS-PROD-0020,Bags & Accessories,Cotton Canvas,Jute Stitching,Fine Heritage,530.0,670.0,40.0,60.0,1300.0,2560.0,2340.0,9,1920.0
+KS-PROD-0021,Bamboo & Cane Craft,Golden Cane,Split Cane Weaving,Fine Heritage,370.0,670.0,90.0,30.0,1160.0,1500.0,1550.0,1,1360.0
+KS-PROD-0022,Bags & Accessories,Embroidered Silk,Hand Braiding,Masterpiece,750.0,930.0,70.0,60.0,1810.0,2170.0,2260.0,3,2080.0
+KS-PROD-0023,Pottery & Terracotta,Clay,Blue Pottery Glazing,Fine Heritage,230.0,1010.0,100.0,90.0,1430.0,1750.0,1730.0,3,1640.0
+KS-PROD-0024,Woodcraft & Carvings,Sheesham Wood,Wood Turning,Standard,590.0,470.0,60.0,90.0,1210.0,1590.0,1710.0,4,1460.0
+KS-PROD-0025,Handloom & Sarees,Khadi,Jacquard Weaving,Masterpiece,3610.0,2920.0,120.0,150.0,6800.0,9620.0,9700.0,6,8380.0
+KS-PROD-0026,Jewellery & Brassware,Copper Alloy,Hand Engraving,Standard,830.0,2830.0,180.0,60.0,3900.0,5970.0,6170.0,9,5110.0
+KS-PROD-0027,Textiles & Embroidery,Tussar Silk,Kantha Needlework,Fine Heritage,270.0,430.0,70.0,40.0,810.0,1300.0,1220.0,9,1050.0
+KS-PROD-0028,Jewellery & Brassware,Cast Brass,Lost-Wax Dokra Casting,Fine Heritage,1390.0,1540.0,170.0,90.0,3190.0,5120.0,5220.0,10,4290.0
+KS-PROD-0029,Jewellery & Brassware,Copper Alloy,Hand Engraving,Standard,1050.0,2210.0,130.0,50.0,3440.0,4560.0,4720.0,3,4110.0
+KS-PROD-0030,Bags & Accessories,Burlap,Jute Stitching,Standard,130.0,550.0,90.0,50.0,820.0,1190.0,1260.0,6,1050.0
+KS-PROD-0031,Woodcraft & Carvings,Sheesham Wood,Jaali Latticework,Fine Heritage,920.0,1260.0,140.0,90.0,2410.0,3620.0,3480.0,4,3030.0
+KS-PROD-0032,Textiles & Embroidery,Wool,Chikankari Stitching,Masterpiece,250.0,880.0,90.0,80.0,1300.0,1730.0,1870.0,3,1590.0
+KS-PROD-0033,Textiles & Embroidery,Wool,Chikankari Stitching,Masterpiece,660.0,420.0,90.0,30.0,1200.0,1510.0,1570.0,1,1390.0
+KS-PROD-0034,Bags & Accessories,Embroidered Silk,Hand Braiding,Standard,190.0,450.0,60.0,40.0,740.0,1010.0,1040.0,2,900.0
+KS-PROD-0035,Home Decor & Brassware,Wrought Iron,Sand Casting,Standard,450.0,270.0,70.0,80.0,870.0,970.0,970.0,1,1000.0
+KS-PROD-0036,Textiles & Embroidery,Wool,Chikankari Stitching,Masterpiece,230.0,860.0,40.0,20.0,1150.0,1760.0,1620.0,7,1440.0
+KS-PROD-0037,Bamboo & Cane Craft,Seagrass,Split Cane Weaving,Standard,480.0,560.0,70.0,60.0,1170.0,1520.0,1560.0,2,1380.0
+KS-PROD-0038,Jewellery & Brassware,Copper Alloy,Hand Engraving,Fine Heritage,3350.0,3270.0,110.0,150.0,6880.0,12090.0,11170.0,7,9420.0
+KS-PROD-0039,Jewellery & Brassware,Copper Alloy,Filigree,Standard,1620.0,1550.0,210.0,140.0,3520.0,5270.0,5270.0,6,4480.0
+KS-PROD-0040,Bamboo & Cane Craft,Rattan,Coiled Bamboo Weaving,Masterpiece,210.0,590.0,70.0,40.0,910.0,1260.0,1310.0,4,1120.0
+KS-PROD-0041,Bamboo & Cane Craft,Golden Cane,Coiled Bamboo Weaving,Standard,200.0,360.0,90.0,20.0,670.0,1160.0,1130.0,7,930.0
+KS-PROD-0042,Home Decor & Brassware,Bell Metal,Beaten Metal Hammering,Standard,160.0,460.0,90.0,70.0,780.0,1010.0,1050.0,2,920.0
+KS-PROD-0043,Bags & Accessories,Golden Jute,Jute Stitching,Standard,280.0,510.0,80.0,80.0,950.0,1680.0,1590.0,10,1320.0
+KS-PROD-0044,Bags & Accessories,Burlap,Hand Braiding,Standard,400.0,360.0,50.0,30.0,840.0,1300.0,1280.0,5,1090.0
+KS-PROD-0045,Bamboo & Cane Craft,Seagrass,Split Cane Weaving,Standard,390.0,260.0,50.0,70.0,770.0,880.0,910.0,2,890.0
+KS-PROD-0046,Woodcraft & Carvings,Teak Wood,Chisel Carving,Fine Heritage,520.0,960.0,90.0,40.0,1610.0,2600.0,2460.0,7,2110.0
+KS-PROD-0047,Pottery & Terracotta,Stoneware,Terracotta Modelling,Standard,760.0,530.0,90.0,90.0,1470.0,2440.0,2320.0,7,1960.0
+KS-PROD-0048,Bamboo & Cane Craft,Rattan,Coiled Bamboo Weaving,Fine Heritage,340.0,200.0,50.0,60.0,650.0,1150.0,1070.0,7,900.0
+KS-PROD-0049,Woodcraft & Carvings,Sheesham Wood,Jaali Latticework,Masterpiece,800.0,430.0,110.0,40.0,1380.0,2020.0,2090.0,8,1760.0
+KS-PROD-0050,Textiles & Embroidery,Organic Cotton,Block Printing,Fine Heritage,290.0,680.0,50.0,80.0,1100.0,1520.0,1630.0,7,1370.0
+KS-PROD-0051,Pottery & Terracotta,Clay,Terracotta Modelling,Standard,570.0,990.0,120.0,80.0,1760.0,2120.0,2300.0,4,2020.0
+KS-PROD-0052,Woodcraft & Carvings,Teak Wood,Chisel Carving,Fine Heritage,730.0,980.0,70.0,80.0,1860.0,2690.0,2610.0,6,2290.0
+KS-PROD-0053,Handloom & Sarees,Mulberry Silk,Zari Booti Work,Standard,2360.0,3780.0,180.0,190.0,6510.0,10470.0,9980.0,7,8520.0
+KS-PROD-0054,Handloom & Sarees,Mulberry Silk,Pit Loom Weaving,Masterpiece,4470.0,5480.0,180.0,70.0,10200.0,18460.0,18790.0,10,14860.0
+KS-PROD-0055,Home Decor & Brassware,Wrought Iron,Sand Casting,Masterpiece,560.0,240.0,60.0,50.0,910.0,1610.0,1560.0,7,1280.0
+KS-PROD-0056,Bags & Accessories,Cotton Canvas,Hand Braiding,Standard,390.0,580.0,50.0,70.0,1090.0,1950.0,1940.0,9,1560.0
+KS-PROD-0057,Jewellery & Brassware,Silver Filigree,Lost-Wax Dokra Casting,Standard,1550.0,2300.0,210.0,140.0,4200.0,6410.0,6350.0,7,5390.0
+KS-PROD-0058,Textiles & Embroidery,Organic Cotton,Block Printing,Standard,240.0,270.0,50.0,60.0,620.0,920.0,910.0,5,780.0
+KS-PROD-0059,Bamboo & Cane Craft,Wild Bamboo,Coiled Bamboo Weaving,Masterpiece,410.0,620.0,50.0,50.0,1130.0,1680.0,1820.0,8,1480.0
+KS-PROD-0060,Jewellery & Brassware,Dokra Bronze,Hand Engraving,Masterpiece,2260.0,4590.0,140.0,130.0,7120.0,11140.0,10570.0,6,9130.0
+KS-PROD-0061,Textiles & Embroidery,Linen,Chikankari Stitching,Fine Heritage,260.0,330.0,40.0,30.0,660.0,960.0,880.0,2,800.0
+KS-PROD-0062,Woodcraft & Carvings,Teak Wood,Chisel Carving,Masterpiece,720.0,1450.0,150.0,70.0,2390.0,4080.0,3810.0,5,3220.0
+KS-PROD-0063,Jewellery & Brassware,Dokra Bronze,Hand Engraving,Standard,1620.0,3090.0,100.0,60.0,4870.0,6270.0,6000.0,1,5600.0
+KS-PROD-0064,Woodcraft & Carvings,Rosewood,Chisel Carving,Standard,520.0,700.0,90.0,40.0,1350.0,1680.0,1560.0,1,1550.0
+KS-PROD-0065,Handloom & Sarees,Silk Cotton,Zari Booti Work,Fine Heritage,1250.0,3560.0,90.0,70.0,4970.0,8840.0,9450.0,10,7310.0
+KS-PROD-0066,Bamboo & Cane Craft,Wild Bamboo,Split Cane Weaving,Masterpiece,520.0,660.0,80.0,40.0,1300.0,2070.0,2020.0,8,1710.0
+KS-PROD-0067,Home Decor & Brassware,Wrought Iron,Sand Casting,Masterpiece,750.0,300.0,80.0,60.0,1190.0,1690.0,1780.0,5,1500.0
+KS-PROD-0068,Woodcraft & Carvings,Sheesham Wood,Chisel Carving,Standard,420.0,900.0,100.0,30.0,1450.0,2290.0,2190.0,5,1880.0
+KS-PROD-0069,Bags & Accessories,Golden Jute,Jute Stitching,Fine Heritage,520.0,540.0,80.0,80.0,1220.0,1690.0,1760.0,7,1500.0
+KS-PROD-0070,Woodcraft & Carvings,Sandalwood,Chisel Carving,Standard,190.0,1000.0,110.0,90.0,1390.0,2000.0,1990.0,5,1720.0
+KS-PROD-0071,Jewellery & Brassware,Copper Alloy,Hand Engraving,Masterpiece,3500.0,3500.0,180.0,180.0,7360.0,10490.0,11340.0,6,9380.0
+KS-PROD-0072,Bamboo & Cane Craft,Wild Bamboo,Split Cane Weaving,Masterpiece,180.0,760.0,60.0,60.0,1060.0,1480.0,1440.0,5,1280.0
+KS-PROD-0073,Bags & Accessories,Golden Jute,Hand Braiding,Fine Heritage,330.0,370.0,40.0,30.0,770.0,1210.0,1250.0,7,1030.0
+KS-PROD-0074,Home Decor & Brassware,Pure Brass,Beaten Metal Hammering,Standard,230.0,300.0,100.0,40.0,670.0,1100.0,1200.0,9,940.0
+KS-PROD-0075,Bags & Accessories,Burlap,Jute Stitching,Standard,310.0,430.0,60.0,50.0,850.0,990.0,970.0,1,980.0
+KS-PROD-0076,Jewellery & Brassware,Copper Alloy,Filigree,Fine Heritage,1410.0,4900.0,180.0,90.0,6580.0,7780.0,8430.0,3,7570.0
+KS-PROD-0077,Home Decor & Brassware,Pure Brass,Sand Casting,Standard,280.0,200.0,90.0,50.0,620.0,870.0,900.0,5,770.0
+KS-PROD-0078,Bags & Accessories,Burlap,Jute Stitching,Fine Heritage,400.0,400.0,90.0,50.0,940.0,1310.0,1350.0,3,1160.0
+KS-PROD-0079,Home Decor & Brassware,Wrought Iron,Beaten Metal Hammering,Standard,210.0,280.0,70.0,80.0,640.0,1120.0,1120.0,8,900.0
+KS-PROD-0080,Bags & Accessories,Embroidered Silk,Hand Braiding,Masterpiece,630.0,500.0,100.0,70.0,1300.0,1770.0,1840.0,4,1580.0
+KS-PROD-0081,Home Decor & Brassware,Pure Brass,Beaten Metal Hammering,Masterpiece,450.0,870.0,60.0,80.0,1460.0,1810.0,1950.0,3,1700.0
+KS-PROD-0082,Textiles & Embroidery,Tussar Silk,Block Printing,Standard,310.0,360.0,80.0,40.0,790.0,1020.0,960.0,3,910.0
+KS-PROD-0083,Jewellery & Brassware,Silver Filigree,Filigree,Masterpiece,2900.0,1780.0,140.0,150.0,4970.0,7960.0,8150.0,9,6680.0
+KS-PROD-0084,Bags & Accessories,Golden Jute,Jute Stitching,Standard,350.0,560.0,100.0,60.0,1070.0,1940.0,1840.0,7,1510.0
+KS-PROD-0085,Handloom & Sarees,Khadi,Pit Loom Weaving,Masterpiece,2490.0,1530.0,140.0,60.0,4220.0,5870.0,6200.0,6,5240.0
+KS-PROD-0086,Home Decor & Brassware,Terracotta,Sand Casting,Standard,130.0,540.0,70.0,30.0,770.0,1240.0,1240.0,10,1030.0
+KS-PROD-0087,Jewellery & Brassware,Copper Alloy,Hand Engraving,Masterpiece,1280.0,5260.0,230.0,150.0,6920.0,9180.0,8420.0,3,7960.0
+KS-PROD-0088,Jewellery & Brassware,Copper Alloy,Filigree,Fine Heritage,2540.0,2300.0,250.0,180.0,5270.0,6510.0,6360.0,2,6060.0
+KS-PROD-0089,Jewellery & Brassware,Silver Filigree,Lost-Wax Dokra Casting,Masterpiece,2900.0,1430.0,230.0,170.0,4730.0,6590.0,6250.0,1,5630.0
+KS-PROD-0090,Jewellery & Brassware,Dokra Bronze,Filigree,Fine Heritage,1740.0,1860.0,120.0,160.0,3880.0,5750.0,5310.0,3,4750.0
+KS-PROD-0091,Pottery & Terracotta,Quartz Paste,Terracotta Modelling,Standard,530.0,950.0,60.0,50.0,1590.0,2190.0,2320.0,7,1970.0
+KS-PROD-0092,Textiles & Embroidery,Linen,Kantha Needlework,Fine Heritage,580.0,720.0,100.0,40.0,1440.0,2320.0,2310.0,6,1920.0
+KS-PROD-0093,Handloom & Sarees,Mulberry Silk,Pit Loom Weaving,Masterpiece,4270.0,6100.0,240.0,170.0,10780.0,14750.0,14880.0,6,13010.0
+KS-PROD-0094,Jewellery & Brassware,Cast Brass,Hand Engraving,Fine Heritage,3270.0,3730.0,180.0,170.0,7350.0,9800.0,10190.0,6,8830.0
+KS-PROD-0095,Pottery & Terracotta,Quartz Paste,Blue Pottery Glazing,Standard,570.0,850.0,100.0,80.0,1600.0,2140.0,2310.0,7,1960.0
+KS-PROD-0096,Pottery & Terracotta,Quartz Paste,Terracotta Modelling,Standard,210.0,1090.0,60.0,60.0,1420.0,2480.0,2350.0,9,1960.0
+KS-PROD-0097,Woodcraft & Carvings,Rosewood,Wood Turning,Standard,690.0,830.0,140.0,50.0,1710.0,2430.0,2430.0,6,2110.0
+KS-PROD-0098,Bamboo & Cane Craft,Seagrass,Coiled Bamboo Weaving,Masterpiece,380.0,860.0,80.0,20.0,1340.0,1710.0,1820.0,5,1580.0
+KS-PROD-0099,Bags & Accessories,Golden Jute,Jute Stitching,Masterpiece,550.0,910.0,30.0,40.0,1530.0,2070.0,2160.0,3,1860.0
+KS-PROD-0100,Bamboo & Cane Craft,Golden Cane,Coiled Bamboo Weaving,Fine Heritage,510.0,630.0,70.0,40.0,1250.0,1870.0,1840.0,3,1580.0
+KS-PROD-0101,Woodcraft & Carvings,Sheesham Wood,Wood Turning,Standard,240.0,590.0,130.0,70.0,1030.0,1090.0,1170.0,1,1180.0
+KS-PROD-0102,Home Decor & Brassware,Pure Brass,Sand Casting,Fine Heritage,350.0,390.0,70.0,50.0,860.0,1220.0,1310.0,4,1090.0
+KS-PROD-0103,Jewellery & Brassware,Copper Alloy,Filigree,Standard,960.0,2380.0,150.0,150.0,3640.0,6170.0,6170.0,8,5030.0
+KS-PROD-0104,Handloom & Sarees,Chanderi Cotton,Jacquard Weaving,Standard,980.0,1750.0,190.0,130.0,3050.0,4610.0,4490.0,6,3870.0
+KS-PROD-0105,Jewellery & Brassware,Copper Alloy,Filigree,Masterpiece,3040.0,5210.0,100.0,150.0,8500.0,14330.0,14950.0,9,11920.0
+KS-PROD-0106,Bags & Accessories,Cotton Canvas,Hand Braiding,Fine Heritage,540.0,410.0,80.0,40.0,1070.0,1650.0,1670.0,6,1400.0
+KS-PROD-0107,Woodcraft & Carvings,Rosewood,Chisel Carving,Standard,690.0,340.0,60.0,80.0,1170.0,1620.0,1580.0,3,1400.0
+KS-PROD-0108,Textiles & Embroidery,Tussar Silk,Block Printing,Fine Heritage,560.0,720.0,60.0,70.0,1410.0,1930.0,1880.0,1,1680.0
+KS-PROD-0109,Textiles & Embroidery,Tussar Silk,Chikankari Stitching,Masterpiece,290.0,690.0,50.0,30.0,1060.0,1830.0,1730.0,9,1450.0
+KS-PROD-0110,Bamboo & Cane Craft,Rattan,Coiled Bamboo Weaving,Masterpiece,730.0,810.0,50.0,30.0,1620.0,2510.0,2550.0,5,2120.0
+KS-PROD-0111,Woodcraft & Carvings,Teak Wood,Wood Turning,Masterpiece,640.0,600.0,110.0,30.0,1380.0,2170.0,2180.0,9,1820.0
+KS-PROD-0112,Textiles & Embroidery,Organic Cotton,Block Printing,Fine Heritage,490.0,620.0,70.0,30.0,1210.0,1450.0,1370.0,1,1390.0
+KS-PROD-0113,Pottery & Terracotta,Clay,Terracotta Modelling,Fine Heritage,730.0,890.0,90.0,50.0,1760.0,2710.0,2720.0,9,2290.0
+KS-PROD-0114,Jewellery & Brassware,Copper Alloy,Filigree,Masterpiece,2530.0,2450.0,250.0,60.0,5290.0,6760.0,7060.0,4,6200.0
+KS-PROD-0115,Woodcraft & Carvings,Sandalwood,Jaali Latticework,Fine Heritage,280.0,900.0,90.0,40.0,1310.0,2320.0,2300.0,9,1860.0
+KS-PROD-0116,Textiles & Embroidery,Tussar Silk,Block Printing,Masterpiece,180.0,250.0,90.0,70.0,590.0,1000.0,1010.0,10,820.0
+KS-PROD-0117,Home Decor & Brassware,Wrought Iron,Sand Casting,Fine Heritage,140.0,370.0,90.0,60.0,660.0,980.0,910.0,6,810.0
+KS-PROD-0118,Bamboo & Cane Craft,Rattan,Split Cane Weaving,Masterpiece,200.0,840.0,80.0,30.0,1150.0,1450.0,1400.0,3,1320.0
+KS-PROD-0119,Bamboo & Cane Craft,Seagrass,Split Cane Weaving,Masterpiece,750.0,680.0,40.0,30.0,1500.0,2100.0,2040.0,5,1810.0
+KS-PROD-0120,Handloom & Sarees,Mulberry Silk,Jacquard Weaving,Fine Heritage,2570.0,3310.0,180.0,150.0,6210.0,12220.0,11130.0,10,9130.0
+KS-PROD-0121,Textiles & Embroidery,Linen,Kantha Needlework,Fine Heritage,160.0,440.0,50.0,40.0,690.0,760.0,810.0,1,790.0
+KS-PROD-0122,Bags & Accessories,Burlap,Jute Stitching,Standard,250.0,280.0,80.0,80.0,690.0,910.0,900.0,2,810.0
+KS-PROD-0123,Bags & Accessories,Golden Jute,Hand Braiding,Masterpiece,560.0,460.0,60.0,30.0,1110.0,1430.0,1340.0,1,1280.0
+KS-PROD-0124,Textiles & Embroidery,Tussar Silk,Chikankari Stitching,Masterpiece,260.0,410.0,60.0,50.0,780.0,1320.0,1340.0,9,1080.0
+KS-PROD-0125,Jewellery & Brassware,Copper Alloy,Hand Engraving,Fine Heritage,3290.0,1330.0,190.0,100.0,4910.0,7070.0,6780.0,6,6000.0
+KS-PROD-0126,Jewellery & Brassware,Silver Filigree,Filigree,Masterpiece,5280.0,4290.0,110.0,60.0,9740.0,13770.0,14110.0,3,12080.0
+KS-PROD-0127,Home Decor & Brassware,Terracotta,Sand Casting,Fine Heritage,400.0,550.0,50.0,30.0,1030.0,1650.0,1590.0,9,1350.0
+KS-PROD-0128,Textiles & Embroidery,Tussar Silk,Block Printing,Fine Heritage,220.0,310.0,100.0,50.0,680.0,990.0,1040.0,4,870.0
+KS-PROD-0129,Jewellery & Brassware,Cast Brass,Filigree,Masterpiece,4730.0,5640.0,90.0,100.0,10560.0,16760.0,16970.0,10,14040.0
+KS-PROD-0130,Woodcraft & Carvings,Teak Wood,Wood Turning,Masterpiece,1050.0,630.0,90.0,60.0,1830.0,2870.0,2790.0,4,2370.0
+KS-PROD-0131,Bags & Accessories,Cotton Canvas,Jute Stitching,Fine Heritage,610.0,630.0,90.0,30.0,1360.0,2610.0,2600.0,10,2040.0
+KS-PROD-0132,Jewellery & Brassware,Copper Alloy,Filigree,Masterpiece,2990.0,2170.0,110.0,140.0,5410.0,7170.0,7120.0,5,6360.0
+KS-PROD-0133,Textiles & Embroidery,Tussar Silk,Chikankari Stitching,Masterpiece,680.0,430.0,80.0,40.0,1230.0,1920.0,1920.0,9,1610.0
+KS-PROD-0134,Bamboo & Cane Craft,Rattan,Split Cane Weaving,Standard,270.0,330.0,60.0,40.0,700.0,800.0,870.0,2,800.0
+KS-PROD-0135,Handloom & Sarees,Chanderi Cotton,Pit Loom Weaving,Standard,900.0,3740.0,160.0,170.0,4970.0,7360.0,7990.0,8,6500.0
+KS-PROD-0136,Handloom & Sarees,Silk Cotton,Zari Booti Work,Standard,3050.0,2600.0,200.0,130.0,5980.0,7770.0,8070.0,2,7070.0
+KS-PROD-0137,Handloom & Sarees,Silk Cotton,Pit Loom Weaving,Fine Heritage,3160.0,3540.0,90.0,180.0,6970.0,10660.0,11550.0,8,9310.0
+KS-PROD-0138,Bamboo & Cane Craft,Golden Cane,Split Cane Weaving,Fine Heritage,130.0,390.0,70.0,30.0,620.0,780.0,790.0,2,710.0
+KS-PROD-0139,Pottery & Terracotta,Stoneware,Terracotta Modelling,Standard,560.0,1180.0,80.0,30.0,1850.0,2400.0,2280.0,2,2130.0
+KS-PROD-0140,Handloom & Sarees,Chanderi Cotton,Pit Loom Weaving,Standard,1750.0,1950.0,190.0,170.0,4060.0,7290.0,7250.0,8,5820.0
+KS-PROD-0141,Woodcraft & Carvings,Teak Wood,Chisel Carving,Masterpiece,1010.0,1060.0,80.0,30.0,2180.0,3200.0,3280.0,4,2770.0
+KS-PROD-0142,Jewellery & Brassware,Copper Alloy,Filigree,Fine Heritage,1850.0,4040.0,110.0,100.0,6100.0,7830.0,7990.0,1,7110.0
+KS-PROD-0143,Handloom & Sarees,Chanderi Cotton,Zari Booti Work,Fine Heritage,3510.0,4590.0,150.0,200.0,8450.0,14070.0,14270.0,8,11610.0
+KS-PROD-0144,Jewellery & Brassware,Cast Brass,Filigree,Fine Heritage,1270.0,3460.0,220.0,130.0,5080.0,6880.0,7030.0,6,6120.0
+KS-PROD-0145,Jewellery & Brassware,Silver Filigree,Hand Engraving,Masterpiece,4240.0,2200.0,160.0,120.0,6720.0,10350.0,10370.0,6,8720.0
+KS-PROD-0146,Pottery & Terracotta,Clay,Blue Pottery Glazing,Masterpiece,640.0,1140.0,120.0,40.0,1940.0,2250.0,2190.0,1,2230.0
+KS-PROD-0147,Bags & Accessories,Golden Jute,Jute Stitching,Standard,190.0,440.0,60.0,80.0,770.0,1000.0,960.0,1,890.0
+KS-PROD-0148,Textiles & Embroidery,Linen,Block Printing,Standard,330.0,390.0,60.0,60.0,840.0,1180.0,1280.0,4,1060.0
+KS-PROD-0149,Woodcraft & Carvings,Rosewood,Wood Turning,Fine Heritage,930.0,450.0,130.0,80.0,1590.0,2370.0,2440.0,4,2040.0
+KS-PROD-0150,Bags & Accessories,Cotton Canvas,Jute Stitching,Standard,440.0,350.0,90.0,50.0,930.0,1380.0,1260.0,2,1140.0
+KS-PROD-0151,Textiles & Embroidery,Linen,Chikankari Stitching,Standard,320.0,280.0,50.0,30.0,680.0,970.0,960.0,3,840.0
+KS-PROD-0152,Handloom & Sarees,Mulberry Silk,Pit Loom Weaving,Standard,2930.0,980.0,170.0,110.0,4190.0,7030.0,6510.0,9,5570.0
+KS-PROD-0153,Handloom & Sarees,Chanderi Cotton,Zari Booti Work,Masterpiece,4250.0,3920.0,210.0,170.0,8550.0,9830.0,10060.0,2,9830.0
+KS-PROD-0154,Handloom & Sarees,Khadi,Zari Booti Work,Masterpiece,3410.0,2010.0,220.0,130.0,5770.0,10260.0,9380.0,10,7930.0
+KS-PROD-0155,Home Decor & Brassware,Pure Brass,Sand Casting,Masterpiece,250.0,350.0,50.0,60.0,710.0,1190.0,1170.0,6,970.0
+KS-PROD-0156,Jewellery & Brassware,Cast Brass,Hand Engraving,Standard,2510.0,2610.0,100.0,100.0,5320.0,8490.0,8200.0,9,6960.0
+KS-PROD-0157,Woodcraft & Carvings,Teak Wood,Wood Turning,Masterpiece,960.0,1280.0,130.0,70.0,2440.0,2960.0,2710.0,1,2810.0
+KS-PROD-0158,Jewellery & Brassware,Dokra Bronze,Filigree,Fine Heritage,3090.0,1240.0,230.0,130.0,4690.0,7220.0,6780.0,5,5930.0
+KS-PROD-0159,Home Decor & Brassware,Wrought Iron,Beaten Metal Hammering,Standard,380.0,220.0,60.0,50.0,710.0,1060.0,1090.0,6,910.0
+KS-PROD-0160,Textiles & Embroidery,Linen,Block Printing,Standard,400.0,380.0,40.0,30.0,850.0,990.0,1030.0,2,980.0
+KS-PROD-0161,Handloom & Sarees,Silk Cotton,Zari Booti Work,Fine Heritage,3920.0,2750.0,240.0,190.0,7100.0,12250.0,11670.0,6,9730.0
+KS-PROD-0162,Bamboo & Cane Craft,Golden Cane,Split Cane Weaving,Masterpiece,440.0,850.0,60.0,30.0,1380.0,2360.0,2160.0,7,1850.0
+KS-PROD-0163,Bamboo & Cane Craft,Seagrass,Coiled Bamboo Weaving,Standard,210.0,420.0,90.0,60.0,780.0,1220.0,1140.0,5,990.0
+KS-PROD-0164,Home Decor & Brassware,Terracotta,Beaten Metal Hammering,Masterpiece,380.0,510.0,30.0,20.0,940.0,1510.0,1480.0,9,1240.0
+KS-PROD-0165,Handloom & Sarees,Khadi,Jacquard Weaving,Fine Heritage,3580.0,2210.0,250.0,150.0,6190.0,6830.0,7290.0,2,7120.0
+KS-PROD-0166,Textiles & Embroidery,Linen,Chikankari Stitching,Fine Heritage,500.0,300.0,70.0,50.0,920.0,1060.0,1010.0,1,1060.0
+KS-PROD-0167,Bags & Accessories,Burlap,Jute Stitching,Masterpiece,710.0,330.0,100.0,40.0,1180.0,2150.0,2040.0,7,1680.0
+KS-PROD-0168,Jewellery & Brassware,Silver Filigree,Filigree,Masterpiece,3470.0,4800.0,130.0,170.0,8570.0,11720.0,12470.0,6,10560.0
+KS-PROD-0169,Home Decor & Brassware,Wrought Iron,Sand Casting,Masterpiece,450.0,910.0,80.0,70.0,1510.0,2300.0,2480.0,10,2010.0
+KS-PROD-0170,Bags & Accessories,Cotton Canvas,Hand Braiding,Standard,430.0,260.0,70.0,60.0,820.0,1010.0,1030.0,4,940.0
+KS-PROD-0171,Woodcraft & Carvings,Rosewood,Wood Turning,Standard,420.0,990.0,140.0,90.0,1640.0,2110.0,2080.0,1,1890.0
+KS-PROD-0172,Textiles & Embroidery,Wool,Chikankari Stitching,Fine Heritage,280.0,280.0,90.0,40.0,690.0,1160.0,1080.0,6,920.0
+KS-PROD-0173,Jewellery & Brassware,Copper Alloy,Lost-Wax Dokra Casting,Standard,1550.0,1830.0,240.0,200.0,3820.0,6030.0,5770.0,5,4940.0
+KS-PROD-0174,Bags & Accessories,Embroidered Silk,Hand Braiding,Fine Heritage,410.0,710.0,80.0,40.0,1240.0,2210.0,2240.0,10,1780.0
+KS-PROD-0175,Home Decor & Brassware,Wrought Iron,Sand Casting,Fine Heritage,150.0,720.0,40.0,80.0,990.0,1450.0,1510.0,5,1260.0
+KS-PROD-0176,Jewellery & Brassware,Silver Filigree,Lost-Wax Dokra Casting,Standard,2460.0,2720.0,120.0,150.0,5450.0,8320.0,8650.0,9,7140.0
+KS-PROD-0177,Handloom & Sarees,Khadi,Zari Booti Work,Masterpiece,3220.0,4670.0,100.0,190.0,8180.0,11640.0,10700.0,3,9750.0
+KS-PROD-0178,Bags & Accessories,Burlap,Jute Stitching,Fine Heritage,290.0,550.0,90.0,30.0,960.0,1660.0,1580.0,10,1320.0
+KS-PROD-0179,Pottery & Terracotta,Terracotta,Terracotta Modelling,Standard,760.0,280.0,130.0,90.0,1260.0,2000.0,1830.0,3,1610.0
+KS-PROD-0180,Jewellery & Brassware,Cast Brass,Lost-Wax Dokra Casting,Fine Heritage,2920.0,1540.0,250.0,90.0,4800.0,8760.0,8110.0,9,6750.0
+KS-PROD-0181,Woodcraft & Carvings,Rosewood,Jaali Latticework,Standard,680.0,560.0,120.0,80.0,1440.0,1700.0,1730.0,3,1660.0
+KS-PROD-0182,Jewellery & Brassware,Dokra Bronze,Lost-Wax Dokra Casting,Masterpiece,4820.0,5710.0,220.0,130.0,10880.0,12750.0,13600.0,2,12510.0
+KS-PROD-0183,Woodcraft & Carvings,Rosewood,Jaali Latticework,Standard,150.0,610.0,90.0,50.0,900.0,1370.0,1300.0,6,1130.0
+KS-PROD-0184,Pottery & Terracotta,Quartz Paste,Blue Pottery Glazing,Fine Heritage,750.0,390.0,60.0,50.0,1250.0,2200.0,2030.0,7,1710.0
+KS-PROD-0185,Jewellery & Brassware,Cast Brass,Filigree,Fine Heritage,2240.0,1980.0,240.0,120.0,4580.0,8050.0,7820.0,8,6410.0
+KS-PROD-0186,Home Decor & Brassware,Bell Metal,Sand Casting,Standard,370.0,420.0,90.0,50.0,930.0,1520.0,1630.0,9,1290.0
+KS-PROD-0187,Handloom & Sarees,Silk Cotton,Jacquard Weaving,Masterpiece,2090.0,3970.0,110.0,180.0,6350.0,9080.0,9490.0,8,8000.0
+KS-PROD-0188,Bags & Accessories,Golden Jute,Hand Braiding,Standard,280.0,380.0,60.0,20.0,740.0,1210.0,1240.0,8,1010.0
+KS-PROD-0189,Pottery & Terracotta,Stoneware,Terracotta Modelling,Standard,630.0,800.0,50.0,50.0,1530.0,1830.0,1970.0,2,1760.0
+KS-PROD-0190,Handloom & Sarees,Khadi,Pit Loom Weaving,Fine Heritage,2380.0,4100.0,210.0,200.0,6890.0,11360.0,10510.0,7,9050.0
+KS-PROD-0191,Bags & Accessories,Burlap,Hand Braiding,Standard,370.0,450.0,70.0,60.0,950.0,1450.0,1320.0,6,1180.0
+KS-PROD-0192,Home Decor & Brassware,Terracotta,Sand Casting,Standard,400.0,590.0,60.0,60.0,1110.0,1870.0,1750.0,7,1490.0
+KS-PROD-0193,Bamboo & Cane Craft,Rattan,Split Cane Weaving,Standard,210.0,570.0,80.0,30.0,890.0,1560.0,1430.0,7,1210.0
+KS-PROD-0194,Pottery & Terracotta,Terracotta,Wheel Pottery,Standard,220.0,280.0,110.0,80.0,690.0,740.0,800.0,1,790.0
+KS-PROD-0195,Bags & Accessories,Cotton Canvas,Jute Stitching,Standard,160.0,600.0,50.0,70.0,880.0,1510.0,1470.0,10,1210.0
+KS-PROD-0196,Textiles & Embroidery,Organic Cotton,Block Printing,Standard,490.0,380.0,60.0,40.0,970.0,1920.0,1780.0,9,1440.0
+KS-PROD-0197,Woodcraft & Carvings,Rosewood,Wood Turning,Fine Heritage,230.0,720.0,110.0,60.0,1120.0,1800.0,1810.0,9,1500.0
+KS-PROD-0198,Woodcraft & Carvings,Sandalwood,Jaali Latticework,Standard,640.0,700.0,130.0,50.0,1520.0,2340.0,2160.0,3,1910.0
+KS-PROD-0199,Home Decor & Brassware,Bell Metal,Sand Casting,Fine Heritage,250.0,300.0,80.0,80.0,710.0,1030.0,980.0,6,870.0
+KS-PROD-0200,Bamboo & Cane Craft,Wild Bamboo,Split Cane Weaving,Fine Heritage,460.0,530.0,90.0,30.0,1110.0,2060.0,2020.0,10,1620.0
+KS-PROD-0201,Bags & Accessories,Cotton Canvas,Hand Braiding,Fine Heritage,600.0,200.0,100.0,80.0,980.0,1380.0,1310.0,2,1180.0
+KS-PROD-0202,Bamboo & Cane Craft,Golden Cane,Split Cane Weaving,Standard,320.0,500.0,60.0,50.0,930.0,1330.0,1350.0,6,1160.0
+KS-PROD-0203,Bags & Accessories,Burlap,Jute Stitching,Masterpiece,450.0,820.0,90.0,40.0,1400.0,2140.0,1990.0,7,1750.0
+KS-PROD-0204,Woodcraft & Carvings,Sheesham Wood,Jaali Latticework,Masterpiece,1170.0,1240.0,90.0,40.0,2540.0,3700.0,3620.0,6,3150.0
+KS-PROD-0205,Bamboo & Cane Craft,Rattan,Split Cane Weaving,Fine Heritage,510.0,460.0,80.0,60.0,1110.0,1790.0,1680.0,8,1450.0
+KS-PROD-0206,Woodcraft & Carvings,Teak Wood,Wood Turning,Masterpiece,720.0,1740.0,100.0,70.0,2630.0,3450.0,3220.0,1,3020.0
+KS-PROD-0207,Handloom & Sarees,Silk Cotton,Pit Loom Weaving,Fine Heritage,1460.0,3570.0,90.0,70.0,5190.0,7140.0,7230.0,4,6290.0
+KS-PROD-0208,Bags & Accessories,Burlap,Jute Stitching,Standard,310.0,340.0,30.0,60.0,740.0,1260.0,1370.0,9,1060.0
+KS-PROD-0209,Home Decor & Brassware,Terracotta,Sand Casting,Standard,310.0,260.0,70.0,40.0,680.0,970.0,980.0,6,840.0
+KS-PROD-0210,Textiles & Embroidery,Wool,Block Printing,Masterpiece,310.0,720.0,50.0,70.0,1150.0,1620.0,1510.0,2,1370.0
+KS-PROD-0211,Pottery & Terracotta,Clay,Terracotta Modelling,Fine Heritage,490.0,880.0,110.0,80.0,1560.0,1990.0,1990.0,2,1800.0
+KS-PROD-0212,Textiles & Embroidery,Tussar Silk,Chikankari Stitching,Standard,190.0,560.0,80.0,50.0,880.0,1080.0,1160.0,5,1020.0
+KS-PROD-0213,Jewellery & Brassware,Cast Brass,Lost-Wax Dokra Casting,Fine Heritage,1050.0,1930.0,100.0,170.0,3250.0,5400.0,5540.0,7,4480.0
+KS-PROD-0214,Bamboo & Cane Craft,Rattan,Split Cane Weaving,Fine Heritage,500.0,270.0,100.0,60.0,930.0,1610.0,1640.0,9,1310.0
+KS-PROD-0215,Handloom & Sarees,Khadi,Pit Loom Weaving,Standard,1720.0,3280.0,240.0,110.0,5350.0,7060.0,7280.0,6,6370.0
+KS-PROD-0216,Bags & Accessories,Burlap,Jute Stitching,Fine Heritage,400.0,400.0,40.0,60.0,900.0,1330.0,1290.0,7,1120.0
+KS-PROD-0217,Bamboo & Cane Craft,Wild Bamboo,Coiled Bamboo Weaving,Fine Heritage,200.0,590.0,70.0,60.0,920.0,1260.0,1350.0,6,1140.0
+KS-PROD-0218,Jewellery & Brassware,Copper Alloy,Hand Engraving,Fine Heritage,1350.0,1460.0,150.0,130.0,3090.0,4720.0,5100.0,9,4120.0
+KS-PROD-0219,Textiles & Embroidery,Tussar Silk,Chikankari Stitching,Masterpiece,640.0,830.0,30.0,40.0,1540.0,2100.0,2060.0,2,1830.0
+KS-PROD-0220,Bamboo & Cane Craft,Golden Cane,Split Cane Weaving,Standard,160.0,290.0,60.0,20.0,530.0,770.0,790.0,7,670.0
+KS-PROD-0221,Handloom & Sarees,Chanderi Cotton,Zari Booti Work,Standard,2750.0,2440.0,180.0,120.0,5490.0,7670.0,7030.0,3,6460.0
+KS-PROD-0222,Textiles & Embroidery,Wool,Block Printing,Fine Heritage,290.0,650.0,90.0,80.0,1110.0,1460.0,1420.0,3,1290.0
+KS-PROD-0223,Bamboo & Cane Craft,Rattan,Split Cane Weaving,Standard,490.0,590.0,50.0,60.0,1190.0,2250.0,2120.0,8,1730.0
+KS-PROD-0224,Textiles & Embroidery,Wool,Block Printing,Fine Heritage,310.0,710.0,40.0,80.0,1140.0,1610.0,1580.0,3,1390.0
+KS-PROD-0225,Bags & Accessories,Cotton Canvas,Hand Braiding,Fine Heritage,540.0,230.0,90.0,70.0,930.0,1360.0,1400.0,8,1180.0
+KS-PROD-0226,Jewellery & Brassware,Dokra Bronze,Filigree,Fine Heritage,3660.0,1410.0,250.0,120.0,5440.0,9320.0,8580.0,7,7320.0
+KS-PROD-0227,Home Decor & Brassware,Pure Brass,Beaten Metal Hammering,Masterpiece,710.0,610.0,70.0,30.0,1420.0,2010.0,2040.0,4,1760.0
+KS-PROD-0228,Pottery & Terracotta,Stoneware,Terracotta Modelling,Fine Heritage,270.0,430.0,70.0,80.0,850.0,1480.0,1450.0,9,1190.0
+KS-PROD-0229,Bags & Accessories,Embroidered Silk,Hand Braiding,Fine Heritage,510.0,520.0,70.0,40.0,1140.0,1340.0,1380.0,1,1310.0
+KS-PROD-0230,Handloom & Sarees,Silk Cotton,Jacquard Weaving,Standard,1740.0,1960.0,210.0,130.0,4040.0,6050.0,6060.0,6,5150.0
+KS-PROD-0231,Bags & Accessories,Embroidered Silk,Jute Stitching,Fine Heritage,150.0,590.0,30.0,40.0,810.0,1020.0,1070.0,2,940.0
+KS-PROD-0232,Bamboo & Cane Craft,Golden Cane,Coiled Bamboo Weaving,Fine Heritage,400.0,730.0,50.0,40.0,1220.0,1580.0,1520.0,3,1400.0
+KS-PROD-0233,Home Decor & Brassware,Pure Brass,Sand Casting,Fine Heritage,420.0,410.0,80.0,30.0,940.0,1300.0,1220.0,2,1110.0
+KS-PROD-0234,Woodcraft & Carvings,Sandalwood,Jaali Latticework,Standard,450.0,500.0,140.0,70.0,1160.0,1830.0,1780.0,6,1510.0
+KS-PROD-0235,Handloom & Sarees,Chanderi Cotton,Zari Booti Work,Fine Heritage,3080.0,4280.0,200.0,90.0,7650.0,14120.0,13560.0,10,11010.0
+KS-PROD-0236,Textiles & Embroidery,Tussar Silk,Kantha Needlework,Fine Heritage,180.0,400.0,40.0,40.0,660.0,1050.0,1060.0,10,880.0
+KS-PROD-0237,Woodcraft & Carvings,Rosewood,Wood Turning,Masterpiece,930.0,1340.0,150.0,70.0,2490.0,3690.0,3870.0,8,3210.0
+KS-PROD-0238,Bags & Accessories,Golden Jute,Hand Braiding,Standard,290.0,240.0,60.0,50.0,640.0,1030.0,1020.0,8,850.0
+KS-PROD-0239,Bags & Accessories,Burlap,Jute Stitching,Standard,330.0,510.0,50.0,20.0,910.0,1220.0,1280.0,4,1100.0
+KS-PROD-0240,Bags & Accessories,Burlap,Jute Stitching,Masterpiece,230.0,770.0,90.0,40.0,1130.0,1450.0,1450.0,1,1310.0
+KS-PROD-0241,Bamboo & Cane Craft,Rattan,Coiled Bamboo Weaving,Masterpiece,670.0,760.0,50.0,80.0,1560.0,2590.0,2410.0,8,2060.0
+KS-PROD-0242,Handloom & Sarees,Khadi,Pit Loom Weaving,Standard,1370.0,3190.0,200.0,180.0,4940.0,8390.0,8830.0,10,6990.0
+KS-PROD-0243,Woodcraft & Carvings,Teak Wood,Chisel Carving,Standard,520.0,760.0,110.0,40.0,1430.0,1920.0,1980.0,5,1720.0
+KS-PROD-0244,Handloom & Sarees,Mulberry Silk,Zari Booti Work,Standard,3480.0,3590.0,100.0,180.0,7350.0,9270.0,9480.0,4,8480.0
+KS-PROD-0245,Bamboo & Cane Craft,Rattan,Split Cane Weaving,Standard,330.0,270.0,60.0,50.0,710.0,940.0,890.0,2,820.0
+KS-PROD-0246,Textiles & Embroidery,Wool,Block Printing,Fine Heritage,420.0,680.0,90.0,30.0,1220.0,2130.0,2040.0,8,1690.0
+KS-PROD-0247,Handloom & Sarees,Khadi,Pit Loom Weaving,Fine Heritage,3780.0,3040.0,130.0,90.0,7040.0,12290.0,12030.0,9,9840.0
+KS-PROD-0248,Bags & Accessories,Embroidered Silk,Jute Stitching,Standard,140.0,500.0,60.0,30.0,730.0,880.0,960.0,3,840.0
+KS-PROD-0249,Home Decor & Brassware,Terracotta,Sand Casting,Masterpiece,340.0,840.0,90.0,30.0,1300.0,1840.0,1860.0,6,1600.0
+KS-PROD-0250,Woodcraft & Carvings,Sheesham Wood,Jaali Latticework,Masterpiece,540.0,1420.0,70.0,80.0,2110.0,2420.0,2410.0,2,2430.0
+KS-PROD-0251,Woodcraft & Carvings,Teak Wood,Wood Turning,Masterpiece,680.0,400.0,80.0,40.0,1200.0,1960.0,1950.0,7,1610.0
+KS-PROD-0252,Bamboo & Cane Craft,Rattan,Coiled Bamboo Weaving,Masterpiece,650.0,300.0,60.0,40.0,1050.0,1840.0,1740.0,7,1450.0
+KS-PROD-0253,Woodcraft & Carvings,Teak Wood,Chisel Carving,Masterpiece,800.0,1290.0,70.0,50.0,2210.0,2990.0,3160.0,4,2700.0
+KS-PROD-0254,Home Decor & Brassware,Bell Metal,Sand Casting,Standard,460.0,210.0,40.0,60.0,770.0,1240.0,1270.0,6,1040.0
+KS-PROD-0255,Woodcraft & Carvings,Teak Wood,Jaali Latticework,Masterpiece,320.0,1200.0,110.0,70.0,1700.0,2310.0,2220.0,1,2000.0
+KS-PROD-0256,Jewellery & Brassware,Dokra Bronze,Filigree,Masterpiece,3370.0,4990.0,130.0,60.0,8550.0,11180.0,11890.0,4,10240.0
+KS-PROD-0257,Bags & Accessories,Golden Jute,Jute Stitching,Fine Heritage,590.0,260.0,90.0,50.0,990.0,1440.0,1510.0,6,1260.0
+KS-PROD-0258,Bags & Accessories,Golden Jute,Jute Stitching,Masterpiece,200.0,420.0,30.0,20.0,670.0,1080.0,1050.0,7,880.0
+KS-PROD-0259,Home Decor & Brassware,Bell Metal,Beaten Metal Hammering,Standard,360.0,390.0,40.0,30.0,820.0,1000.0,1050.0,2,940.0
+KS-PROD-0260,Woodcraft & Carvings,Sandalwood,Jaali Latticework,Masterpiece,870.0,1620.0,120.0,30.0,2640.0,4640.0,4330.0,7,3630.0
+KS-PROD-0261,Pottery & Terracotta,Terracotta,Wheel Pottery,Fine Heritage,280.0,1040.0,60.0,80.0,1460.0,1870.0,1790.0,3,1680.0
+KS-PROD-0262,Pottery & Terracotta,Terracotta,Terracotta Modelling,Fine Heritage,610.0,1240.0,120.0,40.0,2010.0,3040.0,2820.0,3,2500.0
+KS-PROD-0263,Handloom & Sarees,Silk Cotton,Zari Booti Work,Fine Heritage,1920.0,1370.0,200.0,140.0,3630.0,4690.0,4630.0,2,4190.0
+KS-PROD-0264,Pottery & Terracotta,Stoneware,Blue Pottery Glazing,Standard,390.0,490.0,60.0,70.0,1010.0,1230.0,1220.0,2,1160.0
+KS-PROD-0265,Pottery & Terracotta,Clay,Wheel Pottery,Standard,460.0,610.0,70.0,100.0,1240.0,1660.0,1530.0,1,1430.0
+KS-PROD-0266,Home Decor & Brassware,Terracotta,Beaten Metal Hammering,Standard,270.0,470.0,50.0,20.0,810.0,1180.0,1130.0,6,1000.0
+KS-PROD-0267,Pottery & Terracotta,Terracotta,Wheel Pottery,Masterpiece,1220.0,1790.0,60.0,60.0,3130.0,4680.0,4800.0,5,4020.0
+KS-PROD-0268,Handloom & Sarees,Khadi,Pit Loom Weaving,Fine Heritage,1680.0,3310.0,130.0,140.0,5260.0,9100.0,8310.0,8,7100.0
+KS-PROD-0269,Bamboo & Cane Craft,Golden Cane,Coiled Bamboo Weaving,Standard,470.0,160.0,70.0,60.0,760.0,930.0,1010.0,1,880.0
+KS-PROD-0270,Home Decor & Brassware,Wrought Iron,Sand Casting,Standard,310.0,260.0,60.0,20.0,650.0,850.0,910.0,3,780.0
+KS-PROD-0271,Bamboo & Cane Craft,Rattan,Split Cane Weaving,Fine Heritage,610.0,240.0,40.0,30.0,920.0,1340.0,1310.0,7,1140.0
+KS-PROD-0272,Home Decor & Brassware,Terracotta,Sand Casting,Fine Heritage,260.0,360.0,90.0,60.0,770.0,1090.0,1120.0,6,960.0
+KS-PROD-0273,Handloom & Sarees,Mulberry Silk,Pit Loom Weaving,Masterpiece,1700.0,1900.0,160.0,100.0,3860.0,5420.0,4960.0,2,4560.0
+KS-PROD-0274,Bamboo & Cane Craft,Rattan,Split Cane Weaving,Fine Heritage,260.0,250.0,40.0,60.0,610.0,1030.0,960.0,10,820.0
+KS-PROD-0275,Textiles & Embroidery,Organic Cotton,Kantha Needlework,Masterpiece,310.0,480.0,70.0,60.0,920.0,1350.0,1420.0,5,1180.0
+KS-PROD-0276,Home Decor & Brassware,Bell Metal,Sand Casting,Standard,280.0,510.0,40.0,20.0,850.0,1160.0,1090.0,4,1000.0
+KS-PROD-0277,Textiles & Embroidery,Tussar Silk,Chikankari Stitching,Masterpiece,320.0,800.0,30.0,20.0,1170.0,1890.0,2020.0,8,1610.0
+KS-PROD-0278,Textiles & Embroidery,Tussar Silk,Kantha Needlework,Fine Heritage,150.0,710.0,60.0,60.0,980.0,1500.0,1440.0,8,1240.0
+KS-PROD-0279,Woodcraft & Carvings,Sandalwood,Chisel Carving,Standard,330.0,670.0,60.0,70.0,1130.0,1810.0,1860.0,10,1520.0
+KS-PROD-0280,Home Decor & Brassware,Bell Metal,Sand Casting,Standard,210.0,210.0,40.0,70.0,530.0,930.0,850.0,9,720.0
+KS-PROD-0281,Pottery & Terracotta,Stoneware,Blue Pottery Glazing,Fine Heritage,580.0,1240.0,80.0,70.0,1970.0,2760.0,2900.0,6,2450.0
+KS-PROD-0282,Textiles & Embroidery,Organic Cotton,Kantha Needlework,Fine Heritage,150.0,750.0,70.0,70.0,1040.0,1490.0,1590.0,4,1320.0
+KS-PROD-0283,Bamboo & Cane Craft,Seagrass,Coiled Bamboo Weaving,Standard,330.0,590.0,60.0,80.0,1060.0,1360.0,1320.0,3,1220.0
+KS-PROD-0284,Textiles & Embroidery,Tussar Silk,Chikankari Stitching,Masterpiece,370.0,630.0,40.0,80.0,1120.0,1740.0,1830.0,8,1490.0
+KS-PROD-0285,Pottery & Terracotta,Clay,Wheel Pottery,Standard,540.0,270.0,100.0,50.0,960.0,1480.0,1570.0,10,1280.0
+KS-PROD-0286,Woodcraft & Carvings,Sandalwood,Chisel Carving,Standard,250.0,920.0,60.0,40.0,1270.0,2510.0,2300.0,9,1880.0
+KS-PROD-0287,Textiles & Embroidery,Wool,Chikankari Stitching,Standard,230.0,300.0,100.0,60.0,690.0,1260.0,1150.0,7,960.0
+KS-PROD-0288,Textiles & Embroidery,Organic Cotton,Chikankari Stitching,Masterpiece,590.0,880.0,90.0,30.0,1590.0,2910.0,2950.0,10,2330.0
+KS-PROD-0289,Jewellery & Brassware,Dokra Bronze,Lost-Wax Dokra Casting,Masterpiece,1250.0,4770.0,180.0,180.0,6380.0,10320.0,10030.0,10,8450.0
+KS-PROD-0290,Bamboo & Cane Craft,Wild Bamboo,Split Cane Weaving,Standard,230.0,190.0,50.0,40.0,510.0,720.0,690.0,2,620.0
+KS-PROD-0291,Textiles & Embroidery,Wool,Kantha Needlework,Fine Heritage,230.0,580.0,50.0,70.0,930.0,1030.0,1030.0,1,1070.0
+KS-PROD-0292,Home Decor & Brassware,Terracotta,Beaten Metal Hammering,Fine Heritage,570.0,390.0,60.0,70.0,1090.0,2050.0,1960.0,10,1590.0
+KS-PROD-0293,Woodcraft & Carvings,Rosewood,Chisel Carving,Standard,340.0,550.0,150.0,40.0,1080.0,1480.0,1560.0,3,1330.0
+KS-PROD-0294,Handloom & Sarees,Silk Cotton,Zari Booti Work,Masterpiece,5360.0,5690.0,200.0,110.0,11360.0,15460.0,15490.0,3,13630.0
+KS-PROD-0295,Pottery & Terracotta,Clay,Terracotta Modelling,Standard,780.0,640.0,110.0,90.0,1620.0,2510.0,2590.0,9,2140.0
+KS-PROD-0296,Bamboo & Cane Craft,Wild Bamboo,Coiled Bamboo Weaving,Fine Heritage,410.0,660.0,40.0,40.0,1150.0,1760.0,1650.0,7,1450.0
+KS-PROD-0297,Bags & Accessories,Cotton Canvas,Jute Stitching,Standard,180.0,440.0,100.0,50.0,770.0,930.0,940.0,2,890.0
+KS-PROD-0298,Bags & Accessories,Embroidered Silk,Jute Stitching,Masterpiece,490.0,360.0,90.0,40.0,980.0,1440.0,1440.0,8,1230.0
+KS-PROD-0299,Jewellery & Brassware,Dokra Bronze,Hand Engraving,Masterpiece,1500.0,5010.0,190.0,60.0,6760.0,10780.0,10840.0,6,8990.0
+KS-PROD-0300,Bamboo & Cane Craft,Wild Bamboo,Split Cane Weaving,Masterpiece,410.0,610.0,90.0,50.0,1160.0,1500.0,1610.0,4,1390.0
+KS-PROD-0301,Pottery & Terracotta,Terracotta,Wheel Pottery,Fine Heritage,330.0,1480.0,150.0,90.0,2050.0,2320.0,2480.0,3,2360.0
+KS-PROD-0302,Home Decor & Brassware,Terracotta,Sand Casting,Masterpiece,310.0,870.0,90.0,20.0,1290.0,2080.0,2040.0,7,1710.0
+KS-PROD-0303,Jewellery & Brassware,Copper Alloy,Lost-Wax Dokra Casting,Masterpiece,3850.0,3910.0,150.0,110.0,8020.0,11120.0,10850.0,3,9630.0
+KS-PROD-0304,Handloom & Sarees,Silk Cotton,Jacquard Weaving,Standard,2920.0,3590.0,230.0,180.0,6920.0,9860.0,9790.0,5,8510.0
+KS-PROD-0305,Bags & Accessories,Golden Jute,Jute Stitching,Fine Heritage,330.0,540.0,80.0,40.0,990.0,1650.0,1680.0,7,1360.0
+KS-PROD-0306,Bamboo & Cane Craft,Wild Bamboo,Split Cane Weaving,Fine Heritage,570.0,200.0,90.0,40.0,900.0,1500.0,1400.0,5,1200.0
+KS-PROD-0307,Handloom & Sarees,Mulberry Silk,Pit Loom Weaving,Fine Heritage,4290.0,2840.0,220.0,90.0,7440.0,11140.0,11900.0,7,9740.0
+KS-PROD-0308,Bags & Accessories,Cotton Canvas,Hand Braiding,Masterpiece,460.0,590.0,60.0,20.0,1130.0,1440.0,1370.0,3,1300.0
+KS-PROD-0309,Home Decor & Brassware,Terracotta,Sand Casting,Standard,180.0,520.0,90.0,30.0,820.0,1190.0,1210.0,8,1030.0
+KS-PROD-0310,Bamboo & Cane Craft,Seagrass,Split Cane Weaving,Fine Heritage,380.0,540.0,40.0,20.0,980.0,1470.0,1470.0,6,1250.0
+KS-PROD-0311,Bags & Accessories,Embroidered Silk,Hand Braiding,Standard,440.0,270.0,90.0,30.0,830.0,940.0,990.0,1,950.0
+KS-PROD-0312,Bamboo & Cane Craft,Golden Cane,Coiled Bamboo Weaving,Masterpiece,280.0,690.0,70.0,70.0,1110.0,1260.0,1340.0,1,1280.0
+KS-PROD-0313,Woodcraft & Carvings,Sheesham Wood,Chisel Carving,Fine Heritage,680.0,1430.0,120.0,80.0,2310.0,3260.0,3300.0,5,2850.0
+KS-PROD-0314,Textiles & Embroidery,Wool,Block Printing,Standard,290.0,450.0,90.0,40.0,870.0,1100.0,1000.0,2,1000.0
+KS-PROD-0315,Textiles & Embroidery,Linen,Block Printing,Masterpiece,220.0,280.0,100.0,60.0,660.0,950.0,910.0,5,810.0
+KS-PROD-0316,Jewellery & Brassware,Dokra Bronze,Lost-Wax Dokra Casting,Masterpiece,4440.0,5720.0,220.0,170.0,10550.0,17590.0,17990.0,10,14560.0
+KS-PROD-0317,Woodcraft & Carvings,Sheesham Wood,Wood Turning,Fine Heritage,1000.0,620.0,90.0,60.0,1770.0,2410.0,2190.0,1,2040.0
+KS-PROD-0318,Bamboo & Cane Craft,Seagrass,Coiled Bamboo Weaving,Masterpiece,490.0,780.0,90.0,60.0,1420.0,2180.0,2290.0,9,1880.0
+KS-PROD-0319,Woodcraft & Carvings,Sandalwood,Chisel Carving,Fine Heritage,290.0,620.0,130.0,80.0,1120.0,1760.0,1630.0,3,1430.0
+KS-PROD-0320,Handloom & Sarees,Mulberry Silk,Zari Booti Work,Standard,2810.0,1850.0,210.0,100.0,4970.0,7360.0,7330.0,5,6270.0
+KS-PROD-0321,Handloom & Sarees,Khadi,Pit Loom Weaving,Masterpiece,3680.0,5930.0,90.0,180.0,9880.0,15960.0,15310.0,9,13000.0
+KS-PROD-0322,Jewellery & Brassware,Copper Alloy,Lost-Wax Dokra Casting,Standard,1170.0,1520.0,150.0,140.0,2980.0,4820.0,4480.0,8,3870.0
+KS-PROD-0323,Woodcraft & Carvings,Sheesham Wood,Jaali Latticework,Fine Heritage,700.0,520.0,110.0,30.0,1360.0,1960.0,1850.0,5,1650.0
+KS-PROD-0324,Woodcraft & Carvings,Rosewood,Chisel Carving,Standard,550.0,850.0,90.0,100.0,1590.0,2270.0,2230.0,7,1950.0
+KS-PROD-0325,Textiles & Embroidery,Tussar Silk,Block Printing,Masterpiece,270.0,700.0,70.0,30.0,1070.0,1450.0,1550.0,6,1310.0
+KS-PROD-0326,Jewellery & Brassware,Dokra Bronze,Lost-Wax Dokra Casting,Standard,1610.0,1800.0,200.0,140.0,3750.0,5820.0,5580.0,6,4800.0
+KS-PROD-0327,Woodcraft & Carvings,Sandalwood,Jaali Latticework,Fine Heritage,800.0,510.0,140.0,90.0,1540.0,1860.0,1770.0,1,1770.0
+KS-PROD-0328,Woodcraft & Carvings,Teak Wood,Wood Turning,Standard,530.0,410.0,90.0,80.0,1110.0,1370.0,1320.0,1,1280.0
+KS-PROD-0329,Pottery & Terracotta,Clay,Blue Pottery Glazing,Standard,570.0,270.0,120.0,60.0,1020.0,1420.0,1470.0,7,1260.0
+KS-PROD-0330,Woodcraft & Carvings,Teak Wood,Wood Turning,Masterpiece,870.0,830.0,120.0,80.0,1900.0,2950.0,2820.0,5,2430.0
+KS-PROD-0331,Home Decor & Brassware,Pure Brass,Sand Casting,Fine Heritage,180.0,250.0,40.0,30.0,500.0,840.0,770.0,5,660.0
+KS-PROD-0332,Textiles & Embroidery,Wool,Block Printing,Standard,120.0,370.0,40.0,80.0,610.0,800.0,870.0,6,740.0
+KS-PROD-0333,Handloom & Sarees,Silk Cotton,Jacquard Weaving,Masterpiece,3310.0,5960.0,210.0,60.0,9540.0,13660.0,13190.0,2,11640.0
+KS-PROD-0334,Bags & Accessories,Embroidered Silk,Hand Braiding,Fine Heritage,150.0,640.0,90.0,70.0,950.0,1480.0,1520.0,6,1260.0
+KS-PROD-0335,Handloom & Sarees,Silk Cotton,Pit Loom Weaving,Standard,3100.0,2960.0,110.0,100.0,6270.0,10790.0,11140.0,8,8880.0
+KS-PROD-0336,Handloom & Sarees,Chanderi Cotton,Zari Booti Work,Standard,1110.0,2140.0,160.0,180.0,3590.0,6420.0,6190.0,8,5070.0
+KS-PROD-0337,Woodcraft & Carvings,Sheesham Wood,Chisel Carving,Masterpiece,960.0,1830.0,130.0,40.0,2960.0,5240.0,5130.0,10,4180.0
+KS-PROD-0338,Bags & Accessories,Cotton Canvas,Hand Braiding,Fine Heritage,430.0,670.0,90.0,60.0,1250.0,1670.0,1660.0,3,1480.0
+KS-PROD-0339,Home Decor & Brassware,Bell Metal,Sand Casting,Standard,200.0,290.0,80.0,60.0,630.0,1100.0,1150.0,10,910.0
+KS-PROD-0340,Textiles & Embroidery,Tussar Silk,Block Printing,Masterpiece,610.0,570.0,80.0,60.0,1320.0,1920.0,1880.0,3,1640.0
+KS-PROD-0341,Pottery & Terracotta,Clay,Blue Pottery Glazing,Standard,480.0,700.0,100.0,40.0,1320.0,2020.0,2060.0,8,1720.0
+KS-PROD-0342,Jewellery & Brassware,Cast Brass,Filigree,Standard,2290.0,2070.0,220.0,60.0,4640.0,8020.0,8010.0,8,6500.0
+KS-PROD-0343,Bags & Accessories,Burlap,Hand Braiding,Standard,490.0,490.0,30.0,40.0,1050.0,1190.0,1290.0,1,1210.0
+KS-PROD-0344,Handloom & Sarees,Chanderi Cotton,Jacquard Weaving,Masterpiece,2110.0,4620.0,240.0,100.0,7070.0,9840.0,9180.0,1,8360.0
+KS-PROD-0345,Textiles & Embroidery,Wool,Chikankari Stitching,Masterpiece,380.0,550.0,40.0,60.0,1030.0,1290.0,1210.0,1,1180.0
+KS-PROD-0346,Jewellery & Brassware,Silver Filigree,Filigree,Standard,920.0,1410.0,100.0,160.0,2590.0,3840.0,3730.0,7,3240.0
+KS-PROD-0347,Bamboo & Cane Craft,Wild Bamboo,Split Cane Weaving,Standard,280.0,500.0,80.0,30.0,890.0,1300.0,1260.0,7,1100.0
+KS-PROD-0348,Handloom & Sarees,Khadi,Zari Booti Work,Masterpiece,3710.0,3820.0,240.0,50.0,7820.0,9610.0,9630.0,1,8990.0
+KS-PROD-0349,Bags & Accessories,Cotton Canvas,Jute Stitching,Masterpiece,660.0,300.0,80.0,60.0,1100.0,1640.0,1660.0,6,1400.0
+KS-PROD-0350,Bamboo & Cane Craft,Seagrass,Split Cane Weaving,Fine Heritage,610.0,440.0,40.0,40.0,1130.0,1900.0,1820.0,9,1530.0
+KS-PROD-0351,Textiles & Embroidery,Organic Cotton,Kantha Needlework,Standard,350.0,280.0,50.0,60.0,740.0,1030.0,990.0,3,890.0
+KS-PROD-0352,Textiles & Embroidery,Tussar Silk,Block Printing,Masterpiece,450.0,630.0,80.0,50.0,1210.0,2090.0,1950.0,9,1640.0
+KS-PROD-0353,Pottery & Terracotta,Clay,Wheel Pottery,Fine Heritage,310.0,1110.0,70.0,80.0,1570.0,2400.0,2300.0,3,1990.0
+KS-PROD-0354,Woodcraft & Carvings,Sheesham Wood,Wood Turning,Fine Heritage,350.0,960.0,90.0,60.0,1460.0,2870.0,2730.0,10,2190.0
+KS-PROD-0355,Bamboo & Cane Craft,Rattan,Coiled Bamboo Weaving,Masterpiece,640.0,790.0,50.0,60.0,1540.0,2580.0,2360.0,7,2040.0
+KS-PROD-0356,Textiles & Embroidery,Tussar Silk,Kantha Needlework,Masterpiece,310.0,670.0,80.0,70.0,1130.0,1790.0,1710.0,4,1460.0
+KS-PROD-0357,Textiles & Embroidery,Organic Cotton,Chikankari Stitching,Standard,220.0,230.0,80.0,30.0,560.0,730.0,780.0,3,670.0
+KS-PROD-0358,Pottery & Terracotta,Stoneware,Terracotta Modelling,Masterpiece,500.0,620.0,130.0,30.0,1280.0,2060.0,2170.0,8,1750.0
+KS-PROD-0359,Woodcraft & Carvings,Sandalwood,Wood Turning,Standard,650.0,840.0,130.0,50.0,1670.0,2740.0,2940.0,10,2330.0
+KS-PROD-0360,Textiles & Embroidery,Organic Cotton,Kantha Needlework,Masterpiece,200.0,580.0,60.0,50.0,890.0,1190.0,1100.0,2,1020.0
+KS-PROD-0361,Textiles & Embroidery,Linen,Block Printing,Fine Heritage,230.0,610.0,70.0,80.0,990.0,1090.0,1110.0,1,1140.0
+KS-PROD-0362,Bamboo & Cane Craft,Golden Cane,Coiled Bamboo Weaving,Masterpiece,700.0,500.0,90.0,30.0,1320.0,1870.0,1930.0,5,1640.0
+KS-PROD-0363,Textiles & Embroidery,Wool,Block Printing,Standard,220.0,440.0,50.0,20.0,730.0,950.0,870.0,2,840.0
+KS-PROD-0364,Pottery & Terracotta,Clay,Wheel Pottery,Masterpiece,870.0,700.0,120.0,90.0,1780.0,2620.0,2500.0,4,2200.0
+KS-PROD-0365,Home Decor & Brassware,Pure Brass,Sand Casting,Standard,280.0,300.0,40.0,20.0,640.0,960.0,940.0,5,810.0
+KS-PROD-0366,Bamboo & Cane Craft,Seagrass,Split Cane Weaving,Fine Heritage,350.0,420.0,50.0,40.0,860.0,1150.0,1110.0,2,1010.0
+KS-PROD-0367,Handloom & Sarees,Silk Cotton,Jacquard Weaving,Standard,1770.0,2460.0,130.0,150.0,4510.0,7590.0,7180.0,10,6060.0
+KS-PROD-0368,Bags & Accessories,Burlap,Hand Braiding,Masterpiece,170.0,340.0,50.0,60.0,620.0,1030.0,1000.0,9,840.0
+KS-PROD-0369,Jewellery & Brassware,Silver Filigree,Lost-Wax Dokra Casting,Masterpiece,4900.0,2070.0,90.0,140.0,7200.0,12390.0,11360.0,7,9690.0
+KS-PROD-0370,Jewellery & Brassware,Dokra Bronze,Filigree,Masterpiece,5020.0,3050.0,150.0,150.0,8370.0,12430.0,13040.0,9,10820.0
+KS-PROD-0371,Jewellery & Brassware,Dokra Bronze,Lost-Wax Dokra Casting,Standard,2610.0,2660.0,90.0,160.0,5520.0,9380.0,9210.0,9,7580.0
+KS-PROD-0372,Jewellery & Brassware,Cast Brass,Hand Engraving,Standard,1330.0,2700.0,240.0,100.0,4370.0,5760.0,5580.0,4,5070.0
+KS-PROD-0373,Bamboo & Cane Craft,Seagrass,Split Cane Weaving,Fine Heritage,290.0,560.0,80.0,30.0,960.0,1580.0,1620.0,10,1320.0
+KS-PROD-0374,Home Decor & Brassware,Terracotta,Sand Casting,Fine Heritage,250.0,310.0,80.0,50.0,690.0,1010.0,960.0,6,850.0
+KS-PROD-0375,Bags & Accessories,Burlap,Hand Braiding,Fine Heritage,510.0,460.0,40.0,60.0,1070.0,1570.0,1460.0,2,1310.0
+KS-PROD-0376,Woodcraft & Carvings,Teak Wood,Jaali Latticework,Masterpiece,1130.0,500.0,60.0,30.0,1720.0,3170.0,2970.0,9,2450.0
+KS-PROD-0377,Home Decor & Brassware,Terracotta,Sand Casting,Masterpiece,320.0,860.0,70.0,60.0,1310.0,1630.0,1700.0,3,1510.0
+KS-PROD-0378,Jewellery & Brassware,Dokra Bronze,Hand Engraving,Masterpiece,3380.0,3300.0,170.0,150.0,7000.0,13350.0,12640.0,10,10240.0
+KS-PROD-0379,Woodcraft & Carvings,Rosewood,Chisel Carving,Standard,520.0,790.0,140.0,40.0,1490.0,2450.0,2640.0,8,2080.0
+KS-PROD-0380,Bags & Accessories,Cotton Canvas,Jute Stitching,Fine Heritage,310.0,210.0,40.0,70.0,630.0,1010.0,930.0,6,810.0
+KS-PROD-0381,Pottery & Terracotta,Clay,Blue Pottery Glazing,Fine Heritage,270.0,1460.0,110.0,50.0,1890.0,2850.0,2790.0,5,2400.0
+KS-PROD-0382,Home Decor & Brassware,Bell Metal,Beaten Metal Hammering,Masterpiece,560.0,820.0,70.0,40.0,1490.0,2050.0,2080.0,4,1810.0
+KS-PROD-0383,Textiles & Embroidery,Wool,Block Printing,Masterpiece,160.0,850.0,60.0,30.0,1100.0,1830.0,1910.0,9,1530.0
+KS-PROD-0384,Woodcraft & Carvings,Teak Wood,Jaali Latticework,Masterpiece,960.0,560.0,70.0,90.0,1680.0,2150.0,2140.0,2,1940.0
+KS-PROD-0385,Bamboo & Cane Craft,Golden Cane,Split Cane Weaving,Standard,200.0,210.0,70.0,30.0,510.0,800.0,780.0,9,660.0
+KS-PROD-0386,Pottery & Terracotta,Terracotta,Terracotta Modelling,Standard,490.0,640.0,150.0,70.0,1350.0,2050.0,2140.0,5,1770.0
+KS-PROD-0387,Bags & Accessories,Burlap,Jute Stitching,Standard,430.0,420.0,90.0,70.0,1010.0,1400.0,1380.0,3,1220.0
+KS-PROD-0388,Woodcraft & Carvings,Sandalwood,Jaali Latticework,Masterpiece,830.0,730.0,90.0,40.0,1690.0,2560.0,2360.0,4,2100.0
+KS-PROD-0389,Home Decor & Brassware,Terracotta,Sand Casting,Standard,290.0,430.0,30.0,70.0,820.0,1360.0,1450.0,9,1150.0
+KS-PROD-0390,Woodcraft & Carvings,Sheesham Wood,Wood Turning,Masterpiece,670.0,1010.0,140.0,80.0,1900.0,2990.0,2810.0,7,2440.0
+KS-PROD-0391,Home Decor & Brassware,Wrought Iron,Sand Casting,Fine Heritage,190.0,460.0,50.0,70.0,770.0,1160.0,1140.0,5,980.0
+KS-PROD-0392,Jewellery & Brassware,Dokra Bronze,Lost-Wax Dokra Casting,Masterpiece,4350.0,1430.0,170.0,130.0,6080.0,10260.0,9830.0,7,8230.0
+KS-PROD-0393,Textiles & Embroidery,Wool,Block Printing,Standard,160.0,440.0,50.0,70.0,720.0,1170.0,1140.0,7,960.0
+KS-PROD-0394,Home Decor & Brassware,Terracotta,Beaten Metal Hammering,Masterpiece,640.0,570.0,60.0,50.0,1320.0,2160.0,2110.0,5,1760.0
+KS-PROD-0395,Home Decor & Brassware,Terracotta,Sand Casting,Masterpiece,300.0,780.0,100.0,30.0,1210.0,1950.0,1990.0,9,1630.0
+KS-PROD-0396,Pottery & Terracotta,Terracotta,Terracotta Modelling,Masterpiece,240.0,520.0,60.0,90.0,910.0,1260.0,1300.0,7,1120.0
+KS-PROD-0397,Textiles & Embroidery,Tussar Silk,Chikankari Stitching,Standard,390.0,570.0,60.0,60.0,1080.0,1670.0,1630.0,5,1390.0
+KS-PROD-0398,Woodcraft & Carvings,Rosewood,Jaali Latticework,Standard,280.0,870.0,130.0,50.0,1330.0,1740.0,1720.0,1,1550.0
+KS-PROD-0399,Bamboo & Cane Craft,Golden Cane,Coiled Bamboo Weaving,Fine Heritage,240.0,190.0,40.0,80.0,550.0,830.0,840.0,7,710.0
+KS-PROD-0400,Bamboo & Cane Craft,Wild Bamboo,Coiled Bamboo Weaving,Standard,320.0,480.0,70.0,50.0,920.0,1470.0,1520.0,6,1240.0
+KS-PROD-0401,Bamboo & Cane Craft,Rattan,Split Cane Weaving,Masterpiece,160.0,350.0,70.0,50.0,630.0,1100.0,1010.0,9,860.0
+KS-PROD-0402,Jewellery & Brassware,Silver Filigree,Filigree,Fine Heritage,4260.0,3310.0,210.0,160.0,7940.0,14470.0,13380.0,8,11150.0
+KS-PROD-0403,Pottery & Terracotta,Stoneware,Wheel Pottery,Fine Heritage,240.0,1060.0,150.0,80.0,1530.0,2250.0,2260.0,4,1930.0
+KS-PROD-0404,Textiles & Embroidery,Tussar Silk,Chikankari Stitching,Fine Heritage,250.0,240.0,80.0,70.0,640.0,790.0,830.0,2,740.0
+KS-PROD-0405,Textiles & Embroidery,Linen,Kantha Needlework,Masterpiece,320.0,890.0,80.0,70.0,1360.0,2230.0,2320.0,8,1870.0
+KS-PROD-0406,Bamboo & Cane Craft,Seagrass,Coiled Bamboo Weaving,Standard,180.0,260.0,70.0,30.0,540.0,590.0,630.0,2,620.0
+KS-PROD-0407,Bags & Accessories,Golden Jute,Jute Stitching,Fine Heritage,310.0,360.0,90.0,70.0,830.0,1560.0,1550.0,10,1230.0
+KS-PROD-0408,Jewellery & Brassware,Copper Alloy,Lost-Wax Dokra Casting,Masterpiece,1780.0,3920.0,150.0,190.0,6040.0,7290.0,7360.0,1,6950.0
+KS-PROD-0409,Woodcraft & Carvings,Rosewood,Chisel Carving,Masterpiece,750.0,850.0,50.0,80.0,1730.0,2690.0,2750.0,7,2280.0
+KS-PROD-0410,Jewellery & Brassware,Dokra Bronze,Filigree,Fine Heritage,1800.0,2950.0,180.0,100.0,5030.0,8000.0,8040.0,8,6680.0
+KS-PROD-0411,Textiles & Embroidery,Linen,Block Printing,Fine Heritage,350.0,510.0,100.0,60.0,1020.0,1450.0,1360.0,2,1220.0
+KS-PROD-0412,Home Decor & Brassware,Bell Metal,Sand Casting,Standard,420.0,480.0,60.0,20.0,980.0,1680.0,1530.0,7,1310.0
+KS-PROD-0413,Textiles & Embroidery,Wool,Block Printing,Fine Heritage,410.0,510.0,60.0,60.0,1040.0,1150.0,1190.0,1,1200.0
+KS-PROD-0414,Handloom & Sarees,Khadi,Jacquard Weaving,Fine Heritage,1880.0,2520.0,170.0,170.0,4740.0,6070.0,6440.0,6,5600.0
+KS-PROD-0415,Bamboo & Cane Craft,Golden Cane,Split Cane Weaving,Fine Heritage,290.0,470.0,80.0,50.0,890.0,1080.0,1110.0,2,1020.0
+KS-PROD-0416,Woodcraft & Carvings,Teak Wood,Wood Turning,Fine Heritage,530.0,1040.0,90.0,90.0,1750.0,2000.0,2080.0,2,2010.0
+KS-PROD-0417,Textiles & Embroidery,Linen,Chikankari Stitching,Fine Heritage,430.0,410.0,90.0,70.0,1000.0,1610.0,1590.0,6,1330.0
+KS-PROD-0418,Bags & Accessories,Burlap,Jute Stitching,Standard,440.0,210.0,50.0,40.0,740.0,880.0,890.0,2,850.0
+KS-PROD-0419,Handloom & Sarees,Silk Cotton,Zari Booti Work,Masterpiece,1470.0,5100.0,170.0,200.0,6940.0,7980.0,8420.0,2,7980.0
+KS-PROD-0420,Home Decor & Brassware,Wrought Iron,Sand Casting,Standard,400.0,350.0,40.0,50.0,840.0,1050.0,1010.0,3,970.0
+KS-PROD-0421,Textiles & Embroidery,Wool,Block Printing,Masterpiece,730.0,620.0,40.0,80.0,1470.0,2370.0,2310.0,9,1940.0
+KS-PROD-0422,Home Decor & Brassware,Wrought Iron,Beaten Metal Hammering,Fine Heritage,390.0,640.0,60.0,40.0,1130.0,1400.0,1520.0,5,1320.0
+KS-PROD-0423,Woodcraft & Carvings,Sandalwood,Jaali Latticework,Fine Heritage,620.0,1130.0,100.0,80.0,1930.0,2500.0,2510.0,5,2250.0
+KS-PROD-0424,Jewellery & Brassware,Dokra Bronze,Lost-Wax Dokra Casting,Masterpiece,2800.0,3370.0,180.0,110.0,6460.0,9330.0,9000.0,3,7920.0
+KS-PROD-0425,Home Decor & Brassware,Terracotta,Beaten Metal Hammering,Standard,270.0,260.0,80.0,70.0,680.0,990.0,940.0,5,830.0
+KS-PROD-0426,Jewellery & Brassware,Copper Alloy,Lost-Wax Dokra Casting,Standard,1290.0,1800.0,190.0,140.0,3420.0,5200.0,5160.0,5,4380.0
+KS-PROD-0427,Textiles & Embroidery,Tussar Silk,Kantha Needlework,Standard,490.0,160.0,100.0,40.0,790.0,1160.0,1100.0,3,970.0
+KS-PROD-0428,Bamboo & Cane Craft,Wild Bamboo,Coiled Bamboo Weaving,Standard,300.0,300.0,50.0,70.0,720.0,1150.0,1080.0,6,930.0
+KS-PROD-0429,Textiles & Embroidery,Tussar Silk,Kantha Needlework,Standard,210.0,330.0,70.0,30.0,640.0,1060.0,990.0,5,850.0
+KS-PROD-0430,Handloom & Sarees,Mulberry Silk,Zari Booti Work,Fine Heritage,1830.0,4980.0,110.0,160.0,7080.0,9950.0,9070.0,2,8350.0
+KS-PROD-0431,Bags & Accessories,Burlap,Hand Braiding,Fine Heritage,200.0,600.0,80.0,50.0,930.0,1170.0,1130.0,2,1070.0
+KS-PROD-0432,Bamboo & Cane Craft,Seagrass,Coiled Bamboo Weaving,Masterpiece,290.0,310.0,70.0,40.0,710.0,1030.0,1000.0,3,880.0
+KS-PROD-0433,Home Decor & Brassware,Terracotta,Sand Casting,Standard,330.0,460.0,80.0,30.0,900.0,1100.0,1090.0,2,1040.0
+KS-PROD-0434,Textiles & Embroidery,Tussar Silk,Kantha Needlework,Fine Heritage,450.0,580.0,90.0,30.0,1150.0,1570.0,1540.0,4,1370.0
+KS-PROD-0435,Textiles & Embroidery,Wool,Chikankari Stitching,Standard,110.0,320.0,80.0,40.0,550.0,670.0,670.0,1,630.0
+KS-PROD-0436,Jewellery & Brassware,Copper Alloy,Lost-Wax Dokra Casting,Masterpiece,2020.0,3070.0,200.0,90.0,5380.0,10360.0,10160.0,10,8050.0
+KS-PROD-0437,Handloom & Sarees,Mulberry Silk,Zari Booti Work,Fine Heritage,3770.0,3220.0,160.0,170.0,7320.0,11440.0,12000.0,9,9780.0
+KS-PROD-0438,Pottery & Terracotta,Quartz Paste,Blue Pottery Glazing,Standard,360.0,310.0,150.0,90.0,910.0,1280.0,1270.0,4,1110.0
+KS-PROD-0439,Woodcraft & Carvings,Sandalwood,Jaali Latticework,Fine Heritage,710.0,440.0,100.0,30.0,1280.0,1470.0,1590.0,3,1470.0
+KS-PROD-0440,Handloom & Sarees,Khadi,Pit Loom Weaving,Standard,890.0,2890.0,150.0,120.0,4050.0,7090.0,7340.0,10,5810.0
+KS-PROD-0441,Textiles & Embroidery,Organic Cotton,Chikankari Stitching,Masterpiece,200.0,880.0,40.0,50.0,1170.0,1530.0,1480.0,2,1350.0
+KS-PROD-0442,Textiles & Embroidery,Wool,Block Printing,Masterpiece,190.0,660.0,70.0,60.0,980.0,1250.0,1300.0,5,1150.0
+KS-PROD-0443,Handloom & Sarees,Silk Cotton,Jacquard Weaving,Standard,2240.0,1490.0,170.0,90.0,3990.0,5500.0,5390.0,3,4780.0
+KS-PROD-0444,Handloom & Sarees,Chanderi Cotton,Jacquard Weaving,Fine Heritage,3370.0,2780.0,100.0,170.0,6420.0,10380.0,10580.0,9,8670.0
+KS-PROD-0445,Woodcraft & Carvings,Rosewood,Jaali Latticework,Fine Heritage,630.0,1500.0,130.0,60.0,2320.0,3800.0,3880.0,7,3160.0
+KS-PROD-0446,Bamboo & Cane Craft,Golden Cane,Split Cane Weaving,Masterpiece,730.0,410.0,100.0,50.0,1290.0,1680.0,1810.0,7,1550.0
+KS-PROD-0447,Jewellery & Brassware,Cast Brass,Filigree,Standard,3480.0,1840.0,130.0,80.0,5530.0,8020.0,7510.0,6,6720.0
+KS-PROD-0448,Jewellery & Brassware,Dokra Bronze,Lost-Wax Dokra Casting,Standard,2040.0,1380.0,130.0,180.0,3730.0,5230.0,4910.0,4,4440.0
+KS-PROD-0449,Handloom & Sarees,Khadi,Jacquard Weaving,Standard,2780.0,3140.0,210.0,80.0,6210.0,10800.0,11520.0,10,8990.0
+KS-PROD-0450,Jewellery & Brassware,Cast Brass,Filigree,Masterpiece,2840.0,5140.0,240.0,100.0,8320.0,13780.0,12800.0,7,10980.0
+KS-PROD-0451,Bamboo & Cane Craft,Wild Bamboo,Split Cane Weaving,Standard,220.0,170.0,70.0,30.0,490.0,810.0,860.0,9,680.0
+KS-PROD-0452,Home Decor & Brassware,Bell Metal,Sand Casting,Standard,270.0,500.0,40.0,40.0,850.0,1300.0,1400.0,8,1130.0
+KS-PROD-0453,Home Decor & Brassware,Wrought Iron,Sand Casting,Fine Heritage,380.0,620.0,40.0,30.0,1070.0,1680.0,1690.0,9,1410.0
+KS-PROD-0454,Bamboo & Cane Craft,Golden Cane,Coiled Bamboo Weaving,Standard,210.0,340.0,80.0,50.0,680.0,900.0,900.0,2,800.0
+KS-PROD-0455,Textiles & Embroidery,Organic Cotton,Block Printing,Fine Heritage,420.0,200.0,50.0,80.0,750.0,1480.0,1390.0,10,1120.0
+KS-PROD-0456,Woodcraft & Carvings,Rosewood,Chisel Carving,Standard,280.0,610.0,130.0,90.0,1110.0,1440.0,1490.0,2,1310.0
+KS-PROD-0457,Woodcraft & Carvings,Sandalwood,Chisel Carving,Fine Heritage,750.0,440.0,100.0,30.0,1320.0,1850.0,1930.0,4,1640.0
+KS-PROD-0458,Jewellery & Brassware,Copper Alloy,Filigree,Masterpiece,5390.0,4730.0,190.0,110.0,10420.0,15090.0,15870.0,9,13260.0
+KS-PROD-0459,Jewellery & Brassware,Dokra Bronze,Filigree,Masterpiece,2380.0,3630.0,240.0,60.0,6310.0,10260.0,9460.0,5,8200.0
+KS-PROD-0460,Textiles & Embroidery,Tussar Silk,Kantha Needlework,Fine Heritage,560.0,550.0,50.0,40.0,1200.0,1670.0,1660.0,2,1460.0
+KS-PROD-0461,Handloom & Sarees,Mulberry Silk,Pit Loom Weaving,Masterpiece,5290.0,4090.0,200.0,60.0,9640.0,15690.0,15560.0,9,12920.0
+KS-PROD-0462,Woodcraft & Carvings,Sheesham Wood,Jaali Latticework,Masterpiece,590.0,1310.0,70.0,100.0,2070.0,3090.0,3320.0,9,2710.0
+KS-PROD-0463,Jewellery & Brassware,Copper Alloy,Lost-Wax Dokra Casting,Masterpiece,5210.0,2480.0,140.0,110.0,7940.0,9580.0,9690.0,3,9130.0
+KS-PROD-0464,Bamboo & Cane Craft,Rattan,Coiled Bamboo Weaving,Masterpiece,250.0,910.0,90.0,40.0,1290.0,2070.0,2000.0,9,1690.0
+KS-PROD-0465,Bamboo & Cane Craft,Golden Cane,Split Cane Weaving,Masterpiece,590.0,600.0,40.0,80.0,1310.0,1840.0,1800.0,3,1590.0
+KS-PROD-0466,Woodcraft & Carvings,Sandalwood,Chisel Carving,Masterpiece,770.0,1450.0,70.0,90.0,2380.0,3510.0,3320.0,3,2940.0
+KS-PROD-0467,Home Decor & Brassware,Bell Metal,Beaten Metal Hammering,Fine Heritage,500.0,650.0,70.0,60.0,1280.0,1700.0,1810.0,3,1550.0
+KS-PROD-0468,Woodcraft & Carvings,Sheesham Wood,Wood Turning,Masterpiece,500.0,1220.0,70.0,50.0,1840.0,2280.0,2180.0,1,2120.0
+KS-PROD-0469,Bags & Accessories,Cotton Canvas,Hand Braiding,Masterpiece,560.0,360.0,60.0,50.0,1030.0,1190.0,1290.0,3,1180.0
+KS-PROD-0470,Pottery & Terracotta,Quartz Paste,Terracotta Modelling,Standard,630.0,1190.0,130.0,30.0,1980.0,3490.0,3460.0,8,2800.0
+KS-PROD-0471,Textiles & Embroidery,Wool,Kantha Needlework,Fine Heritage,330.0,210.0,80.0,40.0,660.0,1060.0,970.0,6,850.0
+KS-PROD-0472,Pottery & Terracotta,Clay,Terracotta Modelling,Fine Heritage,860.0,360.0,150.0,70.0,1440.0,2300.0,2480.0,7,1980.0
+KS-PROD-0473,Home Decor & Brassware,Pure Brass,Sand Casting,Fine Heritage,340.0,680.0,80.0,40.0,1140.0,1550.0,1500.0,3,1350.0
+KS-PROD-0474,Pottery & Terracotta,Terracotta,Terracotta Modelling,Masterpiece,690.0,1450.0,60.0,80.0,2280.0,3530.0,3550.0,9,2970.0
+KS-PROD-0475,Bags & Accessories,Golden Jute,Jute Stitching,Fine Heritage,420.0,590.0,40.0,50.0,1100.0,1600.0,1540.0,5,1350.0
+KS-PROD-0476,Woodcraft & Carvings,Sheesham Wood,Chisel Carving,Standard,610.0,850.0,60.0,80.0,1600.0,2610.0,2750.0,9,2200.0
+KS-PROD-0477,Home Decor & Brassware,Pure Brass,Sand Casting,Fine Heritage,410.0,560.0,40.0,70.0,1080.0,1410.0,1520.0,3,1300.0
+KS-PROD-0478,Jewellery & Brassware,Silver Filigree,Filigree,Fine Heritage,1970.0,1830.0,230.0,190.0,4220.0,5090.0,5270.0,1,4850.0
+KS-PROD-0479,Bags & Accessories,Burlap,Hand Braiding,Masterpiece,660.0,660.0,60.0,30.0,1410.0,2270.0,2270.0,8,1880.0
+KS-PROD-0480,Pottery & Terracotta,Terracotta,Blue Pottery Glazing,Fine Heritage,690.0,970.0,130.0,30.0,1820.0,2160.0,2200.0,3,2090.0
+KS-PROD-0481,Woodcraft & Carvings,Sheesham Wood,Wood Turning,Masterpiece,1080.0,830.0,140.0,30.0,2080.0,3410.0,3590.0,7,2870.0
+KS-PROD-0482,Jewellery & Brassware,Dokra Bronze,Hand Engraving,Masterpiece,3660.0,5870.0,100.0,90.0,9720.0,16930.0,15860.0,6,13310.0
+KS-PROD-0483,Home Decor & Brassware,Pure Brass,Beaten Metal Hammering,Fine Heritage,190.0,580.0,50.0,50.0,870.0,1320.0,1380.0,9,1140.0
+KS-PROD-0484,Pottery & Terracotta,Clay,Blue Pottery Glazing,Masterpiece,1220.0,1170.0,60.0,80.0,2530.0,5270.0,4800.0,10,3870.0
+KS-PROD-0485,Jewellery & Brassware,Copper Alloy,Filigree,Fine Heritage,1880.0,3350.0,190.0,190.0,5610.0,10020.0,9890.0,10,7990.0
+KS-PROD-0486,Bags & Accessories,Burlap,Jute Stitching,Masterpiece,300.0,440.0,40.0,30.0,810.0,1270.0,1350.0,8,1090.0
+KS-PROD-0487,Bamboo & Cane Craft,Rattan,Split Cane Weaving,Standard,230.0,400.0,70.0,20.0,720.0,1000.0,1040.0,4,890.0
+KS-PROD-0488,Handloom & Sarees,Chanderi Cotton,Zari Booti Work,Masterpiece,3540.0,5080.0,100.0,100.0,8820.0,14900.0,14450.0,7,12010.0
+KS-PROD-0489,Pottery & Terracotta,Terracotta,Wheel Pottery,Fine Heritage,860.0,1410.0,100.0,60.0,2430.0,3070.0,3050.0,1,2790.0
+KS-PROD-0490,Bags & Accessories,Embroidered Silk,Hand Braiding,Fine Heritage,590.0,220.0,70.0,50.0,930.0,1310.0,1420.0,6,1180.0
+KS-PROD-0491,Textiles & Embroidery,Linen,Kantha Needlework,Standard,210.0,160.0,100.0,60.0,530.0,710.0,720.0,3,630.0
+KS-PROD-0492,Handloom & Sarees,Chanderi Cotton,Jacquard Weaving,Fine Heritage,3400.0,2180.0,90.0,180.0,5850.0,9530.0,8730.0,6,7590.0
+KS-PROD-0493,Bamboo & Cane Craft,Seagrass,Coiled Bamboo Weaving,Standard,250.0,170.0,40.0,30.0,490.0,750.0,740.0,9,630.0
+KS-PROD-0494,Woodcraft & Carvings,Teak Wood,Jaali Latticework,Fine Heritage,780.0,930.0,130.0,40.0,1880.0,2790.0,2560.0,2,2300.0
+KS-PROD-0495,Woodcraft & Carvings,Teak Wood,Wood Turning,Standard,450.0,930.0,100.0,30.0,1510.0,1960.0,1910.0,1,1740.0
+KS-PROD-0496,Handloom & Sarees,Chanderi Cotton,Zari Booti Work,Standard,1080.0,3280.0,210.0,50.0,4620.0,6600.0,6890.0,5,5810.0
+KS-PROD-0497,Bamboo & Cane Craft,Golden Cane,Split Cane Weaving,Fine Heritage,390.0,620.0,80.0,40.0,1130.0,1330.0,1440.0,3,1300.0
+KS-PROD-0498,Handloom & Sarees,Mulberry Silk,Jacquard Weaving,Fine Heritage,2850.0,2180.0,240.0,170.0,5440.0,8370.0,8970.0,10,7260.0
+KS-PROD-0499,Textiles & Embroidery,Wool,Kantha Needlework,Standard,110.0,560.0,30.0,40.0,740.0,890.0,930.0,2,850.0
+KS-PROD-0500,Bags & Accessories,Embroidered Silk,Hand Braiding,Fine Heritage,530.0,590.0,80.0,50.0,1250.0,1930.0,2060.0,8,1670.0
+KS-PROD-0501,Bags & Accessories,Golden Jute,Hand Braiding,Fine Heritage,470.0,590.0,60.0,30.0,1150.0,1600.0,1480.0,4,1360.0
+KS-PROD-0502,Jewellery & Brassware,Silver Filigree,Hand Engraving,Standard,2690.0,2960.0,210.0,180.0,6040.0,9110.0,9780.0,8,7960.0
+KS-PROD-0503,Handloom & Sarees,Chanderi Cotton,Zari Booti Work,Fine Heritage,3850.0,2220.0,140.0,140.0,6350.0,10460.0,9800.0,9,8380.0
+KS-PROD-0504,Handloom & Sarees,Chanderi Cotton,Jacquard Weaving,Masterpiece,1540.0,2850.0,160.0,140.0,4690.0,6810.0,6690.0,4,5810.0
+KS-PROD-0505,Bags & Accessories,Burlap,Jute Stitching,Fine Heritage,230.0,580.0,60.0,80.0,950.0,1780.0,1750.0,10,1400.0
+KS-PROD-0506,Bamboo & Cane Craft,Golden Cane,Coiled Bamboo Weaving,Masterpiece,730.0,630.0,60.0,60.0,1480.0,2180.0,2320.0,8,1910.0
+KS-PROD-0507,Bags & Accessories,Cotton Canvas,Hand Braiding,Fine Heritage,160.0,250.0,90.0,70.0,570.0,890.0,860.0,7,740.0
+KS-PROD-0508,Pottery & Terracotta,Clay,Wheel Pottery,Standard,730.0,1110.0,110.0,30.0,1980.0,2730.0,2730.0,3,2390.0
+KS-PROD-0509,Jewellery & Brassware,Copper Alloy,Filigree,Masterpiece,3110.0,2380.0,230.0,90.0,5810.0,9960.0,9150.0,5,7810.0
+KS-PROD-0510,Textiles & Embroidery,Tussar Silk,Chikankari Stitching,Standard,340.0,380.0,90.0,70.0,880.0,1060.0,1040.0,1,1010.0
+KS-PROD-0511,Pottery & Terracotta,Clay,Blue Pottery Glazing,Masterpiece,1060.0,920.0,140.0,90.0,2210.0,3110.0,3030.0,4,2680.0
+KS-PROD-0512,Textiles & Embroidery,Wool,Block Printing,Fine Heritage,340.0,310.0,40.0,30.0,720.0,1280.0,1180.0,9,990.0
+KS-PROD-0513,Home Decor & Brassware,Terracotta,Beaten Metal Hammering,Masterpiece,230.0,240.0,80.0,30.0,580.0,1060.0,970.0,8,810.0
+KS-PROD-0514,Woodcraft & Carvings,Sheesham Wood,Chisel Carving,Masterpiece,1040.0,1650.0,140.0,80.0,2910.0,4680.0,4670.0,7,3880.0
+KS-PROD-0515,Home Decor & Brassware,Bell Metal,Beaten Metal Hammering,Fine Heritage,240.0,430.0,30.0,50.0,750.0,1060.0,1090.0,4,930.0
+KS-PROD-0516,Textiles & Embroidery,Tussar Silk,Kantha Needlework,Masterpiece,450.0,490.0,70.0,80.0,1090.0,1360.0,1290.0,2,1250.0
+KS-PROD-0517,Jewellery & Brassware,Copper Alloy,Filigree,Standard,2210.0,2790.0,120.0,140.0,5260.0,7090.0,6970.0,2,6220.0
+KS-PROD-0518,Jewellery & Brassware,Cast Brass,Hand Engraving,Masterpiece,4500.0,3650.0,170.0,120.0,8440.0,13680.0,12520.0,6,10920.0
+KS-PROD-0519,Jewellery & Brassware,Silver Filigree,Lost-Wax Dokra Casting,Standard,2680.0,2750.0,130.0,170.0,5730.0,7590.0,7550.0,5,6740.0
+KS-PROD-0520,Woodcraft & Carvings,Sheesham Wood,Wood Turning,Fine Heritage,840.0,1050.0,80.0,40.0,2010.0,3270.0,3080.0,9,2640.0
+KS-PROD-0521,Jewellery & Brassware,Dokra Bronze,Filigree,Fine Heritage,1930.0,2120.0,210.0,140.0,4400.0,8340.0,8030.0,10,6460.0
+KS-PROD-0522,Textiles & Embroidery,Organic Cotton,Block Printing,Masterpiece,300.0,360.0,70.0,20.0,750.0,1080.0,1050.0,2,920.0
+KS-PROD-0523,Woodcraft & Carvings,Rosewood,Jaali Latticework,Fine Heritage,380.0,840.0,110.0,40.0,1370.0,1820.0,1880.0,6,1640.0
+KS-PROD-0524,Handloom & Sarees,Silk Cotton,Pit Loom Weaving,Fine Heritage,2350.0,2290.0,210.0,160.0,5010.0,8300.0,7960.0,9,6700.0
+KS-PROD-0525,Home Decor & Brassware,Bell Metal,Beaten Metal Hammering,Standard,310.0,350.0,50.0,70.0,780.0,1390.0,1270.0,7,1070.0
+KS-PROD-0526,Pottery & Terracotta,Clay,Blue Pottery Glazing,Masterpiece,590.0,1630.0,110.0,80.0,2410.0,3270.0,3380.0,5,2920.0
+KS-PROD-0527,Handloom & Sarees,Chanderi Cotton,Jacquard Weaving,Masterpiece,2880.0,5110.0,210.0,160.0,8360.0,15570.0,15360.0,10,12250.0
+KS-PROD-0528,Woodcraft & Carvings,Sandalwood,Wood Turning,Standard,590.0,1040.0,50.0,40.0,1720.0,2240.0,2280.0,2,2020.0
+KS-PROD-0529,Jewellery & Brassware,Silver Filigree,Lost-Wax Dokra Casting,Standard,860.0,1190.0,240.0,150.0,2440.0,3840.0,3710.0,4,3160.0
+KS-PROD-0530,Handloom & Sarees,Silk Cotton,Jacquard Weaving,Standard,1820.0,3270.0,190.0,170.0,5450.0,8230.0,7870.0,3,6850.0
+KS-PROD-0531,Jewellery & Brassware,Silver Filigree,Hand Engraving,Masterpiece,5160.0,4460.0,240.0,90.0,9950.0,16850.0,16200.0,7,13520.0
+KS-PROD-0532,Textiles & Embroidery,Linen,Kantha Needlework,Standard,210.0,180.0,60.0,80.0,530.0,810.0,840.0,5,690.0
+KS-PROD-0533,Bags & Accessories,Golden Jute,Hand Braiding,Standard,340.0,230.0,60.0,30.0,660.0,1000.0,970.0,7,840.0
+KS-PROD-0534,Bags & Accessories,Embroidered Silk,Jute Stitching,Standard,130.0,410.0,50.0,50.0,640.0,990.0,960.0,8,820.0
+KS-PROD-0535,Pottery & Terracotta,Stoneware,Terracotta Modelling,Standard,610.0,1110.0,110.0,70.0,1900.0,3050.0,3070.0,8,2540.0
+KS-PROD-0536,Handloom & Sarees,Mulberry Silk,Pit Loom Weaving,Fine Heritage,4220.0,4290.0,160.0,140.0,8810.0,12500.0,12830.0,6,10960.0
+KS-PROD-0537,Pottery & Terracotta,Clay,Terracotta Modelling,Masterpiece,1090.0,890.0,130.0,80.0,2190.0,3110.0,3270.0,5,2750.0
+KS-PROD-0538,Pottery & Terracotta,Stoneware,Blue Pottery Glazing,Standard,340.0,620.0,60.0,80.0,1100.0,1690.0,1630.0,8,1400.0
+KS-PROD-0539,Bamboo & Cane Craft,Golden Cane,Coiled Bamboo Weaving,Standard,110.0,600.0,50.0,40.0,800.0,1400.0,1390.0,9,1130.0
+KS-PROD-0540,Bags & Accessories,Golden Jute,Jute Stitching,Fine Heritage,150.0,630.0,30.0,30.0,840.0,1460.0,1400.0,9,1160.0
+KS-PROD-0541,Woodcraft & Carvings,Teak Wood,Chisel Carving,Standard,630.0,710.0,50.0,90.0,1480.0,2440.0,2330.0,10,1970.0
+KS-PROD-0542,Woodcraft & Carvings,Sheesham Wood,Chisel Carving,Masterpiece,280.0,840.0,130.0,60.0,1310.0,1740.0,1870.0,3,1590.0
+KS-PROD-0543,Handloom & Sarees,Silk Cotton,Zari Booti Work,Masterpiece,4580.0,2450.0,220.0,110.0,7360.0,12170.0,11110.0,7,9630.0
+KS-PROD-0544,Woodcraft & Carvings,Sandalwood,Chisel Carving,Standard,540.0,570.0,60.0,40.0,1210.0,1740.0,1760.0,7,1510.0
+KS-PROD-0545,Woodcraft & Carvings,Rosewood,Chisel Carving,Masterpiece,270.0,530.0,130.0,70.0,1000.0,1210.0,1200.0,3,1150.0
+KS-PROD-0546,Pottery & Terracotta,Clay,Wheel Pottery,Standard,610.0,810.0,80.0,80.0,1580.0,2560.0,2670.0,8,2160.0
+KS-PROD-0547,Jewellery & Brassware,Copper Alloy,Hand Engraving,Standard,3330.0,2790.0,90.0,80.0,6290.0,9780.0,10450.0,8,8440.0
+KS-PROD-0548,Jewellery & Brassware,Silver Filigree,Hand Engraving,Standard,2310.0,1490.0,250.0,200.0,4250.0,7590.0,7180.0,10,5940.0
+KS-PROD-0549,Bamboo & Cane Craft,Rattan,Coiled Bamboo Weaving,Fine Heritage,150.0,250.0,40.0,70.0,510.0,790.0,830.0,8,680.0
+KS-PROD-0550,Pottery & Terracotta,Clay,Blue Pottery Glazing,Fine Heritage,420.0,830.0,80.0,90.0,1420.0,2200.0,2090.0,8,1810.0
+KS-PROD-0551,Woodcraft & Carvings,Teak Wood,Chisel Carving,Fine Heritage,610.0,400.0,70.0,60.0,1140.0,1830.0,1910.0,10,1550.0
+KS-PROD-0552,Textiles & Embroidery,Organic Cotton,Kantha Needlework,Fine Heritage,240.0,320.0,60.0,30.0,650.0,840.0,820.0,4,750.0
+KS-PROD-0553,Pottery & Terracotta,Stoneware,Wheel Pottery,Standard,750.0,680.0,90.0,40.0,1560.0,2440.0,2230.0,4,1970.0
+KS-PROD-0554,Bamboo & Cane Craft,Seagrass,Coiled Bamboo Weaving,Standard,380.0,180.0,40.0,70.0,670.0,1130.0,1070.0,8,900.0
+KS-PROD-0555,Bamboo & Cane Craft,Seagrass,Coiled Bamboo Weaving,Masterpiece,750.0,860.0,70.0,50.0,1730.0,2360.0,2200.0,4,2020.0
+KS-PROD-0556,Bags & Accessories,Cotton Canvas,Hand Braiding,Fine Heritage,260.0,600.0,80.0,30.0,970.0,1380.0,1440.0,6,1220.0
+KS-PROD-0557,Woodcraft & Carvings,Sheesham Wood,Jaali Latticework,Standard,180.0,700.0,130.0,30.0,1040.0,1820.0,1710.0,9,1430.0
+KS-PROD-0558,Handloom & Sarees,Khadi,Zari Booti Work,Standard,1020.0,3230.0,200.0,110.0,4560.0,5710.0,5870.0,4,5250.0
+KS-PROD-0559,Handloom & Sarees,Silk Cotton,Zari Booti Work,Masterpiece,2520.0,4770.0,230.0,160.0,7680.0,10320.0,10280.0,1,9120.0
+KS-PROD-0560,Woodcraft & Carvings,Rosewood,Chisel Carving,Fine Heritage,700.0,1150.0,50.0,70.0,1970.0,3270.0,3340.0,7,2710.0
+KS-PROD-0561,Pottery & Terracotta,Quartz Paste,Terracotta Modelling,Fine Heritage,750.0,1040.0,110.0,40.0,1940.0,2490.0,2540.0,2,2260.0
+KS-PROD-0562,Pottery & Terracotta,Quartz Paste,Wheel Pottery,Standard,400.0,690.0,50.0,60.0,1200.0,2140.0,2100.0,9,1700.0
+KS-PROD-0563,Bamboo & Cane Craft,Golden Cane,Split Cane Weaving,Standard,320.0,440.0,80.0,70.0,910.0,1410.0,1330.0,4,1160.0
+KS-PROD-0564,Textiles & Embroidery,Linen,Block Printing,Masterpiece,580.0,430.0,30.0,40.0,1080.0,1870.0,1750.0,8,1470.0
+KS-PROD-0565,Bags & Accessories,Embroidered Silk,Hand Braiding,Masterpiece,380.0,700.0,80.0,80.0,1240.0,1600.0,1480.0,2,1430.0
+KS-PROD-0566,Handloom & Sarees,Silk Cotton,Zari Booti Work,Standard,1580.0,3870.0,100.0,90.0,5640.0,8100.0,7520.0,3,6790.0
+KS-PROD-0567,Pottery & Terracotta,Quartz Paste,Terracotta Modelling,Masterpiece,780.0,580.0,80.0,60.0,1500.0,1630.0,1750.0,1,1720.0
+KS-PROD-0568,Bamboo & Cane Craft,Seagrass,Split Cane Weaving,Masterpiece,370.0,680.0,50.0,60.0,1160.0,2090.0,2090.0,9,1670.0
+KS-PROD-0569,Jewellery & Brassware,Dokra Bronze,Hand Engraving,Standard,2930.0,1600.0,140.0,90.0,4760.0,5220.0,5380.0,1,5470.0
+KS-PROD-0570,Woodcraft & Carvings,Teak Wood,Wood Turning,Masterpiece,520.0,1820.0,130.0,80.0,2550.0,2970.0,3160.0,3,2930.0
+KS-PROD-0571,Textiles & Embroidery,Organic Cotton,Block Printing,Fine Heritage,310.0,300.0,80.0,60.0,750.0,1050.0,1050.0,6,920.0
+KS-PROD-0572,Woodcraft & Carvings,Sandalwood,Chisel Carving,Standard,410.0,720.0,60.0,60.0,1250.0,1920.0,1750.0,6,1560.0
+KS-PROD-0573,Textiles & Embroidery,Linen,Block Printing,Fine Heritage,610.0,610.0,100.0,60.0,1380.0,2730.0,2510.0,10,2050.0
+KS-PROD-0574,Textiles & Embroidery,Tussar Silk,Chikankari Stitching,Fine Heritage,580.0,270.0,70.0,40.0,960.0,1480.0,1540.0,7,1270.0
+KS-PROD-0575,Textiles & Embroidery,Tussar Silk,Block Printing,Standard,340.0,240.0,70.0,70.0,720.0,920.0,980.0,5,850.0
+KS-PROD-0576,Bags & Accessories,Golden Jute,Hand Braiding,Standard,300.0,420.0,70.0,20.0,810.0,1260.0,1200.0,6,1040.0
+KS-PROD-0577,Home Decor & Brassware,Wrought Iron,Beaten Metal Hammering,Fine Heritage,130.0,380.0,50.0,50.0,610.0,990.0,940.0,9,800.0
+KS-PROD-0578,Bags & Accessories,Burlap,Hand Braiding,Fine Heritage,210.0,600.0,90.0,60.0,960.0,1430.0,1390.0,7,1200.0
+KS-PROD-0579,Handloom & Sarees,Mulberry Silk,Pit Loom Weaving,Fine Heritage,2600.0,4490.0,250.0,60.0,7400.0,12690.0,13560.0,10,10610.0
+KS-PROD-0580,Home Decor & Brassware,Wrought Iron,Beaten Metal Hammering,Standard,320.0,470.0,80.0,30.0,900.0,1240.0,1280.0,3,1100.0
+KS-PROD-0581,Bags & Accessories,Golden Jute,Hand Braiding,Masterpiece,340.0,620.0,60.0,20.0,1040.0,1150.0,1180.0,1,1200.0
+KS-PROD-0582,Bags & Accessories,Golden Jute,Hand Braiding,Fine Heritage,210.0,700.0,80.0,20.0,1010.0,1600.0,1460.0,5,1290.0
+KS-PROD-0583,Textiles & Embroidery,Wool,Chikankari Stitching,Fine Heritage,560.0,540.0,60.0,60.0,1220.0,1600.0,1520.0,2,1400.0
+KS-PROD-0584,Pottery & Terracotta,Quartz Paste,Wheel Pottery,Masterpiece,290.0,860.0,140.0,40.0,1330.0,1590.0,1610.0,3,1530.0
+KS-PROD-0585,Textiles & Embroidery,Tussar Silk,Block Printing,Fine Heritage,390.0,710.0,70.0,70.0,1240.0,1790.0,1740.0,3,1520.0
+KS-PROD-0586,Woodcraft & Carvings,Sandalwood,Jaali Latticework,Masterpiece,1040.0,790.0,120.0,60.0,2010.0,3670.0,3440.0,9,2840.0
+KS-PROD-0587,Pottery & Terracotta,Terracotta,Blue Pottery Glazing,Fine Heritage,490.0,890.0,80.0,90.0,1550.0,1880.0,1860.0,2,1780.0
+KS-PROD-0588,Bamboo & Cane Craft,Wild Bamboo,Split Cane Weaving,Fine Heritage,580.0,250.0,40.0,20.0,890.0,1270.0,1290.0,6,1110.0
+KS-PROD-0589,Bags & Accessories,Embroidered Silk,Jute Stitching,Masterpiece,340.0,750.0,40.0,30.0,1160.0,1570.0,1610.0,3,1400.0
+KS-PROD-0590,Bamboo & Cane Craft,Golden Cane,Coiled Bamboo Weaving,Fine Heritage,470.0,630.0,40.0,70.0,1210.0,1620.0,1720.0,7,1470.0
+KS-PROD-0591,Pottery & Terracotta,Stoneware,Wheel Pottery,Fine Heritage,220.0,670.0,50.0,40.0,980.0,1300.0,1360.0,2,1180.0
+KS-PROD-0592,Bamboo & Cane Craft,Golden Cane,Split Cane Weaving,Standard,140.0,530.0,100.0,80.0,850.0,1330.0,1240.0,6,1080.0
+KS-PROD-0593,Bamboo & Cane Craft,Wild Bamboo,Coiled Bamboo Weaving,Masterpiece,630.0,600.0,80.0,80.0,1390.0,2040.0,2010.0,3,1740.0
+KS-PROD-0594,Handloom & Sarees,Mulberry Silk,Jacquard Weaving,Masterpiece,3230.0,4750.0,110.0,150.0,8240.0,9660.0,9820.0,2,9480.0
+KS-PROD-0595,Home Decor & Brassware,Bell Metal,Sand Casting,Masterpiece,300.0,310.0,100.0,30.0,740.0,960.0,950.0,2,860.0
+KS-PROD-0596,Textiles & Embroidery,Linen,Chikankari Stitching,Masterpiece,180.0,460.0,40.0,40.0,720.0,1370.0,1310.0,10,1060.0
+KS-PROD-0597,Bags & Accessories,Cotton Canvas,Hand Braiding,Fine Heritage,620.0,430.0,90.0,70.0,1210.0,2110.0,2140.0,8,1720.0
+KS-PROD-0598,Pottery & Terracotta,Stoneware,Blue Pottery Glazing,Standard,410.0,750.0,120.0,40.0,1320.0,2070.0,2020.0,7,1720.0
+KS-PROD-0599,Handloom & Sarees,Mulberry Silk,Pit Loom Weaving,Fine Heritage,4290.0,2440.0,180.0,200.0,7110.0,8540.0,8570.0,2,8180.0
+KS-PROD-0600,Bags & Accessories,Embroidered Silk,Hand Braiding,Masterpiece,740.0,480.0,80.0,80.0,1380.0,2130.0,2250.0,8,1830.0
+KS-PROD-0601,Bags & Accessories,Golden Jute,Jute Stitching,Fine Heritage,370.0,320.0,100.0,20.0,810.0,1060.0,1050.0,1,940.0
+KS-PROD-0602,Pottery & Terracotta,Terracotta,Terracotta Modelling,Masterpiece,920.0,610.0,110.0,40.0,1680.0,2250.0,2220.0,2,1980.0
+KS-PROD-0603,Bags & Accessories,Burlap,Jute Stitching,Fine Heritage,460.0,460.0,50.0,40.0,1010.0,1880.0,1720.0,9,1430.0
+KS-PROD-0604,Pottery & Terracotta,Stoneware,Wheel Pottery,Fine Heritage,550.0,1330.0,90.0,30.0,2000.0,2900.0,2700.0,3,2420.0
+KS-PROD-0605,Jewellery & Brassware,Dokra Bronze,Hand Engraving,Fine Heritage,1450.0,3900.0,160.0,70.0,5580.0,9770.0,9360.0,8,7740.0
+KS-PROD-0606,Bags & Accessories,Burlap,Jute Stitching,Masterpiece,190.0,420.0,70.0,40.0,720.0,1120.0,1150.0,6,950.0
+KS-PROD-0607,Pottery & Terracotta,Clay,Blue Pottery Glazing,Standard,230.0,600.0,130.0,70.0,1030.0,1510.0,1510.0,6,1290.0
+KS-PROD-0608,Textiles & Embroidery,Wool,Block Printing,Standard,360.0,260.0,80.0,60.0,760.0,980.0,1040.0,2,900.0
+KS-PROD-0609,Woodcraft & Carvings,Sheesham Wood,Wood Turning,Fine Heritage,220.0,1090.0,90.0,70.0,1470.0,2290.0,2190.0,7,1890.0
+KS-PROD-0610,Pottery & Terracotta,Quartz Paste,Terracotta Modelling,Masterpiece,630.0,1230.0,130.0,40.0,2030.0,2760.0,2730.0,4,2420.0
+KS-PROD-0611,Textiles & Embroidery,Organic Cotton,Chikankari Stitching,Fine Heritage,310.0,430.0,60.0,70.0,870.0,1210.0,1190.0,2,1050.0
+KS-PROD-0612,Jewellery & Brassware,Silver Filigree,Lost-Wax Dokra Casting,Fine Heritage,4360.0,2680.0,120.0,160.0,7320.0,9990.0,9760.0,2,8710.0
+KS-PROD-0613,Textiles & Embroidery,Linen,Kantha Needlework,Masterpiece,650.0,560.0,40.0,70.0,1320.0,1870.0,1920.0,5,1640.0
+KS-PROD-0614,Textiles & Embroidery,Organic Cotton,Block Printing,Fine Heritage,250.0,480.0,80.0,50.0,860.0,1090.0,1080.0,1,990.0
+KS-PROD-0615,Woodcraft & Carvings,Rosewood,Chisel Carving,Masterpiece,1200.0,1480.0,100.0,100.0,2880.0,5530.0,5150.0,9,4200.0
+KS-PROD-0616,Home Decor & Brassware,Pure Brass,Sand Casting,Fine Heritage,360.0,320.0,80.0,70.0,830.0,1380.0,1280.0,7,1100.0
+KS-PROD-0617,Handloom & Sarees,Mulberry Silk,Zari Booti Work,Fine Heritage,3780.0,3630.0,120.0,140.0,7670.0,10760.0,11360.0,7,9580.0
+KS-PROD-0618,Pottery & Terracotta,Terracotta,Terracotta Modelling,Fine Heritage,580.0,1490.0,90.0,90.0,2250.0,2750.0,2910.0,4,2590.0
+KS-PROD-0619,Jewellery & Brassware,Silver Filigree,Filigree,Masterpiece,1980.0,5490.0,240.0,120.0,7830.0,9360.0,8660.0,1,9000.0
+KS-PROD-0620,Textiles & Embroidery,Linen,Kantha Needlework,Fine Heritage,570.0,570.0,90.0,40.0,1270.0,1640.0,1600.0,3,1460.0
+KS-PROD-0621,Handloom & Sarees,Chanderi Cotton,Zari Booti Work,Standard,1440.0,1280.0,220.0,100.0,3040.0,5910.0,5550.0,10,4490.0
+KS-PROD-0622,Bamboo & Cane Craft,Rattan,Coiled Bamboo Weaving,Standard,140.0,250.0,50.0,40.0,480.0,770.0,760.0,10,640.0
+KS-PROD-0623,Handloom & Sarees,Chanderi Cotton,Jacquard Weaving,Fine Heritage,2600.0,2080.0,130.0,170.0,4980.0,6780.0,6460.0,3,5860.0
+KS-PROD-0624,Jewellery & Brassware,Cast Brass,Filigree,Masterpiece,1390.0,4950.0,220.0,60.0,6620.0,8650.0,8740.0,4,7770.0
+KS-PROD-0625,Textiles & Embroidery,Tussar Silk,Chikankari Stitching,Standard,440.0,320.0,90.0,40.0,890.0,1350.0,1240.0,5,1100.0
+KS-PROD-0626,Bamboo & Cane Craft,Seagrass,Coiled Bamboo Weaving,Standard,470.0,430.0,90.0,70.0,1060.0,1710.0,1760.0,7,1440.0
+KS-PROD-0627,Handloom & Sarees,Khadi,Zari Booti Work,Masterpiece,2970.0,5440.0,200.0,180.0,8790.0,12520.0,11970.0,2,10650.0
+KS-PROD-0628,Handloom & Sarees,Chanderi Cotton,Zari Booti Work,Masterpiece,4290.0,4030.0,140.0,150.0,8610.0,10280.0,10790.0,1,9900.0
+KS-PROD-0629,Bags & Accessories,Cotton Canvas,Jute Stitching,Fine Heritage,230.0,360.0,70.0,30.0,690.0,1050.0,960.0,4,860.0
+KS-PROD-0630,Woodcraft & Carvings,Rosewood,Jaali Latticework,Fine Heritage,580.0,1190.0,80.0,80.0,1930.0,2950.0,3090.0,6,2540.0
+KS-PROD-0631,Home Decor & Brassware,Wrought Iron,Sand Casting,Fine Heritage,560.0,720.0,90.0,30.0,1400.0,1920.0,1850.0,1,1660.0
+KS-PROD-0632,Bamboo & Cane Craft,Wild Bamboo,Split Cane Weaving,Standard,200.0,530.0,30.0,60.0,820.0,1270.0,1360.0,10,1100.0
+KS-PROD-0633,Textiles & Embroidery,Organic Cotton,Chikankari Stitching,Standard,110.0,390.0,80.0,80.0,660.0,1040.0,990.0,8,850.0
+KS-PROD-0634,Bamboo & Cane Craft,Seagrass,Split Cane Weaving,Masterpiece,460.0,320.0,90.0,60.0,930.0,1350.0,1410.0,5,1180.0
+KS-PROD-0635,Woodcraft & Carvings,Rosewood,Chisel Carving,Standard,340.0,500.0,110.0,90.0,1040.0,1660.0,1600.0,6,1360.0
+KS-PROD-0636,Handloom & Sarees,Silk Cotton,Zari Booti Work,Standard,3150.0,3920.0,150.0,80.0,7300.0,12550.0,11920.0,7,9970.0
+KS-PROD-0637,Jewellery & Brassware,Cast Brass,Lost-Wax Dokra Casting,Masterpiece,1490.0,2990.0,120.0,190.0,4790.0,9950.0,9090.0,10,7330.0
+KS-PROD-0638,Pottery & Terracotta,Clay,Terracotta Modelling,Masterpiece,860.0,830.0,90.0,60.0,1840.0,2670.0,2800.0,9,2340.0
+KS-PROD-0639,Woodcraft & Carvings,Rosewood,Jaali Latticework,Fine Heritage,290.0,690.0,100.0,40.0,1120.0,1500.0,1370.0,2,1290.0
+KS-PROD-0640,Bags & Accessories,Embroidered Silk,Hand Braiding,Fine Heritage,270.0,680.0,70.0,70.0,1090.0,1590.0,1590.0,5,1360.0
+KS-PROD-0641,Woodcraft & Carvings,Sandalwood,Wood Turning,Fine Heritage,810.0,490.0,140.0,80.0,1520.0,2120.0,2240.0,8,1890.0
+KS-PROD-0642,Bamboo & Cane Craft,Golden Cane,Coiled Bamboo Weaving,Fine Heritage,260.0,580.0,60.0,80.0,980.0,1420.0,1440.0,8,1230.0
+KS-PROD-0643,Bags & Accessories,Burlap,Hand Braiding,Standard,440.0,540.0,40.0,30.0,1050.0,1350.0,1420.0,5,1240.0
+KS-PROD-0644,Jewellery & Brassware,Dokra Bronze,Filigree,Standard,2220.0,2670.0,150.0,60.0,5100.0,9270.0,8590.0,8,7160.0
+KS-PROD-0645,Pottery & Terracotta,Quartz Paste,Blue Pottery Glazing,Masterpiece,360.0,940.0,140.0,40.0,1480.0,1930.0,2070.0,6,1780.0
+KS-PROD-0646,Bags & Accessories,Burlap,Hand Braiding,Masterpiece,560.0,460.0,30.0,60.0,1110.0,1830.0,1740.0,8,1470.0
+KS-PROD-0647,Woodcraft & Carvings,Teak Wood,Chisel Carving,Masterpiece,520.0,1560.0,120.0,70.0,2270.0,3820.0,3850.0,10,3130.0
+KS-PROD-0648,Woodcraft & Carvings,Teak Wood,Jaali Latticework,Standard,160.0,450.0,90.0,60.0,760.0,940.0,930.0,3,870.0
+KS-PROD-0649,Home Decor & Brassware,Wrought Iron,Sand Casting,Fine Heritage,460.0,660.0,70.0,50.0,1240.0,1970.0,1930.0,7,1630.0
+KS-PROD-0650,Home Decor & Brassware,Pure Brass,Beaten Metal Hammering,Fine Heritage,430.0,430.0,60.0,20.0,940.0,1630.0,1560.0,6,1300.0
+KS-PROD-0651,Woodcraft & Carvings,Rosewood,Wood Turning,Masterpiece,880.0,510.0,100.0,40.0,1530.0,2610.0,2380.0,8,2040.0
+KS-PROD-0652,Jewellery & Brassware,Dokra Bronze,Filigree,Fine Heritage,2000.0,1310.0,90.0,60.0,3460.0,4390.0,4420.0,2,3980.0
+KS-PROD-0653,Bags & Accessories,Embroidered Silk,Hand Braiding,Fine Heritage,420.0,620.0,30.0,60.0,1130.0,1630.0,1710.0,8,1430.0
+KS-PROD-0654,Home Decor & Brassware,Pure Brass,Sand Casting,Fine Heritage,560.0,350.0,70.0,50.0,1030.0,1660.0,1720.0,8,1400.0
+KS-PROD-0655,Woodcraft & Carvings,Teak Wood,Chisel Carving,Standard,640.0,820.0,140.0,40.0,1640.0,2460.0,2480.0,9,2100.0
+KS-PROD-0656,Pottery & Terracotta,Terracotta,Blue Pottery Glazing,Fine Heritage,560.0,790.0,120.0,80.0,1550.0,2570.0,2410.0,8,2060.0
+KS-PROD-0657,Textiles & Embroidery,Wool,Block Printing,Standard,150.0,160.0,40.0,20.0,370.0,530.0,550.0,4,460.0
+KS-PROD-0658,Woodcraft & Carvings,Teak Wood,Jaali Latticework,Masterpiece,1100.0,1180.0,60.0,80.0,2420.0,2970.0,3210.0,3,2810.0
+KS-PROD-0659,Woodcraft & Carvings,Teak Wood,Wood Turning,Masterpiece,680.0,1100.0,50.0,60.0,1890.0,2530.0,2470.0,4,2220.0
+KS-PROD-0660,Home Decor & Brassware,Pure Brass,Beaten Metal Hammering,Standard,140.0,530.0,60.0,40.0,770.0,1350.0,1310.0,8,1080.0
+KS-PROD-0661,Jewellery & Brassware,Cast Brass,Hand Engraving,Fine Heritage,2640.0,3420.0,180.0,150.0,6390.0,9120.0,9800.0,8,8130.0
+KS-PROD-0662,Pottery & Terracotta,Stoneware,Blue Pottery Glazing,Fine Heritage,640.0,630.0,110.0,90.0,1470.0,2040.0,1870.0,2,1720.0
+KS-PROD-0663,Textiles & Embroidery,Wool,Chikankari Stitching,Fine Heritage,140.0,350.0,40.0,40.0,570.0,810.0,790.0,4,700.0
+KS-PROD-0664,Textiles & Embroidery,Wool,Kantha Needlework,Fine Heritage,490.0,410.0,60.0,80.0,1040.0,1770.0,1660.0,6,1400.0
+KS-PROD-0665,Woodcraft & Carvings,Teak Wood,Jaali Latticework,Masterpiece,990.0,1370.0,60.0,40.0,2460.0,4540.0,4270.0,10,3510.0
+KS-PROD-0666,Bags & Accessories,Embroidered Silk,Jute Stitching,Standard,320.0,600.0,60.0,40.0,1020.0,1360.0,1270.0,3,1180.0
+KS-PROD-0667,Pottery & Terracotta,Clay,Terracotta Modelling,Fine Heritage,280.0,580.0,110.0,60.0,1030.0,1740.0,1640.0,6,1390.0
+KS-PROD-0668,Jewellery & Brassware,Dokra Bronze,Filigree,Masterpiece,3770.0,1900.0,90.0,190.0,5950.0,11180.0,10590.0,8,8620.0
+KS-PROD-0669,Handloom & Sarees,Silk Cotton,Jacquard Weaving,Standard,2170.0,1420.0,100.0,80.0,3770.0,5140.0,5280.0,6,4570.0
+KS-PROD-0670,Bags & Accessories,Burlap,Jute Stitching,Standard,360.0,300.0,40.0,70.0,770.0,1450.0,1370.0,8,1120.0
+KS-PROD-0671,Pottery & Terracotta,Terracotta,Terracotta Modelling,Fine Heritage,420.0,520.0,80.0,80.0,1100.0,1740.0,1670.0,7,1430.0
+KS-PROD-0672,Woodcraft & Carvings,Rosewood,Chisel Carving,Standard,670.0,640.0,90.0,60.0,1460.0,2570.0,2610.0,9,2080.0
+KS-PROD-0673,Pottery & Terracotta,Stoneware,Wheel Pottery,Standard,620.0,740.0,60.0,50.0,1470.0,2400.0,2530.0,7,2030.0
+KS-PROD-0674,Pottery & Terracotta,Stoneware,Wheel Pottery,Masterpiece,1160.0,610.0,110.0,100.0,1980.0,3640.0,3660.0,9,2900.0
+KS-PROD-0675,Jewellery & Brassware,Silver Filigree,Hand Engraving,Standard,3030.0,3690.0,180.0,70.0,6970.0,10330.0,10790.0,7,8980.0
+KS-PROD-0676,Bags & Accessories,Embroidered Silk,Hand Braiding,Standard,450.0,190.0,70.0,40.0,750.0,1020.0,1000.0,3,890.0
+KS-PROD-0677,Bamboo & Cane Craft,Wild Bamboo,Split Cane Weaving,Masterpiece,370.0,680.0,30.0,70.0,1150.0,1900.0,1970.0,9,1590.0
+KS-PROD-0678,Jewellery & Brassware,Copper Alloy,Filigree,Standard,2780.0,3510.0,120.0,130.0,6540.0,7840.0,7560.0,2,7520.0
+KS-PROD-0679,Handloom & Sarees,Khadi,Zari Booti Work,Masterpiece,4320.0,3570.0,250.0,170.0,8310.0,15850.0,14660.0,10,12040.0
+KS-PROD-0680,Bamboo & Cane Craft,Seagrass,Split Cane Weaving,Fine Heritage,460.0,650.0,70.0,30.0,1210.0,1830.0,1900.0,7,1580.0
+KS-PROD-0681,Textiles & Embroidery,Organic Cotton,Block Printing,Fine Heritage,170.0,590.0,90.0,20.0,870.0,980.0,1040.0,1,1000.0
+KS-PROD-0682,Bamboo & Cane Craft,Rattan,Coiled Bamboo Weaving,Fine Heritage,460.0,410.0,70.0,70.0,1010.0,1540.0,1490.0,5,1280.0
+KS-PROD-0683,Bags & Accessories,Burlap,Hand Braiding,Standard,160.0,210.0,80.0,30.0,480.0,820.0,870.0,9,680.0
+KS-PROD-0684,Bamboo & Cane Craft,Rattan,Split Cane Weaving,Standard,400.0,570.0,60.0,80.0,1110.0,1950.0,2070.0,10,1610.0
+KS-PROD-0685,Textiles & Embroidery,Linen,Kantha Needlework,Masterpiece,250.0,490.0,100.0,40.0,880.0,1220.0,1290.0,8,1090.0
+KS-PROD-0686,Home Decor & Brassware,Pure Brass,Beaten Metal Hammering,Fine Heritage,230.0,650.0,60.0,30.0,970.0,1230.0,1330.0,6,1150.0
+KS-PROD-0687,Bags & Accessories,Embroidered Silk,Hand Braiding,Fine Heritage,520.0,450.0,80.0,60.0,1110.0,1480.0,1480.0,3,1310.0
+KS-PROD-0688,Bags & Accessories,Burlap,Jute Stitching,Masterpiece,360.0,790.0,80.0,40.0,1270.0,1870.0,1910.0,4,1610.0
+KS-PROD-0689,Pottery & Terracotta,Stoneware,Blue Pottery Glazing,Fine Heritage,710.0,1340.0,120.0,70.0,2240.0,3100.0,3290.0,5,2780.0
+KS-PROD-0690,Handloom & Sarees,Mulberry Silk,Jacquard Weaving,Masterpiece,3650.0,1650.0,180.0,80.0,5560.0,8340.0,9030.0,8,7330.0
+KS-PROD-0691,Woodcraft & Carvings,Sheesham Wood,Jaali Latticework,Standard,310.0,920.0,140.0,60.0,1430.0,2440.0,2460.0,9,1990.0
+KS-PROD-0692,Pottery & Terracotta,Stoneware,Wheel Pottery,Fine Heritage,540.0,810.0,140.0,50.0,1540.0,2240.0,2040.0,5,1860.0
+KS-PROD-0693,Woodcraft & Carvings,Sandalwood,Chisel Carving,Standard,320.0,340.0,80.0,60.0,800.0,1060.0,970.0,3,920.0
+KS-PROD-0694,Woodcraft & Carvings,Sheesham Wood,Wood Turning,Standard,340.0,340.0,60.0,90.0,830.0,1250.0,1170.0,5,1030.0
+KS-PROD-0695,Handloom & Sarees,Silk Cotton,Pit Loom Weaving,Standard,2830.0,2720.0,160.0,160.0,5870.0,9730.0,10050.0,7,8100.0
+KS-PROD-0696,Textiles & Embroidery,Wool,Chikankari Stitching,Fine Heritage,160.0,200.0,70.0,70.0,500.0,630.0,580.0,1,580.0
+KS-PROD-0697,Handloom & Sarees,Mulberry Silk,Jacquard Weaving,Masterpiece,4530.0,2860.0,150.0,60.0,7600.0,13130.0,12000.0,9,10250.0
+KS-PROD-0698,Textiles & Embroidery,Organic Cotton,Kantha Needlework,Masterpiece,750.0,900.0,70.0,20.0,1740.0,3200.0,3100.0,8,2510.0
+KS-PROD-0699,Woodcraft & Carvings,Sheesham Wood,Chisel Carving,Fine Heritage,410.0,610.0,120.0,100.0,1240.0,1780.0,1760.0,4,1530.0
+KS-PROD-0700,Pottery & Terracotta,Terracotta,Blue Pottery Glazing,Masterpiece,800.0,830.0,90.0,40.0,1760.0,2710.0,2460.0,3,2200.0
+KS-PROD-0701,Home Decor & Brassware,Terracotta,Beaten Metal Hammering,Masterpiece,740.0,680.0,100.0,60.0,1580.0,2380.0,2170.0,5,1950.0
+KS-PROD-0702,Textiles & Embroidery,Organic Cotton,Block Printing,Masterpiece,360.0,870.0,40.0,80.0,1350.0,2530.0,2340.0,10,1930.0
+KS-PROD-0703,Woodcraft & Carvings,Rosewood,Wood Turning,Masterpiece,940.0,1510.0,100.0,90.0,2640.0,3670.0,3400.0,2,3110.0
+KS-PROD-0704,Bags & Accessories,Golden Jute,Hand Braiding,Fine Heritage,540.0,390.0,40.0,70.0,1040.0,1150.0,1170.0,1,1200.0
+KS-PROD-0705,Bamboo & Cane Craft,Rattan,Coiled Bamboo Weaving,Standard,400.0,490.0,80.0,60.0,1030.0,1350.0,1310.0,4,1190.0
+KS-PROD-0706,Jewellery & Brassware,Dokra Bronze,Lost-Wax Dokra Casting,Fine Heritage,4260.0,1270.0,160.0,160.0,5850.0,9140.0,9570.0,10,7810.0
+KS-PROD-0707,Home Decor & Brassware,Pure Brass,Beaten Metal Hammering,Masterpiece,470.0,350.0,40.0,60.0,920.0,1510.0,1620.0,10,1280.0
+KS-PROD-0708,Woodcraft & Carvings,Sheesham Wood,Chisel Carving,Fine Heritage,950.0,1330.0,140.0,80.0,2500.0,3530.0,3390.0,5,3020.0
+KS-PROD-0709,Jewellery & Brassware,Copper Alloy,Lost-Wax Dokra Casting,Fine Heritage,3160.0,4780.0,90.0,190.0,8220.0,13700.0,13790.0,7,11270.0
+KS-PROD-0710,Handloom & Sarees,Khadi,Zari Booti Work,Fine Heritage,2750.0,1290.0,200.0,60.0,4300.0,6620.0,6780.0,7,5630.0
+KS-PROD-0711,Home Decor & Brassware,Terracotta,Beaten Metal Hammering,Standard,450.0,510.0,100.0,30.0,1090.0,2030.0,1870.0,7,1550.0
+KS-PROD-0712,Bamboo & Cane Craft,Golden Cane,Split Cane Weaving,Fine Heritage,160.0,540.0,30.0,50.0,780.0,1000.0,970.0,1,900.0
+KS-PROD-0713,Textiles & Embroidery,Linen,Kantha Needlework,Standard,290.0,580.0,90.0,70.0,1030.0,2010.0,1840.0,9,1510.0
+KS-PROD-0714,Bags & Accessories,Golden Jute,Hand Braiding,Masterpiece,230.0,910.0,90.0,40.0,1270.0,1600.0,1720.0,2,1490.0
+KS-PROD-0715,Bags & Accessories,Golden Jute,Hand Braiding,Masterpiece,540.0,280.0,80.0,50.0,950.0,1470.0,1480.0,5,1240.0
+KS-PROD-0716,Home Decor & Brassware,Terracotta,Sand Casting,Fine Heritage,320.0,630.0,90.0,60.0,1100.0,1780.0,1710.0,6,1450.0
+KS-PROD-0717,Pottery & Terracotta,Stoneware,Blue Pottery Glazing,Fine Heritage,670.0,440.0,50.0,80.0,1240.0,2190.0,2290.0,10,1800.0
+KS-PROD-0718,Woodcraft & Carvings,Sandalwood,Jaali Latticework,Fine Heritage,580.0,1050.0,70.0,40.0,1740.0,1880.0,1930.0,1,2000.0
+KS-PROD-0719,Home Decor & Brassware,Wrought Iron,Beaten Metal Hammering,Masterpiece,700.0,770.0,40.0,40.0,1550.0,2450.0,2240.0,6,1970.0
+KS-PROD-0720,Woodcraft & Carvings,Sheesham Wood,Chisel Carving,Masterpiece,1060.0,1210.0,60.0,50.0,2380.0,3260.0,3410.0,4,2920.0
+KS-PROD-0721,Handloom & Sarees,Chanderi Cotton,Pit Loom Weaving,Masterpiece,3230.0,4720.0,160.0,150.0,8260.0,14280.0,14570.0,10,11670.0
+KS-PROD-0722,Jewellery & Brassware,Copper Alloy,Hand Engraving,Standard,1080.0,3620.0,230.0,120.0,5050.0,6610.0,6330.0,1,5810.0
+KS-PROD-0723,Bags & Accessories,Cotton Canvas,Jute Stitching,Fine Heritage,490.0,720.0,50.0,60.0,1320.0,1920.0,1800.0,4,1610.0
+KS-PROD-0724,Pottery & Terracotta,Quartz Paste,Wheel Pottery,Standard,380.0,780.0,60.0,60.0,1280.0,2380.0,2420.0,10,1900.0
+KS-PROD-0725,Pottery & Terracotta,Terracotta,Wheel Pottery,Fine Heritage,330.0,1360.0,120.0,50.0,1860.0,2830.0,2960.0,9,2440.0
+KS-PROD-0726,Woodcraft & Carvings,Sandalwood,Chisel Carving,Standard,690.0,380.0,120.0,90.0,1280.0,2050.0,2100.0,6,1720.0
+KS-PROD-0727,Bamboo & Cane Craft,Seagrass,Split Cane Weaving,Masterpiece,260.0,600.0,90.0,60.0,1010.0,1590.0,1710.0,7,1370.0
+KS-PROD-0728,Woodcraft & Carvings,Teak Wood,Chisel Carving,Standard,500.0,910.0,80.0,60.0,1550.0,2480.0,2350.0,4,2020.0
+KS-PROD-0729,Bamboo & Cane Craft,Seagrass,Coiled Bamboo Weaving,Fine Heritage,250.0,540.0,50.0,30.0,870.0,1740.0,1610.0,9,1300.0
+KS-PROD-0730,Bamboo & Cane Craft,Wild Bamboo,Split Cane Weaving,Masterpiece,540.0,350.0,60.0,70.0,1020.0,1690.0,1670.0,9,1380.0
+KS-PROD-0731,Woodcraft & Carvings,Sandalwood,Wood Turning,Fine Heritage,610.0,890.0,150.0,60.0,1710.0,3160.0,2910.0,10,2420.0
+KS-PROD-0732,Pottery & Terracotta,Terracotta,Wheel Pottery,Standard,440.0,470.0,70.0,60.0,1040.0,1800.0,1650.0,7,1410.0
+KS-PROD-0733,Textiles & Embroidery,Linen,Chikankari Stitching,Standard,150.0,190.0,60.0,40.0,440.0,700.0,690.0,10,580.0
+KS-PROD-0734,Textiles & Embroidery,Wool,Block Printing,Fine Heritage,340.0,390.0,60.0,40.0,830.0,900.0,940.0,1,950.0
+KS-PROD-0735,Handloom & Sarees,Chanderi Cotton,Pit Loom Weaving,Fine Heritage,3840.0,3110.0,190.0,170.0,7310.0,8700.0,9330.0,4,8410.0
+KS-PROD-0736,Pottery & Terracotta,Terracotta,Terracotta Modelling,Standard,590.0,490.0,120.0,80.0,1280.0,1790.0,1740.0,5,1540.0
+KS-PROD-0737,Woodcraft & Carvings,Sandalwood,Chisel Carving,Fine Heritage,420.0,720.0,150.0,100.0,1390.0,2350.0,2550.0,10,1990.0
+KS-PROD-0738,Woodcraft & Carvings,Rosewood,Chisel Carving,Standard,620.0,450.0,70.0,70.0,1210.0,2250.0,2140.0,9,1740.0
+KS-PROD-0739,Bags & Accessories,Embroidered Silk,Jute Stitching,Fine Heritage,550.0,430.0,100.0,50.0,1130.0,1860.0,1820.0,8,1520.0
+KS-PROD-0740,Textiles & Embroidery,Organic Cotton,Chikankari Stitching,Standard,220.0,480.0,60.0,60.0,820.0,1190.0,1200.0,6,1030.0
+KS-PROD-0741,Home Decor & Brassware,Wrought Iron,Beaten Metal Hammering,Masterpiece,170.0,780.0,90.0,30.0,1070.0,1740.0,1640.0,6,1400.0
+KS-PROD-0742,Home Decor & Brassware,Bell Metal,Sand Casting,Fine Heritage,160.0,400.0,60.0,40.0,660.0,1070.0,1100.0,8,900.0
+KS-PROD-0743,Woodcraft & Carvings,Sheesham Wood,Wood Turning,Masterpiece,410.0,1600.0,110.0,30.0,2150.0,2980.0,2730.0,4,2520.0
+KS-PROD-0744,Jewellery & Brassware,Dokra Bronze,Lost-Wax Dokra Casting,Fine Heritage,3230.0,1400.0,90.0,130.0,4850.0,6760.0,6240.0,3,5720.0
+KS-PROD-0745,Home Decor & Brassware,Terracotta,Sand Casting,Standard,310.0,370.0,30.0,80.0,790.0,980.0,1020.0,4,910.0
+KS-PROD-0746,Home Decor & Brassware,Bell Metal,Sand Casting,Masterpiece,510.0,450.0,40.0,60.0,1060.0,1510.0,1640.0,8,1350.0
+KS-PROD-0747,Woodcraft & Carvings,Rosewood,Chisel Carving,Fine Heritage,680.0,610.0,80.0,70.0,1440.0,2370.0,2320.0,8,1930.0
+KS-PROD-0748,Handloom & Sarees,Chanderi Cotton,Jacquard Weaving,Fine Heritage,2170.0,4390.0,210.0,110.0,6880.0,8590.0,9020.0,3,7970.0
+KS-PROD-0749,Home Decor & Brassware,Bell Metal,Beaten Metal Hammering,Masterpiece,270.0,630.0,60.0,80.0,1040.0,1480.0,1560.0,4,1310.0
+KS-PROD-0750,Jewellery & Brassware,Cast Brass,Filigree,Masterpiece,4260.0,2440.0,160.0,200.0,7060.0,10790.0,10940.0,9,9160.0
+KS-PROD-0751,Handloom & Sarees,Chanderi Cotton,Zari Booti Work,Fine Heritage,1560.0,1930.0,90.0,50.0,3630.0,6060.0,5750.0,8,4860.0
+KS-PROD-0752,Bamboo & Cane Craft,Rattan,Coiled Bamboo Weaving,Standard,200.0,470.0,40.0,60.0,770.0,1170.0,1250.0,8,1020.0
+KS-PROD-0753,Bamboo & Cane Craft,Rattan,Coiled Bamboo Weaving,Fine Heritage,540.0,660.0,40.0,20.0,1260.0,1410.0,1500.0,2,1450.0
+KS-PROD-0754,Home Decor & Brassware,Terracotta,Sand Casting,Masterpiece,630.0,700.0,40.0,40.0,1410.0,2220.0,2050.0,4,1800.0
+KS-PROD-0755,Bamboo & Cane Craft,Rattan,Coiled Bamboo Weaving,Masterpiece,660.0,680.0,80.0,70.0,1490.0,2430.0,2430.0,7,2010.0
+KS-PROD-0756,Pottery & Terracotta,Clay,Terracotta Modelling,Standard,750.0,610.0,70.0,40.0,1470.0,1920.0,2080.0,7,1770.0
+KS-PROD-0757,Bamboo & Cane Craft,Wild Bamboo,Coiled Bamboo Weaving,Standard,420.0,520.0,40.0,30.0,1010.0,1700.0,1590.0,7,1350.0
+KS-PROD-0758,Textiles & Embroidery,Organic Cotton,Chikankari Stitching,Standard,470.0,330.0,60.0,30.0,890.0,1050.0,1100.0,2,1020.0
+KS-PROD-0759,Home Decor & Brassware,Wrought Iron,Sand Casting,Fine Heritage,230.0,310.0,80.0,40.0,660.0,1040.0,1120.0,10,900.0
+KS-PROD-0760,Bamboo & Cane Craft,Rattan,Split Cane Weaving,Masterpiece,460.0,920.0,80.0,70.0,1530.0,2710.0,2480.0,10,2100.0
+KS-PROD-0761,Textiles & Embroidery,Wool,Chikankari Stitching,Masterpiece,240.0,350.0,80.0,60.0,730.0,1000.0,1080.0,8,910.0
+KS-PROD-0762,Bags & Accessories,Burlap,Jute Stitching,Masterpiece,520.0,920.0,50.0,60.0,1550.0,2000.0,1900.0,2,1780.0
+KS-PROD-0763,Bamboo & Cane Craft,Wild Bamboo,Coiled Bamboo Weaving,Standard,250.0,280.0,40.0,30.0,600.0,720.0,690.0,1,690.0
+KS-PROD-0764,Bags & Accessories,Embroidered Silk,Jute Stitching,Fine Heritage,280.0,630.0,30.0,70.0,1010.0,1580.0,1630.0,7,1340.0
+KS-PROD-0765,Pottery & Terracotta,Terracotta,Blue Pottery Glazing,Fine Heritage,470.0,560.0,60.0,90.0,1180.0,1830.0,1750.0,4,1510.0
+KS-PROD-0766,Bamboo & Cane Craft,Rattan,Split Cane Weaving,Standard,280.0,150.0,90.0,20.0,540.0,750.0,680.0,4,630.0
+KS-PROD-0767,Bamboo & Cane Craft,Golden Cane,Coiled Bamboo Weaving,Standard,340.0,520.0,100.0,30.0,990.0,1250.0,1240.0,2,1140.0
+KS-PROD-0768,Woodcraft & Carvings,Teak Wood,Chisel Carving,Fine Heritage,330.0,610.0,80.0,60.0,1080.0,1520.0,1430.0,4,1290.0
+KS-PROD-0769,Handloom & Sarees,Chanderi Cotton,Zari Booti Work,Fine Heritage,1570.0,2840.0,170.0,160.0,4740.0,7160.0,6740.0,3,5920.0
+KS-PROD-0770,Pottery & Terracotta,Stoneware,Terracotta Modelling,Standard,640.0,1130.0,110.0,40.0,1920.0,2440.0,2430.0,3,2210.0
+KS-PROD-0771,Bags & Accessories,Embroidered Silk,Hand Braiding,Masterpiece,530.0,280.0,40.0,50.0,900.0,1200.0,1300.0,3,1100.0
+KS-PROD-0772,Textiles & Embroidery,Wool,Block Printing,Fine Heritage,600.0,730.0,60.0,50.0,1440.0,2460.0,2280.0,10,1940.0
+KS-PROD-0773,Handloom & Sarees,Khadi,Jacquard Weaving,Standard,1320.0,2250.0,120.0,190.0,3880.0,5910.0,5860.0,6,4980.0
+KS-PROD-0774,Textiles & Embroidery,Tussar Silk,Chikankari Stitching,Fine Heritage,590.0,600.0,50.0,20.0,1260.0,2030.0,1950.0,6,1660.0
+KS-PROD-0775,Woodcraft & Carvings,Sandalwood,Wood Turning,Fine Heritage,950.0,490.0,70.0,70.0,1580.0,2010.0,1900.0,3,1820.0
+KS-PROD-0776,Home Decor & Brassware,Bell Metal,Sand Casting,Masterpiece,720.0,840.0,40.0,50.0,1650.0,2430.0,2390.0,5,2060.0
+KS-PROD-0777,Home Decor & Brassware,Wrought Iron,Beaten Metal Hammering,Masterpiece,690.0,310.0,70.0,70.0,1140.0,1390.0,1450.0,3,1310.0
+KS-PROD-0778,Home Decor & Brassware,Wrought Iron,Sand Casting,Standard,430.0,150.0,30.0,60.0,670.0,1080.0,1110.0,9,910.0
+KS-PROD-0779,Home Decor & Brassware,Terracotta,Sand Casting,Fine Heritage,220.0,260.0,60.0,50.0,590.0,800.0,750.0,2,690.0
+KS-PROD-0780,Woodcraft & Carvings,Teak Wood,Chisel Carving,Masterpiece,420.0,1510.0,80.0,90.0,2100.0,3520.0,3250.0,7,2790.0
+KS-PROD-0781,Handloom & Sarees,Mulberry Silk,Pit Loom Weaving,Fine Heritage,1290.0,1610.0,90.0,50.0,3040.0,4380.0,4210.0,4,3720.0
+KS-PROD-0782,Handloom & Sarees,Silk Cotton,Pit Loom Weaving,Fine Heritage,3540.0,1150.0,180.0,200.0,5070.0,6460.0,6080.0,2,5830.0
+KS-PROD-0783,Home Decor & Brassware,Wrought Iron,Beaten Metal Hammering,Fine Heritage,500.0,530.0,50.0,60.0,1140.0,2030.0,1900.0,6,1580.0
+KS-PROD-0784,Textiles & Embroidery,Wool,Block Printing,Masterpiece,190.0,480.0,50.0,30.0,750.0,1300.0,1310.0,8,1060.0
+KS-PROD-0785,Woodcraft & Carvings,Sheesham Wood,Wood Turning,Standard,710.0,520.0,120.0,90.0,1440.0,2240.0,2150.0,6,1850.0
+KS-PROD-0786,Bags & Accessories,Burlap,Jute Stitching,Standard,490.0,580.0,90.0,20.0,1180.0,2100.0,1920.0,6,1620.0
+KS-PROD-0787,Textiles & Embroidery,Wool,Kantha Needlework,Masterpiece,460.0,750.0,90.0,40.0,1340.0,2580.0,2400.0,8,1960.0
+KS-PROD-0788,Handloom & Sarees,Khadi,Zari Booti Work,Masterpiece,2060.0,2080.0,170.0,140.0,4450.0,6830.0,6760.0,9,5730.0
+KS-PROD-0789,Handloom & Sarees,Chanderi Cotton,Jacquard Weaving,Masterpiece,5370.0,3640.0,230.0,190.0,9430.0,15250.0,15830.0,8,12830.0
+KS-PROD-0790,Bamboo & Cane Craft,Golden Cane,Coiled Bamboo Weaving,Standard,270.0,470.0,40.0,80.0,860.0,1360.0,1420.0,7,1160.0
+KS-PROD-0791,Jewellery & Brassware,Copper Alloy,Filigree,Standard,2600.0,3760.0,190.0,120.0,6670.0,11780.0,10830.0,6,9150.0
+KS-PROD-0792,Handloom & Sarees,Chanderi Cotton,Zari Booti Work,Masterpiece,4350.0,4880.0,190.0,170.0,9590.0,15340.0,15980.0,7,12980.0
+KS-PROD-0793,Handloom & Sarees,Chanderi Cotton,Pit Loom Weaving,Standard,1040.0,3200.0,240.0,160.0,4640.0,5670.0,6010.0,2,5340.0
+KS-PROD-0794,Textiles & Embroidery,Wool,Chikankari Stitching,Masterpiece,160.0,280.0,70.0,70.0,580.0,860.0,870.0,7,740.0
+KS-PROD-0795,Woodcraft & Carvings,Teak Wood,Chisel Carving,Fine Heritage,190.0,1320.0,80.0,90.0,1680.0,2640.0,2610.0,5,2200.0
+KS-PROD-0796,Bags & Accessories,Cotton Canvas,Hand Braiding,Standard,400.0,530.0,90.0,20.0,1040.0,1660.0,1510.0,6,1330.0
+KS-PROD-0797,Handloom & Sarees,Chanderi Cotton,Jacquard Weaving,Masterpiece,3240.0,5380.0,160.0,160.0,8940.0,13560.0,12720.0,7,11190.0
+KS-PROD-0798,Woodcraft & Carvings,Teak Wood,Wood Turning,Standard,610.0,300.0,140.0,40.0,1090.0,1800.0,1850.0,8,1500.0
+KS-PROD-0799,Woodcraft & Carvings,Sheesham Wood,Wood Turning,Fine Heritage,460.0,1120.0,150.0,80.0,1810.0,2710.0,2580.0,7,2260.0
+KS-PROD-0800,Jewellery & Brassware,Dokra Bronze,Filigree,Masterpiece,2890.0,2020.0,210.0,140.0,5260.0,7200.0,6870.0,1,6210.0
+KS-PROD-0801,Bags & Accessories,Cotton Canvas,Jute Stitching,Fine Heritage,470.0,350.0,40.0,30.0,890.0,1200.0,1300.0,4,1100.0
+KS-PROD-0802,Handloom & Sarees,Mulberry Silk,Zari Booti Work,Fine Heritage,3290.0,1780.0,90.0,100.0,5260.0,7420.0,7980.0,8,6640.0
+KS-PROD-0803,Textiles & Embroidery,Wool,Kantha Needlework,Masterpiece,600.0,400.0,40.0,40.0,1080.0,1780.0,1630.0,5,1410.0
+KS-PROD-0804,Home Decor & Brassware,Pure Brass,Beaten Metal Hammering,Masterpiece,390.0,670.0,60.0,20.0,1140.0,1340.0,1330.0,2,1310.0
+KS-PROD-0805,Bamboo & Cane Craft,Wild Bamboo,Split Cane Weaving,Fine Heritage,470.0,240.0,70.0,40.0,820.0,1160.0,1230.0,7,1030.0
+KS-PROD-0806,Textiles & Embroidery,Tussar Silk,Chikankari Stitching,Masterpiece,270.0,800.0,30.0,50.0,1150.0,2080.0,2050.0,9,1650.0
+KS-PROD-0807,Handloom & Sarees,Silk Cotton,Pit Loom Weaving,Masterpiece,5000.0,2260.0,180.0,80.0,7520.0,12220.0,12510.0,9,10210.0
+KS-PROD-0808,Pottery & Terracotta,Terracotta,Blue Pottery Glazing,Standard,570.0,330.0,80.0,80.0,1060.0,1510.0,1490.0,2,1300.0
+KS-PROD-0809,Textiles & Embroidery,Organic Cotton,Block Printing,Masterpiece,160.0,440.0,100.0,50.0,750.0,1120.0,1120.0,5,950.0
+KS-PROD-0810,Bags & Accessories,Embroidered Silk,Hand Braiding,Masterpiece,490.0,380.0,40.0,70.0,980.0,1160.0,1230.0,4,1130.0
+KS-PROD-0811,Bamboo & Cane Craft,Golden Cane,Coiled Bamboo Weaving,Masterpiece,380.0,320.0,70.0,20.0,790.0,1130.0,1090.0,5,960.0
+KS-PROD-0812,Woodcraft & Carvings,Rosewood,Jaali Latticework,Standard,760.0,890.0,140.0,40.0,1830.0,2440.0,2320.0,4,2120.0
+KS-PROD-0813,Bamboo & Cane Craft,Seagrass,Coiled Bamboo Weaving,Fine Heritage,540.0,370.0,90.0,40.0,1040.0,1670.0,1720.0,10,1400.0
+KS-PROD-0814,Handloom & Sarees,Khadi,Pit Loom Weaving,Fine Heritage,3160.0,2530.0,140.0,90.0,5920.0,7360.0,7850.0,4,6880.0
+KS-PROD-0815,Bamboo & Cane Craft,Rattan,Coiled Bamboo Weaving,Standard,170.0,480.0,50.0,70.0,770.0,1130.0,1150.0,8,980.0
+KS-PROD-0816,Jewellery & Brassware,Silver Filigree,Filigree,Standard,3220.0,1430.0,240.0,110.0,5000.0,8360.0,8020.0,6,6730.0
+KS-PROD-0817,Home Decor & Brassware,Bell Metal,Sand Casting,Fine Heritage,130.0,480.0,40.0,30.0,680.0,1050.0,1080.0,7,890.0
+KS-PROD-0818,Textiles & Embroidery,Organic Cotton,Chikankari Stitching,Masterpiece,410.0,550.0,60.0,40.0,1060.0,1670.0,1720.0,8,1410.0
+KS-PROD-0819,Home Decor & Brassware,Terracotta,Beaten Metal Hammering,Masterpiece,690.0,890.0,60.0,40.0,1680.0,2050.0,2200.0,2,1940.0
+KS-PROD-0820,Bamboo & Cane Craft,Wild Bamboo,Coiled Bamboo Weaving,Masterpiece,190.0,750.0,70.0,50.0,1060.0,1400.0,1410.0,1,1250.0
+KS-PROD-0821,Woodcraft & Carvings,Rosewood,Jaali Latticework,Masterpiece,920.0,1380.0,100.0,40.0,2440.0,3300.0,3040.0,1,2820.0
+KS-PROD-0822,Pottery & Terracotta,Stoneware,Blue Pottery Glazing,Masterpiece,990.0,750.0,120.0,100.0,1960.0,3170.0,3420.0,9,2710.0
+KS-PROD-0823,Bags & Accessories,Cotton Canvas,Jute Stitching,Standard,130.0,530.0,70.0,80.0,810.0,1210.0,1270.0,7,1050.0
+KS-PROD-0824,Handloom & Sarees,Chanderi Cotton,Jacquard Weaving,Standard,3050.0,3540.0,230.0,90.0,6910.0,10290.0,10740.0,8,8930.0
+KS-PROD-0825,Home Decor & Brassware,Terracotta,Beaten Metal Hammering,Masterpiece,470.0,860.0,100.0,70.0,1500.0,2040.0,2210.0,8,1860.0
+KS-PROD-0826,Bags & Accessories,Embroidered Silk,Hand Braiding,Fine Heritage,180.0,380.0,80.0,40.0,680.0,770.0,760.0,1,780.0
+KS-PROD-0827,Handloom & Sarees,Mulberry Silk,Zari Booti Work,Standard,3270.0,920.0,210.0,90.0,4490.0,6940.0,7130.0,8,5900.0
+KS-PROD-0828,Home Decor & Brassware,Terracotta,Beaten Metal Hammering,Standard,500.0,450.0,60.0,30.0,1040.0,1580.0,1460.0,7,1300.0
+KS-PROD-0829,Bamboo & Cane Craft,Wild Bamboo,Coiled Bamboo Weaving,Fine Heritage,150.0,410.0,80.0,70.0,710.0,1070.0,980.0,3,880.0
+KS-PROD-0830,Jewellery & Brassware,Cast Brass,Hand Engraving,Fine Heritage,2860.0,4220.0,200.0,100.0,7380.0,12560.0,11560.0,7,9880.0
+KS-PROD-0831,Home Decor & Brassware,Terracotta,Sand Casting,Standard,420.0,210.0,50.0,20.0,700.0,940.0,880.0,4,810.0
+KS-PROD-0832,Home Decor & Brassware,Pure Brass,Beaten Metal Hammering,Fine Heritage,270.0,460.0,80.0,30.0,840.0,1120.0,1170.0,3,1010.0
+KS-PROD-0833,Jewellery & Brassware,Cast Brass,Hand Engraving,Masterpiece,2280.0,5340.0,110.0,160.0,7890.0,10600.0,10490.0,2,9340.0
+KS-PROD-0834,Woodcraft & Carvings,Teak Wood,Wood Turning,Masterpiece,870.0,730.0,60.0,30.0,1690.0,2550.0,2560.0,4,2170.0
+KS-PROD-0835,Bamboo & Cane Craft,Wild Bamboo,Coiled Bamboo Weaving,Fine Heritage,330.0,360.0,70.0,30.0,790.0,1090.0,1170.0,6,980.0
+KS-PROD-0836,Home Decor & Brassware,Pure Brass,Beaten Metal Hammering,Standard,210.0,280.0,50.0,50.0,590.0,910.0,960.0,6,780.0
+KS-PROD-0837,Pottery & Terracotta,Clay,Blue Pottery Glazing,Masterpiece,560.0,810.0,80.0,70.0,1520.0,2430.0,2230.0,7,1950.0
+KS-PROD-0838,Textiles & Embroidery,Linen,Block Printing,Standard,140.0,160.0,70.0,70.0,440.0,680.0,640.0,6,560.0
+KS-PROD-0839,Textiles & Embroidery,Organic Cotton,Chikankari Stitching,Fine Heritage,230.0,400.0,90.0,30.0,750.0,1230.0,1200.0,10,1000.0
+KS-PROD-0840,Bamboo & Cane Craft,Golden Cane,Split Cane Weaving,Standard,130.0,400.0,50.0,60.0,640.0,850.0,900.0,4,770.0
+KS-PROD-0841,Woodcraft & Carvings,Teak Wood,Jaali Latticework,Masterpiece,950.0,1700.0,130.0,90.0,2870.0,5730.0,5300.0,9,4290.0
+KS-PROD-0842,Bags & Accessories,Golden Jute,Hand Braiding,Standard,290.0,390.0,100.0,70.0,850.0,1210.0,1160.0,3,1030.0
+KS-PROD-0843,Woodcraft & Carvings,Sandalwood,Chisel Carving,Masterpiece,290.0,1820.0,70.0,90.0,2270.0,4120.0,3830.0,8,3190.0
+KS-PROD-0844,Handloom & Sarees,Mulberry Silk,Zari Booti Work,Masterpiece,2850.0,5140.0,150.0,90.0,8230.0,10080.0,9850.0,3,9460.0
+KS-PROD-0845,Pottery & Terracotta,Stoneware,Blue Pottery Glazing,Masterpiece,960.0,770.0,140.0,50.0,1920.0,2670.0,2810.0,5,2380.0
+KS-PROD-0846,Pottery & Terracotta,Terracotta,Terracotta Modelling,Standard,570.0,1140.0,80.0,40.0,1830.0,2210.0,2290.0,1,2100.0
+KS-PROD-0847,Bamboo & Cane Craft,Wild Bamboo,Coiled Bamboo Weaving,Masterpiece,370.0,650.0,60.0,20.0,1100.0,1660.0,1760.0,9,1440.0
+KS-PROD-0848,Jewellery & Brassware,Silver Filigree,Lost-Wax Dokra Casting,Masterpiece,4650.0,5350.0,120.0,190.0,10310.0,12050.0,13060.0,3,11860.0
+KS-PROD-0849,Handloom & Sarees,Khadi,Jacquard Weaving,Fine Heritage,3940.0,3580.0,170.0,170.0,7860.0,10080.0,10540.0,4,9240.0
+KS-PROD-0850,Home Decor & Brassware,Terracotta,Beaten Metal Hammering,Standard,390.0,350.0,40.0,50.0,830.0,1200.0,1260.0,8,1050.0
+KS-PROD-0851,Woodcraft & Carvings,Teak Wood,Wood Turning,Fine Heritage,950.0,530.0,80.0,50.0,1610.0,2390.0,2290.0,3,2000.0
+KS-PROD-0852,Bamboo & Cane Craft,Wild Bamboo,Coiled Bamboo Weaving,Standard,270.0,350.0,80.0,40.0,740.0,1210.0,1150.0,9,980.0
+KS-PROD-0853,Pottery & Terracotta,Clay,Terracotta Modelling,Fine Heritage,200.0,1290.0,130.0,80.0,1700.0,2020.0,1910.0,1,1950.0
+KS-PROD-0854,Jewellery & Brassware,Dokra Bronze,Filigree,Masterpiece,1300.0,6040.0,240.0,70.0,7650.0,11580.0,12380.0,6,10090.0
+KS-PROD-0855,Woodcraft & Carvings,Rosewood,Wood Turning,Fine Heritage,850.0,680.0,100.0,50.0,1680.0,3040.0,2940.0,9,2390.0
+KS-PROD-0856,Handloom & Sarees,Silk Cotton,Pit Loom Weaving,Standard,2270.0,1220.0,230.0,110.0,3830.0,4680.0,5060.0,1,4430.0
+KS-PROD-0857,Home Decor & Brassware,Bell Metal,Sand Casting,Fine Heritage,450.0,310.0,90.0,40.0,890.0,1240.0,1130.0,2,1040.0
+KS-PROD-0858,Bamboo & Cane Craft,Wild Bamboo,Split Cane Weaving,Fine Heritage,160.0,380.0,60.0,80.0,680.0,970.0,940.0,2,830.0
+KS-PROD-0859,Woodcraft & Carvings,Rosewood,Wood Turning,Fine Heritage,670.0,1120.0,70.0,80.0,1940.0,2810.0,2890.0,5,2450.0
+KS-PROD-0860,Handloom & Sarees,Chanderi Cotton,Zari Booti Work,Masterpiece,2780.0,2670.0,230.0,170.0,5850.0,8400.0,7660.0,1,6990.0
+KS-PROD-0861,Woodcraft & Carvings,Sandalwood,Chisel Carving,Fine Heritage,550.0,1260.0,150.0,90.0,2050.0,2910.0,2660.0,2,2440.0
+KS-PROD-0862,Jewellery & Brassware,Dokra Bronze,Lost-Wax Dokra Casting,Fine Heritage,4360.0,1830.0,150.0,100.0,6440.0,11010.0,10050.0,7,8620.0
+KS-PROD-0863,Textiles & Embroidery,Organic Cotton,Chikankari Stitching,Standard,250.0,400.0,70.0,50.0,770.0,1370.0,1380.0,9,1100.0
+KS-PROD-0864,Home Decor & Brassware,Terracotta,Sand Casting,Standard,240.0,240.0,90.0,40.0,610.0,1170.0,1080.0,8,890.0
+KS-PROD-0865,Pottery & Terracotta,Quartz Paste,Terracotta Modelling,Standard,340.0,390.0,140.0,100.0,970.0,1540.0,1440.0,7,1250.0
+KS-PROD-0866,Pottery & Terracotta,Terracotta,Wheel Pottery,Masterpiece,940.0,940.0,50.0,100.0,2030.0,2610.0,2780.0,6,2410.0
+KS-PROD-0867,Handloom & Sarees,Khadi,Jacquard Weaving,Standard,880.0,2030.0,90.0,60.0,3060.0,5660.0,5690.0,10,4500.0
+KS-PROD-0868,Woodcraft & Carvings,Rosewood,Wood Turning,Standard,640.0,910.0,80.0,60.0,1690.0,2610.0,2520.0,6,2160.0
+KS-PROD-0869,Pottery & Terracotta,Quartz Paste,Wheel Pottery,Standard,190.0,860.0,110.0,40.0,1200.0,1540.0,1440.0,3,1380.0
+KS-PROD-0870,Bags & Accessories,Embroidered Silk,Hand Braiding,Masterpiece,300.0,880.0,50.0,30.0,1260.0,2050.0,2170.0,7,1740.0
+KS-PROD-0871,Bamboo & Cane Craft,Rattan,Coiled Bamboo Weaving,Standard,260.0,520.0,100.0,60.0,940.0,1290.0,1280.0,2,1130.0
+KS-PROD-0872,Textiles & Embroidery,Wool,Block Printing,Standard,120.0,320.0,60.0,40.0,540.0,650.0,630.0,2,620.0
+KS-PROD-0873,Textiles & Embroidery,Tussar Silk,Kantha Needlework,Fine Heritage,210.0,250.0,40.0,20.0,520.0,680.0,710.0,5,620.0
+KS-PROD-0874,Pottery & Terracotta,Terracotta,Terracotta Modelling,Standard,780.0,790.0,110.0,90.0,1770.0,1830.0,1950.0,1,2040.0
+KS-PROD-0875,Jewellery & Brassware,Cast Brass,Hand Engraving,Fine Heritage,4240.0,3060.0,130.0,110.0,7540.0,13070.0,12490.0,6,10380.0
+KS-PROD-0876,Handloom & Sarees,Chanderi Cotton,Zari Booti Work,Masterpiece,3350.0,3810.0,210.0,50.0,7420.0,12440.0,11560.0,7,9870.0
+KS-PROD-0877,Pottery & Terracotta,Quartz Paste,Wheel Pottery,Standard,590.0,320.0,110.0,100.0,1120.0,1790.0,1680.0,4,1450.0
+KS-PROD-0878,Woodcraft & Carvings,Teak Wood,Wood Turning,Masterpiece,1230.0,1280.0,100.0,80.0,2690.0,4540.0,4630.0,8,3740.0
+KS-PROD-0879,Textiles & Embroidery,Wool,Kantha Needlework,Masterpiece,630.0,500.0,40.0,60.0,1230.0,1760.0,1720.0,2,1510.0
+KS-PROD-0880,Bags & Accessories,Golden Jute,Jute Stitching,Standard,410.0,290.0,90.0,70.0,860.0,1100.0,1100.0,2,990.0
+KS-PROD-0881,Woodcraft & Carvings,Sandalwood,Chisel Carving,Standard,330.0,600.0,60.0,40.0,1030.0,1600.0,1590.0,8,1340.0
+KS-PROD-0882,Jewellery & Brassware,Copper Alloy,Filigree,Standard,3340.0,3910.0,160.0,100.0,7510.0,11460.0,10670.0,5,9410.0
+KS-PROD-0883,Woodcraft & Carvings,Rosewood,Jaali Latticework,Masterpiece,1080.0,1790.0,90.0,80.0,3040.0,5450.0,5060.0,9,4230.0
+KS-PROD-0884,Pottery & Terracotta,Clay,Blue Pottery Glazing,Standard,600.0,780.0,70.0,40.0,1490.0,2150.0,2170.0,7,1860.0
+KS-PROD-0885,Handloom & Sarees,Mulberry Silk,Zari Booti Work,Fine Heritage,3260.0,2480.0,160.0,130.0,6030.0,8570.0,9000.0,8,7580.0
+KS-PROD-0886,Handloom & Sarees,Khadi,Zari Booti Work,Standard,1880.0,1100.0,140.0,140.0,3260.0,4760.0,4730.0,4,4070.0
+KS-PROD-0887,Jewellery & Brassware,Copper Alloy,Lost-Wax Dokra Casting,Masterpiece,1890.0,3650.0,190.0,100.0,5830.0,8280.0,7820.0,1,7020.0
+KS-PROD-0888,Pottery & Terracotta,Quartz Paste,Terracotta Modelling,Fine Heritage,360.0,560.0,50.0,80.0,1050.0,1620.0,1570.0,7,1350.0
+KS-PROD-0889,Handloom & Sarees,Mulberry Silk,Pit Loom Weaving,Fine Heritage,2370.0,2280.0,200.0,180.0,5030.0,8600.0,7960.0,9,6770.0
+KS-PROD-0890,Woodcraft & Carvings,Sheesham Wood,Chisel Carving,Fine Heritage,470.0,1210.0,70.0,50.0,1800.0,2860.0,2810.0,7,2370.0
+KS-PROD-0891,Woodcraft & Carvings,Rosewood,Jaali Latticework,Masterpiece,810.0,1600.0,110.0,90.0,2610.0,3450.0,3320.0,4,3030.0
+KS-PROD-0892,Woodcraft & Carvings,Sandalwood,Wood Turning,Masterpiece,980.0,1470.0,80.0,40.0,2570.0,4600.0,4550.0,8,3670.0
+KS-PROD-0893,Textiles & Embroidery,Tussar Silk,Chikankari Stitching,Fine Heritage,260.0,590.0,100.0,80.0,1030.0,1460.0,1410.0,3,1250.0
+KS-PROD-0894,Handloom & Sarees,Silk Cotton,Pit Loom Weaving,Masterpiece,5340.0,3410.0,170.0,70.0,8990.0,12690.0,13250.0,7,11220.0
+KS-PROD-0895,Bamboo & Cane Craft,Wild Bamboo,Split Cane Weaving,Fine Heritage,130.0,690.0,70.0,70.0,960.0,1610.0,1610.0,8,1320.0
+KS-PROD-0896,Home Decor & Brassware,Wrought Iron,Beaten Metal Hammering,Masterpiece,420.0,910.0,50.0,80.0,1460.0,2230.0,2340.0,8,1920.0
+KS-PROD-0897,Woodcraft & Carvings,Rosewood,Jaali Latticework,Fine Heritage,870.0,1130.0,90.0,50.0,2140.0,4400.0,4060.0,10,3260.0
+KS-PROD-0898,Handloom & Sarees,Silk Cotton,Pit Loom Weaving,Standard,2550.0,2810.0,150.0,120.0,5630.0,10000.0,10660.0,10,8260.0
+KS-PROD-0899,Bags & Accessories,Golden Jute,Hand Braiding,Fine Heritage,230.0,620.0,70.0,30.0,950.0,1660.0,1690.0,8,1350.0
+KS-PROD-0900,Bags & Accessories,Burlap,Hand Braiding,Standard,480.0,500.0,70.0,40.0,1090.0,1650.0,1520.0,5,1350.0
+KS-PROD-0901,Home Decor & Brassware,Terracotta,Sand Casting,Fine Heritage,140.0,200.0,90.0,70.0,500.0,930.0,900.0,9,730.0
+KS-PROD-0902,Textiles & Embroidery,Organic Cotton,Chikankari Stitching,Fine Heritage,250.0,740.0,40.0,60.0,1090.0,1440.0,1410.0,1,1270.0
+KS-PROD-0903,Woodcraft & Carvings,Rosewood,Wood Turning,Standard,410.0,550.0,70.0,50.0,1080.0,1490.0,1440.0,3,1290.0
+KS-PROD-0904,Home Decor & Brassware,Wrought Iron,Sand Casting,Fine Heritage,230.0,240.0,60.0,60.0,590.0,980.0,950.0,10,790.0
+KS-PROD-0905,Handloom & Sarees,Khadi,Pit Loom Weaving,Masterpiece,4310.0,6120.0,190.0,170.0,10790.0,14730.0,13620.0,3,12570.0
+KS-PROD-0906,Jewellery & Brassware,Dokra Bronze,Filigree,Standard,2760.0,3400.0,140.0,90.0,6390.0,8080.0,7420.0,1,7350.0
+KS-PROD-0907,Pottery & Terracotta,Clay,Wheel Pottery,Fine Heritage,940.0,460.0,60.0,50.0,1510.0,1860.0,1840.0,3,1740.0
+KS-PROD-0908,Textiles & Embroidery,Organic Cotton,Block Printing,Standard,300.0,160.0,40.0,80.0,580.0,700.0,700.0,2,670.0
+KS-PROD-0909,Textiles & Embroidery,Wool,Kantha Needlework,Standard,220.0,560.0,80.0,60.0,920.0,1010.0,1030.0,1,1060.0
+KS-PROD-0910,Textiles & Embroidery,Wool,Chikankari Stitching,Masterpiece,490.0,340.0,80.0,80.0,990.0,1430.0,1410.0,4,1220.0
+KS-PROD-0911,Woodcraft & Carvings,Teak Wood,Jaali Latticework,Standard,730.0,280.0,60.0,40.0,1110.0,1420.0,1410.0,3,1280.0
+KS-PROD-0912,Handloom & Sarees,Chanderi Cotton,Jacquard Weaving,Masterpiece,3970.0,3640.0,220.0,120.0,7950.0,13070.0,13540.0,7,10930.0
+KS-PROD-0913,Bamboo & Cane Craft,Seagrass,Split Cane Weaving,Standard,330.0,490.0,50.0,70.0,940.0,1510.0,1510.0,8,1250.0
+KS-PROD-0914,Jewellery & Brassware,Silver Filigree,Filigree,Standard,2440.0,2230.0,180.0,110.0,4960.0,6760.0,6260.0,2,5780.0
+KS-PROD-0915,Jewellery & Brassware,Copper Alloy,Hand Engraving,Masterpiece,4700.0,4490.0,240.0,100.0,9530.0,11380.0,10680.0,1,10960.0
+KS-PROD-0916,Home Decor & Brassware,Terracotta,Beaten Metal Hammering,Standard,130.0,450.0,60.0,70.0,710.0,850.0,810.0,2,820.0
+KS-PROD-0917,Textiles & Embroidery,Organic Cotton,Block Printing,Masterpiece,650.0,860.0,70.0,40.0,1620.0,2540.0,2650.0,10,2160.0
+KS-PROD-0918,Jewellery & Brassware,Cast Brass,Filigree,Masterpiece,3010.0,5030.0,130.0,100.0,8270.0,10530.0,10440.0,4,9510.0
+KS-PROD-0919,Pottery & Terracotta,Quartz Paste,Terracotta Modelling,Standard,230.0,410.0,80.0,60.0,780.0,1130.0,1220.0,10,1000.0
+KS-PROD-0920,Pottery & Terracotta,Stoneware,Terracotta Modelling,Standard,700.0,630.0,140.0,90.0,1560.0,1700.0,1840.0,1,1790.0
+KS-PROD-0921,Bags & Accessories,Golden Jute,Hand Braiding,Masterpiece,340.0,450.0,50.0,20.0,860.0,1210.0,1300.0,6,1080.0
+KS-PROD-0922,Jewellery & Brassware,Copper Alloy,Hand Engraving,Masterpiece,5290.0,1980.0,140.0,140.0,7550.0,9260.0,8670.0,1,8680.0
+KS-PROD-0923,Woodcraft & Carvings,Sheesham Wood,Jaali Latticework,Masterpiece,960.0,720.0,60.0,80.0,1820.0,2970.0,2920.0,6,2440.0
+KS-PROD-0924,Pottery & Terracotta,Clay,Terracotta Modelling,Standard,220.0,1150.0,60.0,50.0,1480.0,2700.0,2730.0,10,2160.0
+KS-PROD-0925,Woodcraft & Carvings,Teak Wood,Wood Turning,Fine Heritage,280.0,690.0,60.0,70.0,1100.0,1840.0,1770.0,7,1480.0
+KS-PROD-0926,Bamboo & Cane Craft,Rattan,Split Cane Weaving,Fine Heritage,290.0,600.0,50.0,40.0,980.0,1460.0,1480.0,5,1250.0
+KS-PROD-0927,Bamboo & Cane Craft,Golden Cane,Coiled Bamboo Weaving,Standard,490.0,180.0,30.0,30.0,730.0,1000.0,1070.0,7,900.0
+KS-PROD-0928,Bamboo & Cane Craft,Seagrass,Split Cane Weaving,Masterpiece,440.0,340.0,70.0,70.0,920.0,1380.0,1390.0,4,1180.0
+KS-PROD-0929,Bags & Accessories,Cotton Canvas,Hand Braiding,Standard,130.0,340.0,80.0,80.0,630.0,1070.0,1130.0,10,890.0
+KS-PROD-0930,Handloom & Sarees,Silk Cotton,Pit Loom Weaving,Standard,3210.0,1480.0,80.0,150.0,4920.0,7300.0,7750.0,8,6390.0
+KS-PROD-0931,Handloom & Sarees,Chanderi Cotton,Zari Booti Work,Standard,1210.0,2460.0,170.0,60.0,3900.0,5110.0,5500.0,5,4700.0
+KS-PROD-0932,Home Decor & Brassware,Bell Metal,Sand Casting,Fine Heritage,220.0,290.0,50.0,60.0,620.0,1070.0,1030.0,9,850.0
+KS-PROD-0933,Bamboo & Cane Craft,Wild Bamboo,Coiled Bamboo Weaving,Standard,120.0,170.0,50.0,20.0,360.0,470.0,440.0,2,410.0
+KS-PROD-0934,Home Decor & Brassware,Bell Metal,Beaten Metal Hammering,Standard,190.0,520.0,80.0,50.0,840.0,1170.0,1190.0,3,1030.0
+KS-PROD-0935,Jewellery & Brassware,Silver Filigree,Filigree,Standard,1050.0,2460.0,200.0,120.0,3830.0,6220.0,5960.0,5,5050.0
+KS-PROD-0936,Woodcraft & Carvings,Sandalwood,Wood Turning,Standard,260.0,570.0,100.0,100.0,1030.0,1520.0,1650.0,8,1340.0
+KS-PROD-0937,Jewellery & Brassware,Cast Brass,Lost-Wax Dokra Casting,Masterpiece,4420.0,1440.0,140.0,120.0,6120.0,7180.0,7440.0,1,7040.0
+KS-PROD-0938,Handloom & Sarees,Silk Cotton,Pit Loom Weaving,Masterpiece,4090.0,2790.0,120.0,130.0,7130.0,9430.0,10050.0,3,8610.0
+KS-PROD-0939,Textiles & Embroidery,Wool,Block Printing,Masterpiece,370.0,610.0,80.0,40.0,1100.0,1580.0,1610.0,8,1370.0
+KS-PROD-0940,Textiles & Embroidery,Wool,Kantha Needlework,Fine Heritage,470.0,600.0,30.0,80.0,1180.0,1610.0,1700.0,4,1450.0
+KS-PROD-0941,Bags & Accessories,Golden Jute,Jute Stitching,Masterpiece,610.0,910.0,60.0,60.0,1640.0,2450.0,2480.0,4,2100.0
+KS-PROD-0942,Handloom & Sarees,Chanderi Cotton,Jacquard Weaving,Masterpiece,3520.0,5780.0,250.0,180.0,9730.0,12870.0,12350.0,3,11280.0
+KS-PROD-0943,Textiles & Embroidery,Wool,Chikankari Stitching,Fine Heritage,600.0,340.0,40.0,50.0,1030.0,1560.0,1660.0,6,1360.0
+KS-PROD-0944,Bags & Accessories,Embroidered Silk,Hand Braiding,Standard,490.0,370.0,80.0,50.0,990.0,1290.0,1330.0,3,1170.0
+KS-PROD-0945,Woodcraft & Carvings,Sandalwood,Jaali Latticework,Fine Heritage,240.0,660.0,100.0,50.0,1050.0,1690.0,1680.0,10,1400.0
+KS-PROD-0946,Pottery & Terracotta,Stoneware,Terracotta Modelling,Masterpiece,1070.0,460.0,60.0,90.0,1680.0,3090.0,2920.0,9,2400.0
+KS-PROD-0947,Woodcraft & Carvings,Sheesham Wood,Wood Turning,Fine Heritage,300.0,1180.0,90.0,90.0,1660.0,2280.0,2270.0,5,2000.0
+KS-PROD-0948,Textiles & Embroidery,Organic Cotton,Chikankari Stitching,Masterpiece,390.0,510.0,90.0,70.0,1060.0,1490.0,1570.0,5,1320.0
+KS-PROD-0949,Home Decor & Brassware,Wrought Iron,Sand Casting,Masterpiece,630.0,410.0,60.0,30.0,1130.0,1530.0,1500.0,5,1340.0
+KS-PROD-0950,Bags & Accessories,Cotton Canvas,Hand Braiding,Fine Heritage,170.0,480.0,80.0,50.0,780.0,1170.0,1170.0,6,990.0
+KS-PROD-0951,Home Decor & Brassware,Bell Metal,Beaten Metal Hammering,Standard,470.0,160.0,80.0,30.0,740.0,980.0,1010.0,3,880.0
+KS-PROD-0952,Bamboo & Cane Craft,Seagrass,Coiled Bamboo Weaving,Masterpiece,490.0,630.0,50.0,70.0,1240.0,1860.0,1790.0,7,1560.0
+KS-PROD-0953,Bags & Accessories,Burlap,Jute Stitching,Standard,120.0,520.0,80.0,40.0,760.0,1050.0,1030.0,2,910.0
+KS-PROD-0954,Textiles & Embroidery,Tussar Silk,Kantha Needlework,Masterpiece,520.0,590.0,80.0,60.0,1250.0,2050.0,1950.0,9,1660.0
+KS-PROD-0955,Bags & Accessories,Cotton Canvas,Jute Stitching,Masterpiece,550.0,340.0,70.0,60.0,1020.0,1360.0,1320.0,1,1190.0
+KS-PROD-0956,Bamboo & Cane Craft,Wild Bamboo,Coiled Bamboo Weaving,Standard,160.0,550.0,70.0,30.0,810.0,1100.0,1030.0,2,940.0
+KS-PROD-0957,Bags & Accessories,Burlap,Jute Stitching,Standard,220.0,370.0,40.0,30.0,660.0,1090.0,1060.0,9,890.0
+KS-PROD-0958,Bags & Accessories,Golden Jute,Hand Braiding,Standard,350.0,230.0,90.0,60.0,730.0,1030.0,980.0,3,880.0
+KS-PROD-0959,Bamboo & Cane Craft,Rattan,Split Cane Weaving,Fine Heritage,270.0,240.0,70.0,40.0,620.0,920.0,880.0,5,770.0
+KS-PROD-0960,Handloom & Sarees,Khadi,Zari Booti Work,Fine Heritage,1500.0,2220.0,100.0,110.0,3930.0,6800.0,6560.0,10,5420.0
+KS-PROD-0961,Bags & Accessories,Golden Jute,Hand Braiding,Standard,290.0,480.0,50.0,80.0,900.0,1460.0,1360.0,6,1170.0
+KS-PROD-0962,Bamboo & Cane Craft,Seagrass,Split Cane Weaving,Masterpiece,190.0,690.0,50.0,60.0,990.0,1590.0,1480.0,6,1280.0
+KS-PROD-0963,Woodcraft & Carvings,Sandalwood,Wood Turning,Fine Heritage,940.0,390.0,130.0,60.0,1520.0,2400.0,2520.0,8,2050.0
+KS-PROD-0964,Jewellery & Brassware,Dokra Bronze,Filigree,Fine Heritage,2990.0,3380.0,180.0,170.0,6720.0,8340.0,7770.0,2,7730.0
+KS-PROD-0965,Woodcraft & Carvings,Teak Wood,Chisel Carving,Masterpiece,340.0,1760.0,100.0,80.0,2280.0,3140.0,2910.0,4,2670.0
+KS-PROD-0966,Home Decor & Brassware,Bell Metal,Sand Casting,Standard,340.0,200.0,90.0,20.0,650.0,1070.0,1000.0,6,860.0
+KS-PROD-0967,Woodcraft & Carvings,Sandalwood,Chisel Carving,Masterpiece,690.0,580.0,110.0,70.0,1450.0,1920.0,1920.0,4,1710.0
+KS-PROD-0968,Jewellery & Brassware,Dokra Bronze,Lost-Wax Dokra Casting,Masterpiece,1920.0,5310.0,220.0,80.0,7530.0,12910.0,11810.0,10,10100.0
+KS-PROD-0969,Handloom & Sarees,Mulberry Silk,Pit Loom Weaving,Standard,3210.0,2010.0,150.0,130.0,5500.0,7080.0,6790.0,2,6320.0
+KS-PROD-0970,Bags & Accessories,Cotton Canvas,Jute Stitching,Masterpiece,670.0,580.0,50.0,70.0,1370.0,1940.0,1940.0,3,1680.0
+KS-PROD-0971,Home Decor & Brassware,Pure Brass,Sand Casting,Standard,410.0,280.0,40.0,30.0,760.0,1230.0,1330.0,10,1050.0
+KS-PROD-0972,Jewellery & Brassware,Silver Filigree,Hand Engraving,Masterpiece,2740.0,5590.0,110.0,90.0,8530.0,15640.0,14570.0,9,12070.0
+KS-PROD-0973,Jewellery & Brassware,Copper Alloy,Filigree,Standard,2270.0,3660.0,180.0,190.0,6300.0,8720.0,9420.0,5,7880.0
+KS-PROD-0974,Home Decor & Brassware,Wrought Iron,Sand Casting,Fine Heritage,570.0,220.0,40.0,70.0,900.0,1540.0,1480.0,6,1230.0
+KS-PROD-0975,Pottery & Terracotta,Terracotta,Terracotta Modelling,Standard,670.0,790.0,110.0,90.0,1660.0,1830.0,1960.0,1,1910.0
+KS-PROD-0976,Home Decor & Brassware,Pure Brass,Beaten Metal Hammering,Standard,210.0,170.0,30.0,50.0,460.0,660.0,680.0,6,580.0
+KS-PROD-0977,Bamboo & Cane Craft,Wild Bamboo,Coiled Bamboo Weaving,Standard,410.0,520.0,70.0,70.0,1070.0,1230.0,1320.0,1,1230.0
+KS-PROD-0978,Home Decor & Brassware,Terracotta,Beaten Metal Hammering,Masterpiece,420.0,330.0,60.0,70.0,880.0,1270.0,1290.0,6,1100.0
+KS-PROD-0979,Pottery & Terracotta,Terracotta,Wheel Pottery,Standard,530.0,470.0,120.0,90.0,1210.0,2260.0,2060.0,9,1720.0
+KS-PROD-0980,Pottery & Terracotta,Terracotta,Wheel Pottery,Standard,190.0,670.0,80.0,50.0,990.0,1720.0,1780.0,10,1410.0
+KS-PROD-0981,Jewellery & Brassware,Dokra Bronze,Filigree,Fine Heritage,2620.0,1600.0,90.0,90.0,4400.0,7280.0,6950.0,9,5870.0
+KS-PROD-0982,Textiles & Embroidery,Organic Cotton,Block Printing,Masterpiece,340.0,490.0,70.0,70.0,970.0,1320.0,1360.0,4,1180.0
+KS-PROD-0983,Handloom & Sarees,Silk Cotton,Zari Booti Work,Fine Heritage,3380.0,3530.0,130.0,80.0,7120.0,10310.0,10170.0,3,8830.0
+KS-PROD-0984,Jewellery & Brassware,Dokra Bronze,Lost-Wax Dokra Casting,Fine Heritage,3450.0,4180.0,90.0,90.0,7810.0,13100.0,13080.0,8,10710.0
+KS-PROD-0985,Handloom & Sarees,Silk Cotton,Zari Booti Work,Standard,1530.0,2720.0,130.0,190.0,4570.0,5470.0,5310.0,1,5260.0
+KS-PROD-0986,Bags & Accessories,Golden Jute,Hand Braiding,Fine Heritage,350.0,310.0,60.0,60.0,780.0,1160.0,1190.0,9,1000.0
+KS-PROD-0987,Textiles & Embroidery,Tussar Silk,Chikankari Stitching,Fine Heritage,590.0,700.0,90.0,60.0,1440.0,1820.0,1700.0,1,1660.0
+KS-PROD-0988,Home Decor & Brassware,Bell Metal,Sand Casting,Standard,320.0,580.0,100.0,40.0,1040.0,1780.0,1740.0,9,1430.0
+KS-PROD-0989,Jewellery & Brassware,Dokra Bronze,Hand Engraving,Fine Heritage,3520.0,4710.0,100.0,50.0,8380.0,10720.0,11110.0,5,9800.0
+KS-PROD-0990,Jewellery & Brassware,Silver Filigree,Filigree,Fine Heritage,1130.0,2190.0,130.0,90.0,3540.0,5400.0,5540.0,10,4610.0
+KS-PROD-0991,Textiles & Embroidery,Linen,Kantha Needlework,Fine Heritage,360.0,430.0,60.0,80.0,930.0,1580.0,1550.0,8,1280.0
+KS-PROD-0992,Home Decor & Brassware,Pure Brass,Sand Casting,Fine Heritage,570.0,500.0,100.0,50.0,1220.0,1810.0,1870.0,5,1570.0
+KS-PROD-0993,Bags & Accessories,Cotton Canvas,Jute Stitching,Masterpiece,260.0,840.0,80.0,30.0,1210.0,1400.0,1380.0,1,1390.0
+KS-PROD-0994,Bags & Accessories,Embroidered Silk,Jute Stitching,Masterpiece,600.0,270.0,80.0,40.0,990.0,1380.0,1290.0,5,1170.0
+KS-PROD-0995,Textiles & Embroidery,Tussar Silk,Chikankari Stitching,Standard,240.0,180.0,60.0,50.0,530.0,710.0,690.0,4,620.0
+KS-PROD-0996,Home Decor & Brassware,Pure Brass,Beaten Metal Hammering,Fine Heritage,200.0,370.0,90.0,40.0,700.0,1180.0,1190.0,7,970.0
+KS-PROD-0997,Jewellery & Brassware,Cast Brass,Lost-Wax Dokra Casting,Fine Heritage,1150.0,4730.0,240.0,50.0,6170.0,9850.0,10090.0,10,8280.0
+KS-PROD-0998,Textiles & Embroidery,Organic Cotton,Block Printing,Masterpiece,180.0,740.0,60.0,80.0,1060.0,1620.0,1480.0,2,1320.0
+KS-PROD-0999,Bamboo & Cane Craft,Rattan,Coiled Bamboo Weaving,Masterpiece,650.0,660.0,80.0,50.0,1440.0,2220.0,2070.0,6,1820.0
+KS-PROD-1000,Jewellery & Brassware,Dokra Bronze,Hand Engraving,Standard,2960.0,3930.0,120.0,100.0,7110.0,9430.0,9430.0,2,8390.0
+KS-PROD-1001,Home Decor & Brassware,Wrought Iron,Sand Casting,Fine Heritage,410.0,230.0,60.0,50.0,750.0,1030.0,1030.0,4,900.0
+KS-PROD-1002,Woodcraft & Carvings,Teak Wood,Jaali Latticework,Masterpiece,820.0,590.0,80.0,50.0,1540.0,2130.0,2140.0,6,1870.0
+KS-PROD-1003,Woodcraft & Carvings,Rosewood,Wood Turning,Standard,730.0,1080.0,50.0,40.0,1900.0,3050.0,2910.0,5,2480.0
+KS-PROD-1004,Bags & Accessories,Golden Jute,Jute Stitching,Standard,430.0,160.0,40.0,20.0,650.0,1280.0,1180.0,9,960.0
+KS-PROD-1005,Home Decor & Brassware,Wrought Iron,Sand Casting,Fine Heritage,470.0,320.0,50.0,40.0,880.0,1390.0,1350.0,6,1150.0
+KS-PROD-1006,Pottery & Terracotta,Clay,Blue Pottery Glazing,Fine Heritage,960.0,1390.0,110.0,80.0,2540.0,3820.0,3800.0,7,3240.0
+KS-PROD-1007,Woodcraft & Carvings,Teak Wood,Wood Turning,Masterpiece,1160.0,1770.0,60.0,90.0,3080.0,5690.0,5460.0,10,4440.0
+KS-PROD-1008,Bags & Accessories,Burlap,Hand Braiding,Fine Heritage,210.0,590.0,50.0,70.0,920.0,1210.0,1230.0,4,1090.0
+KS-PROD-1009,Home Decor & Brassware,Wrought Iron,Beaten Metal Hammering,Fine Heritage,280.0,290.0,40.0,70.0,680.0,900.0,930.0,4,810.0
+KS-PROD-1010,Textiles & Embroidery,Tussar Silk,Block Printing,Fine Heritage,210.0,350.0,60.0,30.0,650.0,900.0,830.0,3,760.0
+KS-PROD-1011,Handloom & Sarees,Mulberry Silk,Jacquard Weaving,Fine Heritage,1480.0,1930.0,220.0,160.0,3790.0,4370.0,4710.0,1,4360.0
+KS-PROD-1012,Bamboo & Cane Craft,Wild Bamboo,Split Cane Weaving,Standard,250.0,280.0,100.0,50.0,680.0,1190.0,1110.0,8,930.0
+KS-PROD-1013,Jewellery & Brassware,Cast Brass,Filigree,Masterpiece,5090.0,1970.0,230.0,120.0,7410.0,11170.0,10170.0,2,9130.0
+KS-PROD-1014,Handloom & Sarees,Chanderi Cotton,Pit Loom Weaving,Masterpiece,4560.0,4890.0,140.0,130.0,9720.0,14690.0,13960.0,5,12200.0
+KS-PROD-1015,Handloom & Sarees,Chanderi Cotton,Pit Loom Weaving,Fine Heritage,1340.0,3860.0,170.0,80.0,5450.0,10210.0,9470.0,9,7810.0
+KS-PROD-1016,Pottery & Terracotta,Clay,Wheel Pottery,Standard,530.0,1080.0,70.0,40.0,1720.0,2760.0,2590.0,8,2230.0
+KS-PROD-1017,Bags & Accessories,Embroidered Silk,Jute Stitching,Standard,350.0,190.0,70.0,60.0,670.0,780.0,840.0,4,770.0
+KS-PROD-1018,Bamboo & Cane Craft,Golden Cane,Coiled Bamboo Weaving,Fine Heritage,470.0,530.0,70.0,30.0,1100.0,1710.0,1650.0,6,1410.0
+KS-PROD-1019,Woodcraft & Carvings,Sandalwood,Chisel Carving,Fine Heritage,730.0,890.0,110.0,70.0,1800.0,2830.0,3020.0,9,2430.0
+KS-PROD-1020,Handloom & Sarees,Chanderi Cotton,Zari Booti Work,Fine Heritage,2100.0,3690.0,100.0,120.0,6010.0,9200.0,9360.0,6,7820.0
+KS-PROD-1021,Home Decor & Brassware,Terracotta,Beaten Metal Hammering,Fine Heritage,430.0,570.0,30.0,40.0,1070.0,1710.0,1610.0,4,1390.0
+KS-PROD-1022,Pottery & Terracotta,Quartz Paste,Terracotta Modelling,Masterpiece,550.0,960.0,90.0,60.0,1660.0,2020.0,1920.0,1,1910.0
+KS-PROD-1023,Textiles & Embroidery,Tussar Silk,Block Printing,Fine Heritage,330.0,510.0,40.0,30.0,910.0,1310.0,1270.0,2,1120.0
+KS-PROD-1024,Textiles & Embroidery,Organic Cotton,Chikankari Stitching,Masterpiece,170.0,740.0,90.0,30.0,1030.0,1790.0,1690.0,6,1410.0
+KS-PROD-1025,Handloom & Sarees,Silk Cotton,Jacquard Weaving,Standard,1780.0,1520.0,110.0,130.0,3540.0,4470.0,4710.0,4,4140.0
+KS-PROD-1026,Textiles & Embroidery,Linen,Block Printing,Standard,320.0,260.0,30.0,70.0,680.0,1040.0,1050.0,9,880.0
+KS-PROD-1027,Bags & Accessories,Golden Jute,Jute Stitching,Fine Heritage,280.0,320.0,80.0,30.0,710.0,1150.0,1080.0,5,930.0
+KS-PROD-1028,Home Decor & Brassware,Bell Metal,Sand Casting,Masterpiece,700.0,830.0,40.0,50.0,1620.0,2410.0,2290.0,7,2010.0
+KS-PROD-1029,Woodcraft & Carvings,Sheesham Wood,Wood Turning,Masterpiece,1030.0,670.0,110.0,50.0,1860.0,2910.0,2760.0,6,2380.0
+KS-PROD-1030,Jewellery & Brassware,Silver Filigree,Hand Engraving,Standard,1070.0,3900.0,180.0,110.0,5260.0,8250.0,7540.0,7,6660.0
+KS-PROD-1031,Jewellery & Brassware,Copper Alloy,Hand Engraving,Masterpiece,3470.0,2570.0,80.0,120.0,6240.0,11290.0,10680.0,7,8800.0
+KS-PROD-1032,Handloom & Sarees,Khadi,Pit Loom Weaving,Masterpiece,5320.0,3300.0,120.0,110.0,8850.0,13810.0,14150.0,10,11700.0
+KS-PROD-1033,Woodcraft & Carvings,Sheesham Wood,Chisel Carving,Masterpiece,400.0,1660.0,100.0,50.0,2210.0,3090.0,2890.0,3,2620.0
+KS-PROD-1034,Bamboo & Cane Craft,Wild Bamboo,Split Cane Weaving,Fine Heritage,330.0,600.0,90.0,20.0,1040.0,1990.0,1850.0,10,1510.0
+KS-PROD-1035,Jewellery & Brassware,Dokra Bronze,Filigree,Fine Heritage,2840.0,2340.0,190.0,100.0,5470.0,9570.0,8910.0,8,7490.0
+KS-PROD-1036,Handloom & Sarees,Silk Cotton,Zari Booti Work,Masterpiece,1560.0,2010.0,80.0,130.0,3780.0,4480.0,4490.0,2,4350.0
+KS-PROD-1037,Handloom & Sarees,Silk Cotton,Zari Booti Work,Fine Heritage,1580.0,4240.0,160.0,160.0,6140.0,9350.0,10150.0,9,8190.0
+KS-PROD-1038,Handloom & Sarees,Khadi,Zari Booti Work,Masterpiece,5100.0,4650.0,170.0,140.0,10060.0,14600.0,15370.0,6,12830.0
+KS-PROD-1039,Jewellery & Brassware,Dokra Bronze,Filigree,Masterpiece,2790.0,4300.0,160.0,80.0,7330.0,12630.0,12030.0,6,10040.0
+KS-PROD-1040,Woodcraft & Carvings,Teak Wood,Wood Turning,Masterpiece,1070.0,400.0,90.0,40.0,1600.0,2070.0,2250.0,2,1920.0
+KS-PROD-1041,Bamboo & Cane Craft,Golden Cane,Coiled Bamboo Weaving,Masterpiece,440.0,300.0,70.0,60.0,870.0,1100.0,1080.0,2,1000.0
+KS-PROD-1042,Bamboo & Cane Craft,Seagrass,Coiled Bamboo Weaving,Standard,210.0,520.0,90.0,60.0,880.0,1310.0,1240.0,5,1090.0
+KS-PROD-1043,Jewellery & Brassware,Dokra Bronze,Lost-Wax Dokra Casting,Masterpiece,1880.0,4910.0,130.0,90.0,7010.0,8370.0,8250.0,2,8060.0
+KS-PROD-1044,Home Decor & Brassware,Wrought Iron,Beaten Metal Hammering,Masterpiece,700.0,700.0,60.0,30.0,1490.0,2140.0,2280.0,4,1900.0
+KS-PROD-1045,Woodcraft & Carvings,Teak Wood,Chisel Carving,Fine Heritage,900.0,700.0,140.0,30.0,1770.0,3160.0,3170.0,9,2540.0
+KS-PROD-1046,Bags & Accessories,Embroidered Silk,Hand Braiding,Masterpiece,630.0,400.0,60.0,70.0,1160.0,1960.0,1830.0,8,1550.0
+KS-PROD-1047,Textiles & Embroidery,Tussar Silk,Chikankari Stitching,Standard,480.0,580.0,90.0,60.0,1210.0,1940.0,1920.0,7,1600.0
+KS-PROD-1048,Jewellery & Brassware,Cast Brass,Filigree,Fine Heritage,3200.0,1810.0,230.0,180.0,5420.0,8200.0,8560.0,6,7080.0
+KS-PROD-1049,Bamboo & Cane Craft,Rattan,Split Cane Weaving,Standard,470.0,600.0,40.0,40.0,1150.0,1410.0,1440.0,4,1320.0
+KS-PROD-1050,Handloom & Sarees,Chanderi Cotton,Zari Booti Work,Masterpiece,5100.0,4310.0,90.0,90.0,9590.0,16760.0,15250.0,8,13000.0
+KS-PROD-1051,Jewellery & Brassware,Silver Filigree,Filigree,Standard,3420.0,3450.0,230.0,190.0,7290.0,13140.0,13030.0,10,10470.0
+KS-PROD-1052,Bags & Accessories,Golden Jute,Jute Stitching,Fine Heritage,140.0,690.0,40.0,60.0,930.0,1210.0,1130.0,3,1070.0
+KS-PROD-1053,Handloom & Sarees,Silk Cotton,Zari Booti Work,Masterpiece,4210.0,2900.0,230.0,90.0,7430.0,11230.0,10670.0,4,9320.0
+KS-PROD-1054,Textiles & Embroidery,Linen,Chikankari Stitching,Standard,460.0,410.0,100.0,50.0,1020.0,1630.0,1570.0,7,1330.0
+KS-PROD-1055,Pottery & Terracotta,Clay,Wheel Pottery,Masterpiece,380.0,780.0,70.0,30.0,1260.0,2080.0,2060.0,10,1700.0
+KS-PROD-1056,Woodcraft & Carvings,Sheesham Wood,Jaali Latticework,Fine Heritage,640.0,450.0,100.0,90.0,1280.0,1670.0,1660.0,2,1490.0
+KS-PROD-1057,Handloom & Sarees,Silk Cotton,Pit Loom Weaving,Masterpiece,1600.0,2920.0,190.0,50.0,4760.0,6460.0,6730.0,3,5790.0
+KS-PROD-1058,Textiles & Embroidery,Wool,Kantha Needlework,Masterpiece,740.0,450.0,80.0,80.0,1350.0,2080.0,1980.0,4,1720.0
+KS-PROD-1059,Jewellery & Brassware,Cast Brass,Hand Engraving,Masterpiece,2440.0,2740.0,180.0,110.0,5470.0,6940.0,7260.0,4,6390.0
+KS-PROD-1060,Jewellery & Brassware,Silver Filigree,Filigree,Fine Heritage,1890.0,3020.0,180.0,100.0,5190.0,8930.0,8640.0,9,7150.0
+KS-PROD-1061,Woodcraft & Carvings,Sheesham Wood,Wood Turning,Fine Heritage,310.0,990.0,150.0,60.0,1510.0,2150.0,2060.0,5,1830.0
+KS-PROD-1062,Jewellery & Brassware,Cast Brass,Filigree,Standard,1500.0,2350.0,90.0,70.0,4010.0,5340.0,5320.0,3,4730.0
+KS-PROD-1063,Textiles & Embroidery,Linen,Chikankari Stitching,Fine Heritage,450.0,690.0,50.0,30.0,1220.0,1820.0,1980.0,6,1610.0
+KS-PROD-1064,Home Decor & Brassware,Bell Metal,Beaten Metal Hammering,Fine Heritage,450.0,240.0,90.0,40.0,820.0,1410.0,1340.0,8,1120.0
+KS-PROD-1065,Bags & Accessories,Burlap,Hand Braiding,Masterpiece,400.0,810.0,50.0,40.0,1300.0,1930.0,1950.0,6,1650.0
+KS-PROD-1066,Pottery & Terracotta,Terracotta,Blue Pottery Glazing,Standard,420.0,990.0,150.0,60.0,1620.0,1750.0,1840.0,1,1860.0
+KS-PROD-1067,Jewellery & Brassware,Dokra Bronze,Filigree,Standard,1150.0,1930.0,240.0,200.0,3520.0,5110.0,5410.0,5,4500.0
+KS-PROD-1068,Textiles & Embroidery,Wool,Block Printing,Standard,280.0,450.0,40.0,30.0,800.0,1020.0,1060.0,5,940.0
+KS-PROD-1069,Bamboo & Cane Craft,Rattan,Coiled Bamboo Weaving,Masterpiece,310.0,710.0,90.0,40.0,1150.0,1630.0,1740.0,8,1450.0
+KS-PROD-1070,Home Decor & Brassware,Terracotta,Beaten Metal Hammering,Masterpiece,390.0,560.0,50.0,80.0,1080.0,1650.0,1560.0,7,1360.0
+KS-PROD-1071,Woodcraft & Carvings,Rosewood,Jaali Latticework,Fine Heritage,850.0,1180.0,90.0,60.0,2180.0,2800.0,2690.0,2,2510.0
+KS-PROD-1072,Pottery & Terracotta,Terracotta,Blue Pottery Glazing,Standard,650.0,600.0,80.0,90.0,1420.0,2500.0,2520.0,10,2020.0
+KS-PROD-1073,Handloom & Sarees,Mulberry Silk,Pit Loom Weaving,Fine Heritage,1630.0,1940.0,150.0,100.0,3820.0,4880.0,5020.0,3,4450.0
+KS-PROD-1074,Home Decor & Brassware,Bell Metal,Sand Casting,Fine Heritage,600.0,420.0,40.0,60.0,1120.0,1330.0,1420.0,2,1290.0
+KS-PROD-1075,Handloom & Sarees,Khadi,Pit Loom Weaving,Standard,1660.0,2680.0,150.0,120.0,4610.0,8030.0,7720.0,8,6380.0
+KS-PROD-1076,Home Decor & Brassware,Pure Brass,Beaten Metal Hammering,Fine Heritage,250.0,540.0,70.0,70.0,930.0,1600.0,1510.0,8,1270.0
+KS-PROD-1077,Textiles & Embroidery,Linen,Kantha Needlework,Standard,490.0,390.0,60.0,60.0,1000.0,1310.0,1200.0,3,1150.0
+KS-PROD-1078,Jewellery & Brassware,Dokra Bronze,Filigree,Masterpiece,4290.0,3580.0,90.0,90.0,8050.0,11080.0,11050.0,2,9710.0
+KS-PROD-1079,Pottery & Terracotta,Quartz Paste,Terracotta Modelling,Fine Heritage,460.0,660.0,130.0,70.0,1320.0,1680.0,1690.0,3,1520.0
+KS-PROD-1080,Bags & Accessories,Embroidered Silk,Hand Braiding,Masterpiece,180.0,310.0,80.0,50.0,620.0,860.0,920.0,7,770.0
+KS-PROD-1081,Handloom & Sarees,Mulberry Silk,Jacquard Weaving,Standard,2510.0,2240.0,130.0,200.0,5080.0,8940.0,8370.0,10,7000.0
+KS-PROD-1082,Bags & Accessories,Golden Jute,Jute Stitching,Fine Heritage,310.0,270.0,100.0,60.0,740.0,1010.0,920.0,2,860.0
+KS-PROD-1083,Handloom & Sarees,Chanderi Cotton,Jacquard Weaving,Masterpiece,2500.0,3320.0,110.0,160.0,6090.0,8290.0,8310.0,2,7310.0
+KS-PROD-1084,Handloom & Sarees,Mulberry Silk,Jacquard Weaving,Fine Heritage,4360.0,3510.0,170.0,170.0,8210.0,9790.0,9740.0,1,9440.0
+KS-PROD-1085,Home Decor & Brassware,Wrought Iron,Sand Casting,Fine Heritage,380.0,210.0,60.0,30.0,680.0,930.0,940.0,5,820.0
+KS-PROD-1086,Pottery & Terracotta,Stoneware,Blue Pottery Glazing,Standard,330.0,690.0,130.0,70.0,1220.0,1360.0,1470.0,2,1400.0
+KS-PROD-1087,Textiles & Embroidery,Organic Cotton,Kantha Needlework,Masterpiece,330.0,730.0,90.0,60.0,1210.0,2010.0,2030.0,10,1660.0
+KS-PROD-1088,Pottery & Terracotta,Quartz Paste,Terracotta Modelling,Fine Heritage,470.0,840.0,100.0,80.0,1490.0,1990.0,2090.0,4,1800.0
+KS-PROD-1089,Home Decor & Brassware,Wrought Iron,Beaten Metal Hammering,Standard,360.0,410.0,40.0,50.0,860.0,1260.0,1190.0,6,1060.0
+KS-PROD-1090,Textiles & Embroidery,Linen,Block Printing,Fine Heritage,350.0,450.0,40.0,60.0,900.0,1520.0,1520.0,10,1240.0
+KS-PROD-1091,Pottery & Terracotta,Quartz Paste,Blue Pottery Glazing,Masterpiece,730.0,730.0,140.0,40.0,1640.0,2940.0,3120.0,10,2420.0
+KS-PROD-1092,Home Decor & Brassware,Terracotta,Sand Casting,Standard,330.0,230.0,40.0,70.0,670.0,1040.0,1060.0,7,880.0
+KS-PROD-1093,Bamboo & Cane Craft,Rattan,Split Cane Weaving,Fine Heritage,510.0,540.0,80.0,60.0,1190.0,1830.0,1800.0,6,1530.0
+KS-PROD-1094,Bamboo & Cane Craft,Rattan,Split Cane Weaving,Fine Heritage,270.0,710.0,40.0,70.0,1090.0,1660.0,1630.0,7,1390.0
+KS-PROD-1095,Textiles & Embroidery,Wool,Chikankari Stitching,Standard,370.0,190.0,70.0,50.0,680.0,1090.0,1050.0,7,890.0
+KS-PROD-1096,Bamboo & Cane Craft,Golden Cane,Coiled Bamboo Weaving,Masterpiece,510.0,520.0,30.0,60.0,1120.0,1530.0,1520.0,3,1340.0
+KS-PROD-1097,Handloom & Sarees,Chanderi Cotton,Pit Loom Weaving,Masterpiece,3760.0,5190.0,150.0,130.0,9230.0,13080.0,13780.0,4,11590.0
+KS-PROD-1098,Textiles & Embroidery,Organic Cotton,Kantha Needlework,Fine Heritage,590.0,710.0,50.0,40.0,1390.0,1590.0,1590.0,1,1600.0
+KS-PROD-1099,Bamboo & Cane Craft,Rattan,Coiled Bamboo Weaving,Standard,490.0,380.0,40.0,60.0,970.0,1710.0,1580.0,6,1330.0
+KS-PROD-1100,Bamboo & Cane Craft,Rattan,Coiled Bamboo Weaving,Standard,400.0,460.0,60.0,50.0,970.0,1580.0,1690.0,8,1340.0
+KS-PROD-1101,Home Decor & Brassware,Wrought Iron,Sand Casting,Masterpiece,640.0,680.0,70.0,20.0,1410.0,2280.0,2450.0,8,1950.0
+KS-PROD-1102,Home Decor & Brassware,Pure Brass,Beaten Metal Hammering,Fine Heritage,480.0,480.0,80.0,50.0,1090.0,1370.0,1280.0,2,1250.0
+KS-PROD-1103,Handloom & Sarees,Mulberry Silk,Zari Booti Work,Fine Heritage,3220.0,1680.0,120.0,120.0,5140.0,7070.0,6830.0,5,6120.0
+KS-PROD-1104,Handloom & Sarees,Khadi,Jacquard Weaving,Fine Heritage,3540.0,4060.0,140.0,150.0,7890.0,13190.0,12610.0,6,10600.0
+KS-PROD-1105,Jewellery & Brassware,Cast Brass,Lost-Wax Dokra Casting,Standard,2210.0,980.0,230.0,130.0,3550.0,5180.0,4940.0,5,4360.0
+KS-PROD-1106,Jewellery & Brassware,Copper Alloy,Filigree,Fine Heritage,3270.0,1720.0,220.0,70.0,5280.0,8690.0,8790.0,10,7190.0
+KS-PROD-1107,Bamboo & Cane Craft,Wild Bamboo,Coiled Bamboo Weaving,Masterpiece,340.0,640.0,50.0,60.0,1090.0,1860.0,1800.0,9,1490.0
+KS-PROD-1108,Woodcraft & Carvings,Sandalwood,Wood Turning,Standard,530.0,730.0,100.0,60.0,1420.0,2560.0,2380.0,8,1980.0
+KS-PROD-1109,Bags & Accessories,Cotton Canvas,Hand Braiding,Fine Heritage,130.0,720.0,50.0,40.0,940.0,1250.0,1210.0,4,1100.0
+KS-PROD-1110,Handloom & Sarees,Mulberry Silk,Zari Booti Work,Fine Heritage,2550.0,4660.0,230.0,180.0,7620.0,14610.0,13870.0,9,11210.0
+KS-PROD-1111,Textiles & Embroidery,Tussar Silk,Block Printing,Masterpiece,220.0,460.0,30.0,50.0,760.0,1390.0,1370.0,9,1100.0
+KS-PROD-1112,Handloom & Sarees,Silk Cotton,Zari Booti Work,Masterpiece,3430.0,2570.0,220.0,80.0,6300.0,8690.0,8280.0,4,7470.0
+KS-PROD-1113,Woodcraft & Carvings,Sheesham Wood,Wood Turning,Fine Heritage,640.0,420.0,70.0,90.0,1220.0,1600.0,1690.0,2,1460.0
+KS-PROD-1114,Jewellery & Brassware,Cast Brass,Lost-Wax Dokra Casting,Standard,1460.0,3260.0,160.0,60.0,4940.0,5990.0,5790.0,1,5680.0
+KS-PROD-1115,Bamboo & Cane Craft,Rattan,Coiled Bamboo Weaving,Fine Heritage,170.0,300.0,70.0,30.0,570.0,820.0,890.0,8,730.0
+KS-PROD-1116,Home Decor & Brassware,Pure Brass,Beaten Metal Hammering,Masterpiece,280.0,790.0,70.0,50.0,1190.0,1360.0,1370.0,1,1370.0
+KS-PROD-1117,Jewellery & Brassware,Copper Alloy,Filigree,Standard,1690.0,2400.0,130.0,150.0,4370.0,6580.0,6820.0,5,5670.0
+KS-PROD-1118,Jewellery & Brassware,Silver Filigree,Filigree,Fine Heritage,1380.0,4060.0,110.0,50.0,5600.0,8890.0,9360.0,9,7570.0
+KS-PROD-1119,Handloom & Sarees,Khadi,Jacquard Weaving,Fine Heritage,1320.0,4470.0,140.0,150.0,6080.0,7140.0,7600.0,3,6990.0
+KS-PROD-1120,Bamboo & Cane Craft,Golden Cane,Split Cane Weaving,Masterpiece,340.0,770.0,60.0,60.0,1230.0,2090.0,2010.0,10,1680.0
+KS-PROD-1121,Textiles & Embroidery,Organic Cotton,Kantha Needlework,Fine Heritage,520.0,670.0,70.0,30.0,1290.0,2480.0,2390.0,9,1910.0
+KS-PROD-1122,Home Decor & Brassware,Wrought Iron,Sand Casting,Fine Heritage,360.0,670.0,50.0,30.0,1110.0,1870.0,1750.0,6,1490.0
+KS-PROD-1123,Textiles & Embroidery,Wool,Block Printing,Fine Heritage,410.0,620.0,30.0,80.0,1140.0,1500.0,1520.0,1,1340.0
+KS-PROD-1124,Woodcraft & Carvings,Rosewood,Jaali Latticework,Standard,680.0,440.0,120.0,50.0,1290.0,1740.0,1750.0,6,1540.0
+KS-PROD-1125,Home Decor & Brassware,Wrought Iron,Sand Casting,Standard,350.0,350.0,50.0,20.0,770.0,1000.0,990.0,3,890.0
+KS-PROD-1126,Bags & Accessories,Golden Jute,Hand Braiding,Masterpiece,750.0,730.0,50.0,80.0,1610.0,2560.0,2730.0,10,2190.0
+KS-PROD-1127,Textiles & Embroidery,Linen,Chikankari Stitching,Fine Heritage,340.0,350.0,60.0,70.0,820.0,1070.0,1010.0,2,940.0
+KS-PROD-1128,Home Decor & Brassware,Terracotta,Sand Casting,Masterpiece,340.0,370.0,40.0,30.0,780.0,1420.0,1370.0,10,1110.0
+KS-PROD-1129,Jewellery & Brassware,Cast Brass,Lost-Wax Dokra Casting,Standard,3150.0,3070.0,210.0,190.0,6620.0,10820.0,10820.0,6,8930.0
+KS-PROD-1130,Bamboo & Cane Craft,Golden Cane,Split Cane Weaving,Fine Heritage,240.0,390.0,40.0,80.0,750.0,1090.0,1030.0,5,920.0
+KS-PROD-1131,Pottery & Terracotta,Terracotta,Wheel Pottery,Masterpiece,650.0,970.0,100.0,30.0,1750.0,2940.0,2680.0,9,2310.0
+KS-PROD-1132,Textiles & Embroidery,Tussar Silk,Chikankari Stitching,Fine Heritage,620.0,730.0,90.0,40.0,1480.0,2550.0,2490.0,9,2050.0
+KS-PROD-1133,Handloom & Sarees,Silk Cotton,Jacquard Weaving,Standard,3430.0,3320.0,170.0,170.0,7090.0,9230.0,9190.0,2,8250.0
+KS-PROD-1134,Bamboo & Cane Craft,Wild Bamboo,Split Cane Weaving,Fine Heritage,360.0,690.0,100.0,30.0,1180.0,1680.0,1620.0,6,1430.0
+KS-PROD-1135,Textiles & Embroidery,Wool,Chikankari Stitching,Masterpiece,610.0,890.0,90.0,40.0,1630.0,2270.0,2120.0,5,1930.0
+KS-PROD-1136,Pottery & Terracotta,Clay,Wheel Pottery,Fine Heritage,530.0,620.0,70.0,80.0,1300.0,2040.0,1970.0,6,1680.0
+KS-PROD-1137,Bamboo & Cane Craft,Seagrass,Coiled Bamboo Weaving,Standard,410.0,240.0,40.0,20.0,710.0,1250.0,1350.0,10,1040.0
+KS-PROD-1138,Woodcraft & Carvings,Sandalwood,Chisel Carving,Fine Heritage,890.0,1420.0,120.0,40.0,2470.0,3140.0,3240.0,3,2870.0
+KS-PROD-1139,Bamboo & Cane Craft,Seagrass,Coiled Bamboo Weaving,Standard,450.0,570.0,40.0,80.0,1140.0,1440.0,1370.0,1,1310.0
+KS-PROD-1140,Bamboo & Cane Craft,Rattan,Coiled Bamboo Weaving,Fine Heritage,340.0,300.0,80.0,60.0,780.0,870.0,910.0,2,900.0
+KS-PROD-1141,Handloom & Sarees,Mulberry Silk,Pit Loom Weaving,Standard,3340.0,3200.0,140.0,200.0,6880.0,11070.0,10090.0,7,8840.0
+KS-PROD-1142,Textiles & Embroidery,Wool,Block Printing,Masterpiece,220.0,550.0,30.0,70.0,870.0,1400.0,1490.0,7,1190.0
+KS-PROD-1143,Textiles & Embroidery,Linen,Kantha Needlework,Fine Heritage,600.0,550.0,50.0,60.0,1260.0,1970.0,2130.0,7,1710.0
+KS-PROD-1144,Jewellery & Brassware,Silver Filigree,Lost-Wax Dokra Casting,Standard,3090.0,1450.0,80.0,130.0,4750.0,6970.0,6590.0,3,5840.0
+KS-PROD-1145,Pottery & Terracotta,Terracotta,Blue Pottery Glazing,Masterpiece,530.0,1300.0,130.0,60.0,2020.0,3220.0,2940.0,3,2580.0
+KS-PROD-1146,Woodcraft & Carvings,Sandalwood,Chisel Carving,Standard,170.0,440.0,90.0,60.0,760.0,1050.0,1130.0,5,950.0
+KS-PROD-1147,Pottery & Terracotta,Quartz Paste,Wheel Pottery,Fine Heritage,220.0,1350.0,140.0,30.0,1740.0,3010.0,2870.0,7,2390.0
+KS-PROD-1148,Woodcraft & Carvings,Teak Wood,Chisel Carving,Standard,380.0,460.0,90.0,30.0,960.0,1540.0,1550.0,8,1280.0
+KS-PROD-1149,Bags & Accessories,Cotton Canvas,Jute Stitching,Fine Heritage,360.0,690.0,50.0,40.0,1140.0,1920.0,1860.0,9,1550.0
+KS-PROD-1150,Handloom & Sarees,Khadi,Zari Booti Work,Masterpiece,4720.0,4140.0,100.0,130.0,9090.0,10690.0,11440.0,3,10450.0
+KS-PROD-1151,Handloom & Sarees,Khadi,Zari Booti Work,Masterpiece,1680.0,2480.0,110.0,150.0,4420.0,6980.0,6960.0,6,5820.0
+KS-PROD-1152,Jewellery & Brassware,Dokra Bronze,Hand Engraving,Fine Heritage,2260.0,1690.0,210.0,180.0,4340.0,7420.0,6980.0,7,5880.0
+KS-PROD-1153,Woodcraft & Carvings,Sheesham Wood,Chisel Carving,Masterpiece,270.0,1560.0,70.0,50.0,1950.0,3630.0,3380.0,10,2790.0
+KS-PROD-1154,Bamboo & Cane Craft,Rattan,Split Cane Weaving,Standard,280.0,270.0,60.0,60.0,670.0,1210.0,1230.0,9,970.0
+KS-PROD-1155,Woodcraft & Carvings,Sandalwood,Jaali Latticework,Fine Heritage,810.0,850.0,60.0,90.0,1810.0,3080.0,2900.0,9,2450.0
+KS-PROD-1156,Home Decor & Brassware,Pure Brass,Sand Casting,Standard,190.0,360.0,40.0,50.0,640.0,850.0,860.0,5,760.0
+KS-PROD-1157,Bags & Accessories,Burlap,Jute Stitching,Masterpiece,270.0,800.0,90.0,50.0,1210.0,1660.0,1730.0,3,1480.0
+KS-PROD-1158,Pottery & Terracotta,Terracotta,Blue Pottery Glazing,Masterpiece,590.0,1270.0,70.0,90.0,2020.0,3130.0,3080.0,9,2610.0
+KS-PROD-1159,Bamboo & Cane Craft,Golden Cane,Split Cane Weaving,Standard,140.0,220.0,70.0,60.0,490.0,720.0,660.0,3,600.0
+KS-PROD-1160,Home Decor & Brassware,Terracotta,Beaten Metal Hammering,Standard,480.0,580.0,50.0,70.0,1180.0,2010.0,2000.0,7,1630.0
+KS-PROD-1161,Woodcraft & Carvings,Sandalwood,Chisel Carving,Standard,310.0,780.0,80.0,90.0,1260.0,2090.0,2240.0,10,1770.0
+KS-PROD-1162,Home Decor & Brassware,Terracotta,Sand Casting,Fine Heritage,540.0,620.0,90.0,80.0,1330.0,1720.0,1810.0,4,1580.0
+KS-PROD-1163,Home Decor & Brassware,Bell Metal,Sand Casting,Standard,430.0,180.0,100.0,40.0,750.0,1140.0,1080.0,7,940.0
+KS-PROD-1164,Woodcraft & Carvings,Teak Wood,Jaali Latticework,Standard,590.0,970.0,50.0,40.0,1650.0,2540.0,2400.0,5,2090.0
+KS-PROD-1165,Bags & Accessories,Cotton Canvas,Hand Braiding,Fine Heritage,540.0,490.0,70.0,30.0,1130.0,2010.0,1840.0,6,1550.0
+KS-PROD-1166,Pottery & Terracotta,Stoneware,Terracotta Modelling,Standard,560.0,650.0,70.0,80.0,1360.0,2240.0,2330.0,8,1880.0
+KS-PROD-1167,Handloom & Sarees,Silk Cotton,Jacquard Weaving,Masterpiece,5260.0,5550.0,120.0,180.0,11110.0,21100.0,19300.0,8,15970.0
+KS-PROD-1168,Home Decor & Brassware,Pure Brass,Sand Casting,Fine Heritage,550.0,600.0,90.0,60.0,1300.0,2070.0,1930.0,6,1670.0
+KS-PROD-1169,Textiles & Embroidery,Tussar Silk,Kantha Needlework,Standard,390.0,370.0,70.0,30.0,860.0,1300.0,1390.0,7,1130.0
+KS-PROD-1170,Bags & Accessories,Burlap,Hand Braiding,Standard,340.0,420.0,90.0,80.0,930.0,1620.0,1480.0,10,1260.0
+KS-PROD-1171,Bamboo & Cane Craft,Seagrass,Split Cane Weaving,Fine Heritage,480.0,210.0,80.0,50.0,820.0,1370.0,1350.0,8,1120.0
+KS-PROD-1172,Home Decor & Brassware,Bell Metal,Sand Casting,Standard,330.0,160.0,100.0,30.0,620.0,1080.0,1030.0,7,860.0
+KS-PROD-1173,Jewellery & Brassware,Silver Filigree,Filigree,Fine Heritage,2190.0,4870.0,130.0,170.0,7360.0,12080.0,11000.0,6,9580.0
+KS-PROD-1174,Jewellery & Brassware,Dokra Bronze,Lost-Wax Dokra Casting,Masterpiece,4470.0,4020.0,130.0,110.0,8730.0,13250.0,13930.0,6,11450.0
+KS-PROD-1175,Bags & Accessories,Golden Jute,Hand Braiding,Fine Heritage,430.0,600.0,90.0,30.0,1150.0,1610.0,1530.0,5,1380.0
+KS-PROD-1176,Home Decor & Brassware,Wrought Iron,Beaten Metal Hammering,Masterpiece,270.0,500.0,50.0,60.0,880.0,1280.0,1280.0,6,1100.0
+KS-PROD-1177,Textiles & Embroidery,Organic Cotton,Kantha Needlework,Fine Heritage,130.0,290.0,50.0,50.0,520.0,860.0,840.0,9,700.0
+KS-PROD-1178,Woodcraft & Carvings,Rosewood,Wood Turning,Masterpiece,310.0,520.0,120.0,90.0,1040.0,1660.0,1750.0,7,1410.0
+KS-PROD-1179,Textiles & Embroidery,Linen,Block Printing,Standard,470.0,200.0,100.0,70.0,840.0,1370.0,1250.0,5,1090.0
+KS-PROD-1180,Textiles & Embroidery,Organic Cotton,Block Printing,Standard,200.0,220.0,100.0,20.0,540.0,880.0,800.0,4,700.0
+KS-PROD-1181,Bamboo & Cane Craft,Golden Cane,Split Cane Weaving,Masterpiece,660.0,330.0,50.0,80.0,1120.0,1940.0,1940.0,10,1570.0
+KS-PROD-1182,Bamboo & Cane Craft,Rattan,Coiled Bamboo Weaving,Masterpiece,520.0,670.0,90.0,80.0,1360.0,2260.0,2060.0,5,1780.0
+KS-PROD-1183,Jewellery & Brassware,Copper Alloy,Hand Engraving,Fine Heritage,4040.0,4760.0,130.0,100.0,9030.0,12400.0,11600.0,3,10600.0
+KS-PROD-1184,Bamboo & Cane Craft,Golden Cane,Coiled Bamboo Weaving,Masterpiece,590.0,610.0,40.0,70.0,1310.0,2000.0,1910.0,4,1660.0
+KS-PROD-1185,Bamboo & Cane Craft,Rattan,Split Cane Weaving,Masterpiece,670.0,550.0,60.0,60.0,1340.0,1780.0,1870.0,2,1610.0
+KS-PROD-1186,Bags & Accessories,Golden Jute,Hand Braiding,Fine Heritage,560.0,270.0,80.0,20.0,930.0,1490.0,1370.0,5,1200.0
+KS-PROD-1187,Pottery & Terracotta,Stoneware,Terracotta Modelling,Masterpiece,1000.0,580.0,90.0,80.0,1750.0,2670.0,2560.0,5,2220.0
+KS-PROD-1188,Textiles & Embroidery,Organic Cotton,Chikankari Stitching,Masterpiece,740.0,330.0,70.0,60.0,1200.0,2130.0,1950.0,6,1650.0
+KS-PROD-1189,Pottery & Terracotta,Quartz Paste,Blue Pottery Glazing,Standard,650.0,320.0,60.0,60.0,1090.0,1470.0,1520.0,3,1320.0
+KS-PROD-1190,Woodcraft & Carvings,Teak Wood,Chisel Carving,Masterpiece,1170.0,1460.0,80.0,40.0,2750.0,4770.0,4370.0,7,3720.0
+KS-PROD-1191,Home Decor & Brassware,Bell Metal,Beaten Metal Hammering,Masterpiece,450.0,820.0,40.0,40.0,1350.0,2030.0,1880.0,3,1670.0
+KS-PROD-1192,Bags & Accessories,Golden Jute,Jute Stitching,Fine Heritage,330.0,310.0,100.0,60.0,800.0,1110.0,1190.0,6,1000.0
+KS-PROD-1193,Jewellery & Brassware,Cast Brass,Filigree,Standard,3450.0,1080.0,140.0,80.0,4750.0,7030.0,7180.0,9,6060.0
+KS-PROD-1194,Jewellery & Brassware,Cast Brass,Filigree,Masterpiece,2810.0,1730.0,110.0,150.0,4800.0,6980.0,7280.0,8,6100.0
+KS-PROD-1195,Textiles & Embroidery,Tussar Silk,Chikankari Stitching,Standard,340.0,410.0,90.0,60.0,900.0,1280.0,1200.0,3,1080.0
+KS-PROD-1196,Bags & Accessories,Golden Jute,Jute Stitching,Masterpiece,710.0,790.0,40.0,80.0,1620.0,2250.0,2160.0,5,1940.0
+KS-PROD-1197,Woodcraft & Carvings,Sheesham Wood,Jaali Latticework,Standard,540.0,1200.0,140.0,100.0,1980.0,3780.0,3560.0,9,2890.0
+KS-PROD-1198,Handloom & Sarees,Silk Cotton,Zari Booti Work,Standard,1790.0,1640.0,220.0,80.0,3730.0,4920.0,5290.0,7,4510.0
+KS-PROD-1199,Bags & Accessories,Golden Jute,Jute Stitching,Masterpiece,560.0,870.0,70.0,60.0,1560.0,2620.0,2570.0,9,2130.0
+KS-PROD-1200,Bamboo & Cane Craft,Seagrass,Split Cane Weaving,Standard,280.0,240.0,100.0,50.0,670.0,1030.0,1020.0,7,860.0
+KS-PROD-1201,Bags & Accessories,Golden Jute,Hand Braiding,Masterpiece,460.0,500.0,60.0,70.0,1090.0,1750.0,1670.0,5,1420.0
+KS-PROD-1202,Pottery & Terracotta,Terracotta,Wheel Pottery,Fine Heritage,910.0,1200.0,110.0,40.0,2260.0,3640.0,3580.0,6,3000.0
+KS-PROD-1203,Pottery & Terracotta,Quartz Paste,Terracotta Modelling,Standard,380.0,760.0,130.0,80.0,1350.0,2250.0,2220.0,7,1830.0
+KS-PROD-1204,Woodcraft & Carvings,Sandalwood,Wood Turning,Masterpiece,280.0,700.0,100.0,40.0,1120.0,1520.0,1630.0,4,1380.0
+KS-PROD-1205,Bamboo & Cane Craft,Rattan,Coiled Bamboo Weaving,Masterpiece,550.0,240.0,90.0,30.0,910.0,1160.0,1260.0,2,1080.0
+KS-PROD-1206,Bamboo & Cane Craft,Seagrass,Coiled Bamboo Weaving,Fine Heritage,540.0,400.0,90.0,20.0,1050.0,1480.0,1430.0,3,1270.0
+KS-PROD-1207,Jewellery & Brassware,Copper Alloy,Filigree,Masterpiece,4210.0,5730.0,130.0,190.0,10260.0,13460.0,14600.0,5,12420.0
+KS-PROD-1208,Home Decor & Brassware,Bell Metal,Beaten Metal Hammering,Standard,430.0,370.0,70.0,60.0,930.0,1400.0,1320.0,7,1160.0
+KS-PROD-1209,Woodcraft & Carvings,Teak Wood,Chisel Carving,Masterpiece,350.0,620.0,130.0,30.0,1130.0,1990.0,1830.0,9,1550.0
+KS-PROD-1210,Jewellery & Brassware,Copper Alloy,Hand Engraving,Masterpiece,2440.0,5510.0,120.0,160.0,8230.0,14840.0,13750.0,7,11480.0
+KS-PROD-1211,Handloom & Sarees,Khadi,Pit Loom Weaving,Standard,2200.0,1010.0,160.0,70.0,3440.0,4270.0,4480.0,1,3970.0
+KS-PROD-1212,Handloom & Sarees,Mulberry Silk,Zari Booti Work,Masterpiece,2790.0,4940.0,160.0,170.0,8060.0,13650.0,14310.0,9,11370.0
+KS-PROD-1213,Bamboo & Cane Craft,Seagrass,Coiled Bamboo Weaving,Masterpiece,160.0,340.0,90.0,40.0,630.0,770.0,810.0,3,720.0
+KS-PROD-1214,Pottery & Terracotta,Stoneware,Terracotta Modelling,Standard,770.0,730.0,70.0,70.0,1640.0,2550.0,2550.0,6,2140.0
+KS-PROD-1215,Bags & Accessories,Golden Jute,Jute Stitching,Masterpiece,480.0,620.0,40.0,80.0,1220.0,1280.0,1370.0,1,1400.0
+KS-PROD-1216,Pottery & Terracotta,Terracotta,Blue Pottery Glazing,Fine Heritage,490.0,480.0,60.0,50.0,1080.0,1410.0,1520.0,7,1300.0
+KS-PROD-1217,Home Decor & Brassware,Pure Brass,Sand Casting,Masterpiece,180.0,610.0,30.0,70.0,890.0,1640.0,1580.0,8,1280.0
+KS-PROD-1218,Jewellery & Brassware,Copper Alloy,Hand Engraving,Masterpiece,2230.0,3750.0,120.0,200.0,6300.0,11020.0,10190.0,8,8610.0
+KS-PROD-1219,Bags & Accessories,Embroidered Silk,Jute Stitching,Standard,210.0,480.0,100.0,40.0,830.0,1280.0,1300.0,5,1080.0
+KS-PROD-1220,Pottery & Terracotta,Stoneware,Terracotta Modelling,Standard,180.0,640.0,140.0,90.0,1050.0,1570.0,1520.0,7,1320.0
+KS-PROD-1221,Bamboo & Cane Craft,Rattan,Split Cane Weaving,Fine Heritage,360.0,440.0,100.0,50.0,950.0,1370.0,1380.0,6,1180.0
+KS-PROD-1222,Bamboo & Cane Craft,Golden Cane,Coiled Bamboo Weaving,Masterpiece,270.0,370.0,90.0,60.0,790.0,1340.0,1340.0,10,1090.0
+KS-PROD-1223,Home Decor & Brassware,Wrought Iron,Beaten Metal Hammering,Standard,260.0,360.0,70.0,50.0,740.0,1200.0,1260.0,10,1010.0
+KS-PROD-1224,Textiles & Embroidery,Organic Cotton,Chikankari Stitching,Fine Heritage,590.0,430.0,100.0,20.0,1140.0,1610.0,1550.0,4,1380.0
+KS-PROD-1225,Jewellery & Brassware,Dokra Bronze,Filigree,Fine Heritage,2940.0,4230.0,110.0,100.0,7380.0,10440.0,11060.0,4,9280.0
+KS-PROD-1226,Bags & Accessories,Embroidered Silk,Jute Stitching,Masterpiece,220.0,280.0,30.0,80.0,610.0,670.0,720.0,1,700.0
+KS-PROD-1227,Textiles & Embroidery,Organic Cotton,Chikankari Stitching,Standard,480.0,290.0,30.0,60.0,860.0,1410.0,1320.0,6,1130.0
+KS-PROD-1228,Bags & Accessories,Embroidered Silk,Jute Stitching,Fine Heritage,280.0,640.0,40.0,70.0,1030.0,1370.0,1350.0,3,1210.0
+KS-PROD-1229,Home Decor & Brassware,Terracotta,Beaten Metal Hammering,Masterpiece,760.0,710.0,90.0,80.0,1640.0,2220.0,2370.0,3,2010.0
+KS-PROD-1230,Pottery & Terracotta,Terracotta,Terracotta Modelling,Fine Heritage,500.0,510.0,50.0,80.0,1140.0,1920.0,1870.0,6,1550.0
+KS-PROD-1231,Woodcraft & Carvings,Rosewood,Chisel Carving,Fine Heritage,960.0,990.0,140.0,100.0,2190.0,2840.0,3010.0,6,2610.0
+KS-PROD-1232,Jewellery & Brassware,Copper Alloy,Lost-Wax Dokra Casting,Standard,3480.0,3350.0,190.0,190.0,7210.0,11060.0,10410.0,6,9100.0
+KS-PROD-1233,Handloom & Sarees,Chanderi Cotton,Jacquard Weaving,Fine Heritage,1050.0,4580.0,150.0,80.0,5860.0,7720.0,7960.0,5,6970.0
+KS-PROD-1234,Pottery & Terracotta,Stoneware,Terracotta Modelling,Standard,180.0,480.0,80.0,60.0,800.0,1170.0,1210.0,7,1020.0
+KS-PROD-1235,Bags & Accessories,Golden Jute,Hand Braiding,Masterpiece,170.0,840.0,90.0,20.0,1120.0,1730.0,1750.0,10,1460.0
+KS-PROD-1236,Bags & Accessories,Burlap,Hand Braiding,Standard,380.0,270.0,60.0,40.0,750.0,1430.0,1350.0,9,1100.0
+KS-PROD-1237,Home Decor & Brassware,Wrought Iron,Sand Casting,Fine Heritage,480.0,500.0,60.0,40.0,1080.0,1790.0,1910.0,8,1510.0
+KS-PROD-1238,Textiles & Embroidery,Tussar Silk,Kantha Needlework,Standard,420.0,200.0,40.0,40.0,700.0,910.0,950.0,3,830.0
+KS-PROD-1239,Handloom & Sarees,Silk Cotton,Pit Loom Weaving,Masterpiece,1300.0,5270.0,230.0,140.0,6940.0,10300.0,9420.0,3,8480.0
+KS-PROD-1240,Bags & Accessories,Embroidered Silk,Jute Stitching,Masterpiece,230.0,720.0,40.0,60.0,1050.0,1310.0,1250.0,2,1210.0
+KS-PROD-1241,Handloom & Sarees,Silk Cotton,Zari Booti Work,Masterpiece,2220.0,1640.0,90.0,100.0,4050.0,6810.0,6380.0,9,5420.0
+KS-PROD-1242,Bags & Accessories,Cotton Canvas,Hand Braiding,Fine Heritage,490.0,520.0,90.0,50.0,1150.0,1660.0,1740.0,9,1460.0
+KS-PROD-1243,Bamboo & Cane Craft,Seagrass,Coiled Bamboo Weaving,Masterpiece,510.0,360.0,40.0,70.0,980.0,1250.0,1280.0,4,1140.0
+KS-PROD-1244,Bamboo & Cane Craft,Golden Cane,Split Cane Weaving,Masterpiece,670.0,440.0,60.0,60.0,1230.0,1810.0,1690.0,4,1510.0
+KS-PROD-1245,Bamboo & Cane Craft,Wild Bamboo,Split Cane Weaving,Fine Heritage,500.0,220.0,30.0,40.0,790.0,1060.0,990.0,1,910.0
+KS-PROD-1246,Handloom & Sarees,Khadi,Pit Loom Weaving,Masterpiece,4060.0,2920.0,210.0,190.0,7380.0,12400.0,13310.0,10,10460.0
+KS-PROD-1247,Jewellery & Brassware,Silver Filigree,Hand Engraving,Fine Heritage,3500.0,2990.0,160.0,160.0,6810.0,10930.0,10370.0,6,8880.0
+KS-PROD-1248,Bamboo & Cane Craft,Golden Cane,Coiled Bamboo Weaving,Masterpiece,370.0,560.0,60.0,80.0,1070.0,1800.0,1660.0,7,1420.0
+KS-PROD-1249,Bags & Accessories,Cotton Canvas,Jute Stitching,Masterpiece,620.0,530.0,30.0,30.0,1210.0,1920.0,1780.0,6,1550.0
+KS-PROD-1250,Woodcraft & Carvings,Rosewood,Jaali Latticework,Standard,430.0,1030.0,140.0,40.0,1640.0,1900.0,2060.0,3,1890.0
+KS-PROD-1251,Bags & Accessories,Cotton Canvas,Hand Braiding,Fine Heritage,220.0,470.0,40.0,70.0,800.0,1220.0,1280.0,9,1050.0
+KS-PROD-1252,Bags & Accessories,Burlap,Hand Braiding,Standard,290.0,450.0,50.0,30.0,820.0,1330.0,1290.0,6,1090.0
+KS-PROD-1253,Woodcraft & Carvings,Teak Wood,Wood Turning,Fine Heritage,840.0,810.0,50.0,50.0,1750.0,2210.0,2260.0,3,2020.0
+KS-PROD-1254,Home Decor & Brassware,Pure Brass,Sand Casting,Masterpiece,330.0,740.0,90.0,70.0,1230.0,1890.0,1880.0,6,1590.0
+KS-PROD-1255,Pottery & Terracotta,Stoneware,Terracotta Modelling,Fine Heritage,390.0,1430.0,120.0,90.0,2030.0,3410.0,3150.0,6,2700.0
+KS-PROD-1256,Bags & Accessories,Embroidered Silk,Hand Braiding,Masterpiece,650.0,720.0,90.0,80.0,1540.0,2830.0,2940.0,10,2290.0
+KS-PROD-1257,Bamboo & Cane Craft,Golden Cane,Split Cane Weaving,Masterpiece,450.0,250.0,70.0,30.0,800.0,1020.0,1090.0,3,950.0
+KS-PROD-1258,Bags & Accessories,Burlap,Hand Braiding,Standard,280.0,500.0,90.0,40.0,910.0,1250.0,1180.0,3,1070.0
+KS-PROD-1259,Bags & Accessories,Cotton Canvas,Jute Stitching,Masterpiece,160.0,480.0,70.0,50.0,760.0,1220.0,1210.0,5,1010.0
+KS-PROD-1260,Textiles & Embroidery,Organic Cotton,Chikankari Stitching,Standard,480.0,420.0,40.0,60.0,1000.0,1420.0,1400.0,4,1220.0
+KS-PROD-1261,Bamboo & Cane Craft,Rattan,Split Cane Weaving,Masterpiece,660.0,240.0,50.0,30.0,980.0,1120.0,1080.0,1,1130.0
+KS-PROD-1262,Home Decor & Brassware,Pure Brass,Beaten Metal Hammering,Fine Heritage,510.0,750.0,60.0,40.0,1360.0,1950.0,1850.0,3,1650.0
+KS-PROD-1263,Handloom & Sarees,Chanderi Cotton,Zari Booti Work,Fine Heritage,1670.0,3480.0,130.0,140.0,5420.0,8420.0,8940.0,6,7250.0
+KS-PROD-1264,Textiles & Embroidery,Wool,Block Printing,Standard,230.0,470.0,70.0,60.0,830.0,1190.0,1220.0,6,1040.0
+KS-PROD-1265,Pottery & Terracotta,Quartz Paste,Terracotta Modelling,Masterpiece,990.0,450.0,100.0,80.0,1620.0,2350.0,2160.0,3,1960.0
+KS-PROD-1266,Woodcraft & Carvings,Teak Wood,Chisel Carving,Masterpiece,400.0,1440.0,60.0,60.0,1960.0,2840.0,2860.0,6,2450.0
+KS-PROD-1267,Handloom & Sarees,Khadi,Zari Booti Work,Masterpiece,1500.0,3400.0,210.0,150.0,5260.0,10070.0,9440.0,9,7680.0
+KS-PROD-1268,Bags & Accessories,Cotton Canvas,Jute Stitching,Fine Heritage,240.0,220.0,80.0,20.0,560.0,720.0,780.0,4,670.0
+KS-PROD-1269,Bamboo & Cane Craft,Golden Cane,Coiled Bamboo Weaving,Masterpiece,350.0,500.0,70.0,40.0,960.0,1710.0,1700.0,9,1370.0
+KS-PROD-1270,Home Decor & Brassware,Pure Brass,Sand Casting,Standard,340.0,240.0,70.0,20.0,670.0,860.0,870.0,2,780.0
+KS-PROD-1271,Woodcraft & Carvings,Rosewood,Chisel Carving,Standard,500.0,1120.0,120.0,50.0,1790.0,2900.0,2930.0,9,2410.0
+KS-PROD-1272,Bamboo & Cane Craft,Seagrass,Split Cane Weaving,Standard,230.0,270.0,40.0,40.0,580.0,770.0,700.0,1,670.0
+KS-PROD-1273,Home Decor & Brassware,Terracotta,Sand Casting,Standard,120.0,510.0,80.0,70.0,780.0,1200.0,1140.0,4,990.0
+KS-PROD-1274,Jewellery & Brassware,Dokra Bronze,Filigree,Fine Heritage,2220.0,1340.0,190.0,140.0,3890.0,4910.0,5310.0,5,4590.0
+KS-PROD-1275,Pottery & Terracotta,Terracotta,Wheel Pottery,Fine Heritage,360.0,1440.0,90.0,50.0,1940.0,2940.0,3100.0,7,2550.0
+KS-PROD-1276,Bags & Accessories,Burlap,Hand Braiding,Masterpiece,690.0,410.0,70.0,70.0,1240.0,1670.0,1550.0,1,1430.0
+KS-PROD-1277,Jewellery & Brassware,Cast Brass,Hand Engraving,Fine Heritage,2290.0,3330.0,110.0,60.0,5790.0,9090.0,8300.0,4,7330.0
+KS-PROD-1278,Textiles & Embroidery,Tussar Silk,Block Printing,Fine Heritage,450.0,350.0,30.0,30.0,860.0,1190.0,1090.0,3,1010.0
+KS-PROD-1279,Bamboo & Cane Craft,Wild Bamboo,Coiled Bamboo Weaving,Fine Heritage,210.0,250.0,80.0,50.0,590.0,1040.0,1070.0,10,850.0
+KS-PROD-1280,Pottery & Terracotta,Stoneware,Wheel Pottery,Masterpiece,930.0,700.0,90.0,60.0,1780.0,2320.0,2170.0,1,2050.0
+KS-PROD-1281,Home Decor & Brassware,Terracotta,Sand Casting,Masterpiece,710.0,690.0,100.0,70.0,1570.0,2280.0,2380.0,5,2000.0
+KS-PROD-1282,Jewellery & Brassware,Cast Brass,Filigree,Fine Heritage,4250.0,1850.0,200.0,170.0,6470.0,9090.0,8490.0,1,7700.0
+KS-PROD-1283,Home Decor & Brassware,Bell Metal,Sand Casting,Masterpiece,680.0,270.0,60.0,60.0,1070.0,1880.0,1850.0,8,1500.0
+KS-PROD-1284,Textiles & Embroidery,Linen,Chikankari Stitching,Masterpiece,490.0,460.0,70.0,40.0,1060.0,1820.0,1810.0,10,1470.0
+KS-PROD-1285,Textiles & Embroidery,Linen,Kantha Needlework,Masterpiece,620.0,580.0,70.0,40.0,1310.0,1820.0,1880.0,7,1610.0
+KS-PROD-1286,Woodcraft & Carvings,Sandalwood,Jaali Latticework,Masterpiece,700.0,1500.0,140.0,40.0,2380.0,3040.0,2800.0,1,2740.0
+KS-PROD-1287,Woodcraft & Carvings,Sandalwood,Wood Turning,Masterpiece,1070.0,620.0,130.0,40.0,1860.0,2740.0,2760.0,4,2350.0
+KS-PROD-1288,Home Decor & Brassware,Pure Brass,Sand Casting,Masterpiece,220.0,240.0,100.0,60.0,620.0,910.0,870.0,3,770.0
+KS-PROD-1289,Textiles & Embroidery,Wool,Kantha Needlework,Fine Heritage,490.0,640.0,70.0,40.0,1240.0,1800.0,1830.0,7,1560.0
+KS-PROD-1290,Home Decor & Brassware,Pure Brass,Sand Casting,Masterpiece,550.0,340.0,80.0,70.0,1040.0,1500.0,1370.0,1,1250.0
+KS-PROD-1291,Handloom & Sarees,Khadi,Pit Loom Weaving,Standard,2680.0,1850.0,210.0,100.0,4840.0,6370.0,6800.0,4,5830.0
+KS-PROD-1292,Bamboo & Cane Craft,Wild Bamboo,Coiled Bamboo Weaving,Standard,220.0,240.0,90.0,60.0,610.0,810.0,740.0,2,700.0
+KS-PROD-1293,Home Decor & Brassware,Wrought Iron,Beaten Metal Hammering,Standard,380.0,290.0,60.0,30.0,760.0,1320.0,1220.0,7,1030.0
+KS-PROD-1294,Pottery & Terracotta,Stoneware,Wheel Pottery,Fine Heritage,450.0,350.0,120.0,90.0,1010.0,1760.0,1660.0,7,1390.0
+KS-PROD-1295,Home Decor & Brassware,Wrought Iron,Beaten Metal Hammering,Standard,250.0,580.0,80.0,30.0,940.0,1290.0,1380.0,5,1160.0
+KS-PROD-1296,Handloom & Sarees,Khadi,Zari Booti Work,Masterpiece,2650.0,4300.0,160.0,100.0,7210.0,13770.0,12820.0,9,10490.0
+KS-PROD-1297,Bamboo & Cane Craft,Rattan,Coiled Bamboo Weaving,Standard,370.0,420.0,80.0,20.0,890.0,1500.0,1480.0,9,1220.0
+KS-PROD-1298,Bags & Accessories,Embroidered Silk,Hand Braiding,Masterpiece,560.0,270.0,70.0,60.0,960.0,1450.0,1450.0,8,1230.0
+KS-PROD-1299,Woodcraft & Carvings,Sheesham Wood,Jaali Latticework,Masterpiece,570.0,550.0,70.0,90.0,1280.0,1720.0,1780.0,4,1540.0
+KS-PROD-1300,Home Decor & Brassware,Terracotta,Beaten Metal Hammering,Standard,220.0,250.0,90.0,60.0,620.0,950.0,950.0,8,800.0
+KS-PROD-1301,Handloom & Sarees,Silk Cotton,Pit Loom Weaving,Standard,1160.0,3930.0,180.0,50.0,5320.0,8780.0,8400.0,8,7090.0
+KS-PROD-1302,Pottery & Terracotta,Quartz Paste,Blue Pottery Glazing,Masterpiece,340.0,1080.0,80.0,70.0,1570.0,2100.0,2240.0,7,1910.0
+KS-PROD-1303,Textiles & Embroidery,Wool,Block Printing,Masterpiece,720.0,860.0,90.0,30.0,1700.0,1970.0,2070.0,3,1950.0
+KS-PROD-1304,Bamboo & Cane Craft,Rattan,Split Cane Weaving,Masterpiece,320.0,280.0,90.0,30.0,720.0,960.0,1040.0,7,880.0
+KS-PROD-1305,Bamboo & Cane Craft,Golden Cane,Split Cane Weaving,Standard,400.0,330.0,60.0,50.0,840.0,980.0,940.0,1,970.0
+KS-PROD-1306,Pottery & Terracotta,Quartz Paste,Wheel Pottery,Fine Heritage,940.0,1330.0,130.0,40.0,2440.0,3780.0,3940.0,8,3230.0
+KS-PROD-1307,Woodcraft & Carvings,Rosewood,Wood Turning,Masterpiece,860.0,1650.0,60.0,80.0,2650.0,4360.0,4130.0,9,3510.0
+KS-PROD-1308,Bags & Accessories,Golden Jute,Jute Stitching,Standard,350.0,340.0,70.0,80.0,840.0,1260.0,1190.0,5,1050.0
+KS-PROD-1309,Pottery & Terracotta,Quartz Paste,Terracotta Modelling,Standard,280.0,940.0,90.0,60.0,1370.0,1900.0,2010.0,4,1700.0
+KS-PROD-1310,Home Decor & Brassware,Terracotta,Sand Casting,Masterpiece,480.0,580.0,40.0,60.0,1160.0,1540.0,1650.0,7,1410.0
+KS-PROD-1311,Woodcraft & Carvings,Sheesham Wood,Jaali Latticework,Fine Heritage,510.0,860.0,130.0,90.0,1590.0,2540.0,2470.0,5,2090.0
+KS-PROD-1312,Jewellery & Brassware,Copper Alloy,Filigree,Fine Heritage,2300.0,4500.0,200.0,150.0,7150.0,13480.0,12700.0,10,10360.0
+KS-PROD-1313,Woodcraft & Carvings,Rosewood,Jaali Latticework,Standard,600.0,1180.0,100.0,70.0,1950.0,2290.0,2360.0,2,2240.0
+KS-PROD-1314,Jewellery & Brassware,Silver Filigree,Filigree,Masterpiece,2190.0,5850.0,140.0,90.0,8270.0,10870.0,11150.0,4,9800.0
+KS-PROD-1315,Textiles & Embroidery,Wool,Block Printing,Fine Heritage,420.0,560.0,40.0,60.0,1080.0,1600.0,1530.0,3,1340.0
+KS-PROD-1316,Bamboo & Cane Craft,Seagrass,Split Cane Weaving,Standard,420.0,410.0,40.0,60.0,930.0,1330.0,1390.0,5,1170.0
+KS-PROD-1317,Textiles & Embroidery,Organic Cotton,Chikankari Stitching,Fine Heritage,310.0,410.0,80.0,80.0,880.0,1360.0,1440.0,8,1170.0
+KS-PROD-1318,Handloom & Sarees,Chanderi Cotton,Pit Loom Weaving,Fine Heritage,3740.0,4940.0,80.0,80.0,8840.0,13980.0,13950.0,5,11660.0
+KS-PROD-1319,Jewellery & Brassware,Copper Alloy,Lost-Wax Dokra Casting,Fine Heritage,1170.0,2780.0,250.0,140.0,4340.0,6800.0,6960.0,8,5750.0
+KS-PROD-1320,Woodcraft & Carvings,Teak Wood,Chisel Carving,Fine Heritage,810.0,1490.0,50.0,30.0,2380.0,2970.0,3070.0,2,2740.0
+KS-PROD-1321,Handloom & Sarees,Khadi,Pit Loom Weaving,Standard,3210.0,2660.0,80.0,100.0,6050.0,10690.0,11010.0,10,8710.0
+KS-PROD-1322,Bamboo & Cane Craft,Golden Cane,Coiled Bamboo Weaving,Masterpiece,530.0,760.0,90.0,40.0,1420.0,1870.0,1830.0,4,1650.0
+KS-PROD-1323,Textiles & Embroidery,Organic Cotton,Kantha Needlework,Fine Heritage,230.0,530.0,100.0,30.0,890.0,1650.0,1700.0,10,1330.0
+KS-PROD-1324,Bags & Accessories,Golden Jute,Jute Stitching,Standard,440.0,250.0,60.0,30.0,780.0,1100.0,1130.0,3,970.0
+KS-PROD-1325,Pottery & Terracotta,Terracotta,Blue Pottery Glazing,Fine Heritage,540.0,1330.0,130.0,60.0,2060.0,2460.0,2630.0,4,2370.0
+KS-PROD-1326,Bags & Accessories,Burlap,Jute Stitching,Masterpiece,710.0,830.0,80.0,20.0,1640.0,2320.0,2230.0,5,1980.0
+KS-PROD-1327,Home Decor & Brassware,Wrought Iron,Beaten Metal Hammering,Standard,300.0,430.0,90.0,60.0,880.0,1150.0,1230.0,6,1060.0
+KS-PROD-1328,Home Decor & Brassware,Terracotta,Beaten Metal Hammering,Standard,190.0,310.0,50.0,60.0,610.0,890.0,830.0,4,740.0
+KS-PROD-1329,Pottery & Terracotta,Terracotta,Blue Pottery Glazing,Masterpiece,300.0,1440.0,50.0,70.0,1860.0,2760.0,2740.0,6,2350.0
+KS-PROD-1330,Bags & Accessories,Burlap,Jute Stitching,Fine Heritage,250.0,320.0,60.0,80.0,710.0,1030.0,1070.0,8,900.0
+KS-PROD-1331,Bamboo & Cane Craft,Wild Bamboo,Split Cane Weaving,Fine Heritage,150.0,320.0,80.0,30.0,580.0,980.0,1050.0,10,820.0
+KS-PROD-1332,Handloom & Sarees,Chanderi Cotton,Zari Booti Work,Standard,1590.0,3560.0,130.0,190.0,5470.0,7100.0,7470.0,4,6500.0
+KS-PROD-1333,Handloom & Sarees,Mulberry Silk,Pit Loom Weaving,Masterpiece,1460.0,4540.0,210.0,190.0,6400.0,8200.0,8160.0,3,7380.0
+KS-PROD-1334,Home Decor & Brassware,Terracotta,Sand Casting,Standard,420.0,240.0,80.0,20.0,760.0,980.0,920.0,2,870.0
+KS-PROD-1335,Handloom & Sarees,Khadi,Jacquard Weaving,Fine Heritage,3440.0,1720.0,240.0,90.0,5490.0,6130.0,6450.0,1,6310.0
+KS-PROD-1336,Jewellery & Brassware,Cast Brass,Filigree,Masterpiece,4980.0,3290.0,110.0,120.0,8500.0,11050.0,10730.0,3,9790.0
+KS-PROD-1337,Textiles & Embroidery,Linen,Block Printing,Standard,280.0,470.0,80.0,30.0,860.0,1470.0,1580.0,10,1230.0
+KS-PROD-1338,Home Decor & Brassware,Terracotta,Sand Casting,Fine Heritage,360.0,640.0,80.0,40.0,1120.0,2130.0,1970.0,9,1620.0
+KS-PROD-1339,Bags & Accessories,Embroidered Silk,Hand Braiding,Fine Heritage,390.0,420.0,70.0,50.0,930.0,1090.0,1060.0,1,1070.0
+KS-PROD-1340,Textiles & Embroidery,Linen,Kantha Needlework,Masterpiece,720.0,500.0,50.0,20.0,1290.0,1810.0,1960.0,8,1630.0
+KS-PROD-1341,Home Decor & Brassware,Terracotta,Beaten Metal Hammering,Masterpiece,650.0,760.0,80.0,40.0,1530.0,2130.0,1970.0,4,1800.0
+KS-PROD-1342,Bags & Accessories,Embroidered Silk,Hand Braiding,Fine Heritage,360.0,450.0,90.0,50.0,950.0,1570.0,1630.0,7,1310.0
+KS-PROD-1343,Woodcraft & Carvings,Sheesham Wood,Jaali Latticework,Fine Heritage,230.0,860.0,90.0,80.0,1260.0,1750.0,1800.0,7,1550.0
+KS-PROD-1344,Bags & Accessories,Golden Jute,Hand Braiding,Standard,240.0,240.0,90.0,30.0,600.0,740.0,710.0,2,690.0
+KS-PROD-1345,Jewellery & Brassware,Cast Brass,Lost-Wax Dokra Casting,Masterpiece,2160.0,3900.0,80.0,110.0,6250.0,11130.0,10790.0,10,8820.0
+KS-PROD-1346,Jewellery & Brassware,Silver Filigree,Lost-Wax Dokra Casting,Masterpiece,3690.0,5640.0,210.0,120.0,9660.0,15580.0,14690.0,9,12600.0
+KS-PROD-1347,Handloom & Sarees,Mulberry Silk,Zari Booti Work,Fine Heritage,3230.0,2830.0,200.0,90.0,6350.0,8530.0,8930.0,3,7690.0
+KS-PROD-1348,Home Decor & Brassware,Wrought Iron,Beaten Metal Hammering,Standard,120.0,290.0,100.0,30.0,540.0,940.0,880.0,10,740.0
+KS-PROD-1349,Woodcraft & Carvings,Rosewood,Wood Turning,Masterpiece,490.0,1740.0,50.0,30.0,2310.0,2700.0,2680.0,1,2660.0
+KS-PROD-1350,Handloom & Sarees,Mulberry Silk,Zari Booti Work,Standard,3300.0,2430.0,90.0,120.0,5940.0,10050.0,9170.0,6,7890.0
+KS-PROD-1351,Bags & Accessories,Embroidered Silk,Hand Braiding,Masterpiece,570.0,600.0,80.0,70.0,1320.0,2240.0,2310.0,10,1850.0
+KS-PROD-1352,Bamboo & Cane Craft,Golden Cane,Coiled Bamboo Weaving,Fine Heritage,370.0,370.0,70.0,50.0,860.0,1250.0,1220.0,7,1060.0
+KS-PROD-1353,Jewellery & Brassware,Cast Brass,Lost-Wax Dokra Casting,Masterpiece,2180.0,5160.0,230.0,90.0,7660.0,11630.0,11120.0,3,9660.0
+KS-PROD-1354,Textiles & Embroidery,Wool,Chikankari Stitching,Fine Heritage,330.0,370.0,40.0,30.0,770.0,1420.0,1370.0,8,1110.0
+KS-PROD-1355,Textiles & Embroidery,Tussar Silk,Block Printing,Fine Heritage,530.0,270.0,60.0,20.0,880.0,1170.0,1220.0,6,1060.0
+KS-PROD-1356,Bags & Accessories,Burlap,Jute Stitching,Fine Heritage,340.0,320.0,50.0,70.0,780.0,1070.0,1090.0,6,950.0
+KS-PROD-1357,Home Decor & Brassware,Pure Brass,Sand Casting,Standard,130.0,480.0,40.0,50.0,700.0,1030.0,970.0,2,860.0
+KS-PROD-1358,Woodcraft & Carvings,Sheesham Wood,Chisel Carving,Fine Heritage,330.0,470.0,150.0,60.0,1010.0,1480.0,1580.0,6,1300.0
+KS-PROD-1359,Woodcraft & Carvings,Sandalwood,Jaali Latticework,Standard,180.0,800.0,150.0,70.0,1200.0,1910.0,1770.0,4,1540.0
+KS-PROD-1360,Bags & Accessories,Golden Jute,Hand Braiding,Masterpiece,340.0,820.0,40.0,60.0,1260.0,1570.0,1530.0,3,1450.0
+KS-PROD-1361,Jewellery & Brassware,Dokra Bronze,Filigree,Masterpiece,3390.0,3780.0,120.0,90.0,7380.0,12890.0,12400.0,7,10240.0
+KS-PROD-1362,Bags & Accessories,Burlap,Hand Braiding,Masterpiece,340.0,690.0,90.0,50.0,1170.0,1860.0,1730.0,4,1500.0
+KS-PROD-1363,Textiles & Embroidery,Organic Cotton,Kantha Needlework,Fine Heritage,200.0,270.0,40.0,60.0,570.0,740.0,670.0,2,660.0
+KS-PROD-1364,Woodcraft & Carvings,Teak Wood,Wood Turning,Standard,330.0,570.0,80.0,50.0,1030.0,1550.0,1650.0,8,1350.0
+KS-PROD-1365,Jewellery & Brassware,Dokra Bronze,Hand Engraving,Masterpiece,1380.0,2150.0,110.0,60.0,3700.0,5130.0,4820.0,1,4380.0
+KS-PROD-1366,Home Decor & Brassware,Terracotta,Beaten Metal Hammering,Fine Heritage,450.0,410.0,80.0,40.0,980.0,1470.0,1390.0,3,1220.0
+KS-PROD-1367,Home Decor & Brassware,Wrought Iron,Sand Casting,Standard,450.0,220.0,50.0,30.0,750.0,1130.0,1050.0,6,930.0
+KS-PROD-1368,Bamboo & Cane Craft,Rattan,Split Cane Weaving,Standard,390.0,340.0,80.0,60.0,870.0,1370.0,1390.0,6,1150.0
+KS-PROD-1369,Pottery & Terracotta,Clay,Terracotta Modelling,Masterpiece,440.0,610.0,120.0,90.0,1260.0,2000.0,2020.0,9,1670.0
+KS-PROD-1370,Bamboo & Cane Craft,Rattan,Coiled Bamboo Weaving,Fine Heritage,610.0,520.0,50.0,80.0,1260.0,1810.0,1850.0,8,1580.0
+KS-PROD-1371,Home Decor & Brassware,Pure Brass,Beaten Metal Hammering,Fine Heritage,590.0,700.0,70.0,30.0,1390.0,2150.0,2240.0,6,1840.0
+KS-PROD-1372,Jewellery & Brassware,Silver Filigree,Filigree,Standard,3010.0,2970.0,180.0,110.0,6270.0,7130.0,7690.0,1,7210.0
+KS-PROD-1373,Bags & Accessories,Cotton Canvas,Hand Braiding,Standard,270.0,580.0,90.0,40.0,980.0,1660.0,1800.0,9,1400.0
+KS-PROD-1374,Jewellery & Brassware,Cast Brass,Hand Engraving,Masterpiece,2130.0,4570.0,130.0,70.0,6900.0,10350.0,10450.0,4,8830.0
+KS-PROD-1375,Textiles & Embroidery,Organic Cotton,Chikankari Stitching,Masterpiece,280.0,710.0,40.0,60.0,1090.0,1500.0,1590.0,8,1350.0
+KS-PROD-1376,Jewellery & Brassware,Dokra Bronze,Filigree,Fine Heritage,3270.0,2740.0,230.0,80.0,6320.0,8660.0,8190.0,3,7440.0
+KS-PROD-1377,Jewellery & Brassware,Silver Filigree,Filigree,Masterpiece,3540.0,1720.0,250.0,180.0,5690.0,7060.0,7580.0,1,6630.0
+KS-PROD-1378,Jewellery & Brassware,Dokra Bronze,Lost-Wax Dokra Casting,Fine Heritage,2140.0,3060.0,220.0,130.0,5550.0,8960.0,8610.0,9,7300.0
+KS-PROD-1379,Jewellery & Brassware,Cast Brass,Hand Engraving,Standard,1750.0,2100.0,110.0,190.0,4150.0,5650.0,5480.0,1,4920.0
+KS-PROD-1380,Handloom & Sarees,Silk Cotton,Pit Loom Weaving,Standard,1720.0,2520.0,200.0,80.0,4520.0,6600.0,6150.0,6,5510.0
+KS-PROD-1381,Home Decor & Brassware,Pure Brass,Beaten Metal Hammering,Standard,170.0,430.0,60.0,60.0,720.0,1060.0,1010.0,2,890.0
+KS-PROD-1382,Bags & Accessories,Burlap,Hand Braiding,Fine Heritage,450.0,300.0,30.0,50.0,830.0,950.0,1030.0,1,950.0
+KS-PROD-1383,Textiles & Embroidery,Linen,Block Printing,Masterpiece,670.0,910.0,90.0,30.0,1700.0,2260.0,2210.0,2,1990.0
+KS-PROD-1384,Handloom & Sarees,Mulberry Silk,Zari Booti Work,Fine Heritage,2870.0,3260.0,210.0,70.0,6410.0,8560.0,8270.0,1,7490.0
+KS-PROD-1385,Bamboo & Cane Craft,Seagrass,Split Cane Weaving,Fine Heritage,140.0,250.0,100.0,60.0,550.0,810.0,760.0,3,680.0
+KS-PROD-1386,Woodcraft & Carvings,Sandalwood,Jaali Latticework,Fine Heritage,980.0,1470.0,90.0,60.0,2600.0,3420.0,3700.0,5,3150.0
+KS-PROD-1387,Jewellery & Brassware,Silver Filigree,Lost-Wax Dokra Casting,Masterpiece,1630.0,2060.0,170.0,140.0,4000.0,4650.0,4960.0,2,4600.0
+KS-PROD-1388,Jewellery & Brassware,Silver Filigree,Hand Engraving,Standard,1290.0,1560.0,220.0,80.0,3150.0,4640.0,4390.0,5,3880.0
+KS-PROD-1389,Handloom & Sarees,Chanderi Cotton,Jacquard Weaving,Masterpiece,2490.0,5700.0,210.0,60.0,8460.0,11890.0,12130.0,7,10430.0
+KS-PROD-1390,Pottery & Terracotta,Terracotta,Wheel Pottery,Standard,770.0,810.0,60.0,60.0,1700.0,2920.0,2940.0,8,2380.0
+KS-PROD-1391,Handloom & Sarees,Chanderi Cotton,Pit Loom Weaving,Masterpiece,5170.0,5700.0,120.0,100.0,11090.0,15590.0,15250.0,3,13450.0
+KS-PROD-1392,Handloom & Sarees,Silk Cotton,Zari Booti Work,Standard,2770.0,1290.0,210.0,170.0,4440.0,7010.0,7060.0,9,5870.0
+KS-PROD-1393,Jewellery & Brassware,Dokra Bronze,Hand Engraving,Masterpiece,2240.0,3460.0,180.0,110.0,5990.0,9110.0,9640.0,9,7890.0
+KS-PROD-1394,Home Decor & Brassware,Wrought Iron,Beaten Metal Hammering,Standard,350.0,550.0,80.0,40.0,1020.0,1940.0,1770.0,10,1470.0
+KS-PROD-1395,Home Decor & Brassware,Terracotta,Beaten Metal Hammering,Masterpiece,230.0,360.0,70.0,30.0,690.0,830.0,890.0,4,790.0
+KS-PROD-1396,Bamboo & Cane Craft,Wild Bamboo,Coiled Bamboo Weaving,Masterpiece,400.0,910.0,50.0,30.0,1390.0,1840.0,1750.0,1,1610.0
+KS-PROD-1397,Pottery & Terracotta,Stoneware,Wheel Pottery,Fine Heritage,360.0,480.0,120.0,80.0,1040.0,1500.0,1510.0,6,1300.0
+KS-PROD-1398,Jewellery & Brassware,Copper Alloy,Filigree,Standard,3120.0,1350.0,150.0,80.0,4700.0,7120.0,6530.0,4,5820.0
+KS-PROD-1399,Home Decor & Brassware,Pure Brass,Beaten Metal Hammering,Standard,270.0,220.0,80.0,70.0,640.0,990.0,1040.0,8,850.0
+KS-PROD-1400,Handloom & Sarees,Chanderi Cotton,Pit Loom Weaving,Fine Heritage,1940.0,2780.0,80.0,170.0,4970.0,7620.0,7610.0,9,6420.0
+KS-PROD-1401,Jewellery & Brassware,Dokra Bronze,Hand Engraving,Standard,2660.0,1750.0,160.0,110.0,4680.0,6210.0,6220.0,3,5520.0
+KS-PROD-1402,Woodcraft & Carvings,Sheesham Wood,Chisel Carving,Masterpiece,720.0,710.0,140.0,70.0,1640.0,2110.0,2010.0,3,1890.0
+KS-PROD-1403,Jewellery & Brassware,Cast Brass,Hand Engraving,Masterpiece,3400.0,2890.0,150.0,60.0,6500.0,7620.0,7850.0,2,7470.0
+KS-PROD-1404,Bamboo & Cane Craft,Golden Cane,Split Cane Weaving,Masterpiece,160.0,900.0,50.0,60.0,1170.0,1900.0,1940.0,9,1590.0
+KS-PROD-1405,Bags & Accessories,Cotton Canvas,Jute Stitching,Standard,390.0,470.0,60.0,60.0,980.0,1500.0,1450.0,5,1250.0
+KS-PROD-1406,Textiles & Embroidery,Tussar Silk,Block Printing,Fine Heritage,440.0,690.0,50.0,70.0,1250.0,1800.0,1870.0,6,1580.0
+KS-PROD-1407,Textiles & Embroidery,Wool,Kantha Needlework,Fine Heritage,600.0,200.0,40.0,50.0,890.0,1210.0,1120.0,3,1030.0
+KS-PROD-1408,Bamboo & Cane Craft,Rattan,Split Cane Weaving,Masterpiece,770.0,280.0,80.0,80.0,1210.0,1970.0,2050.0,8,1660.0
+KS-PROD-1409,Bamboo & Cane Craft,Golden Cane,Split Cane Weaving,Standard,110.0,160.0,70.0,30.0,370.0,590.0,550.0,5,480.0
+KS-PROD-1410,Bamboo & Cane Craft,Wild Bamboo,Split Cane Weaving,Standard,340.0,190.0,50.0,60.0,640.0,850.0,810.0,4,740.0
+KS-PROD-1411,Woodcraft & Carvings,Sheesham Wood,Jaali Latticework,Standard,670.0,1090.0,60.0,70.0,1890.0,2770.0,2860.0,4,2410.0
+KS-PROD-1412,Home Decor & Brassware,Wrought Iron,Beaten Metal Hammering,Fine Heritage,400.0,280.0,80.0,80.0,840.0,1280.0,1320.0,10,1100.0
+KS-PROD-1413,Woodcraft & Carvings,Teak Wood,Chisel Carving,Masterpiece,280.0,650.0,130.0,40.0,1100.0,1640.0,1580.0,5,1380.0
+KS-PROD-1414,Bamboo & Cane Craft,Golden Cane,Coiled Bamboo Weaving,Standard,390.0,480.0,60.0,70.0,1000.0,1550.0,1550.0,5,1300.0
+KS-PROD-1415,Handloom & Sarees,Mulberry Silk,Zari Booti Work,Fine Heritage,1030.0,2580.0,170.0,150.0,3930.0,5990.0,5660.0,7,4950.0
+KS-PROD-1416,Bamboo & Cane Craft,Wild Bamboo,Coiled Bamboo Weaving,Fine Heritage,180.0,320.0,90.0,40.0,630.0,1200.0,1110.0,9,910.0
+KS-PROD-1417,Textiles & Embroidery,Wool,Kantha Needlework,Masterpiece,490.0,630.0,100.0,50.0,1270.0,2360.0,2360.0,10,1870.0
+KS-PROD-1418,Textiles & Embroidery,Linen,Chikankari Stitching,Standard,470.0,510.0,90.0,30.0,1100.0,1580.0,1550.0,5,1350.0
+KS-PROD-1419,Handloom & Sarees,Silk Cotton,Jacquard Weaving,Standard,3230.0,1610.0,200.0,190.0,5230.0,6700.0,6760.0,2,6060.0
+KS-PROD-1420,Woodcraft & Carvings,Sheesham Wood,Wood Turning,Standard,500.0,470.0,60.0,90.0,1120.0,2060.0,2020.0,9,1620.0
+KS-PROD-1421,Handloom & Sarees,Mulberry Silk,Jacquard Weaving,Masterpiece,1590.0,3920.0,100.0,90.0,5700.0,8450.0,8870.0,9,7360.0
+KS-PROD-1422,Home Decor & Brassware,Bell Metal,Sand Casting,Standard,420.0,250.0,70.0,50.0,790.0,1350.0,1360.0,10,1100.0
+KS-PROD-1423,Handloom & Sarees,Chanderi Cotton,Zari Booti Work,Standard,2640.0,3980.0,140.0,50.0,6810.0,9300.0,8780.0,1,8000.0
+KS-PROD-1424,Pottery & Terracotta,Clay,Wheel Pottery,Fine Heritage,320.0,1190.0,110.0,40.0,1660.0,2450.0,2300.0,4,2040.0
+KS-PROD-1425,Bags & Accessories,Embroidered Silk,Jute Stitching,Masterpiece,620.0,650.0,80.0,80.0,1430.0,1980.0,2100.0,6,1770.0
+KS-PROD-1426,Jewellery & Brassware,Silver Filigree,Hand Engraving,Standard,1030.0,3420.0,180.0,140.0,4770.0,7510.0,7410.0,8,6240.0
+KS-PROD-1427,Handloom & Sarees,Mulberry Silk,Pit Loom Weaving,Fine Heritage,2690.0,4180.0,130.0,120.0,7120.0,10920.0,11810.0,9,9520.0
+KS-PROD-1428,Pottery & Terracotta,Clay,Blue Pottery Glazing,Fine Heritage,910.0,760.0,110.0,40.0,1820.0,2770.0,2920.0,9,2400.0
+KS-PROD-1429,Home Decor & Brassware,Pure Brass,Sand Casting,Fine Heritage,200.0,340.0,50.0,40.0,630.0,800.0,750.0,1,720.0
+KS-PROD-1430,Home Decor & Brassware,Pure Brass,Sand Casting,Masterpiece,450.0,520.0,50.0,60.0,1080.0,1960.0,1900.0,10,1540.0
+KS-PROD-1431,Pottery & Terracotta,Terracotta,Wheel Pottery,Standard,190.0,1010.0,140.0,90.0,1430.0,2090.0,2220.0,5,1840.0
+KS-PROD-1432,Pottery & Terracotta,Quartz Paste,Blue Pottery Glazing,Masterpiece,490.0,1650.0,70.0,100.0,2310.0,3910.0,4050.0,8,3240.0
+KS-PROD-1433,Bamboo & Cane Craft,Rattan,Coiled Bamboo Weaving,Masterpiece,560.0,510.0,50.0,60.0,1180.0,1690.0,1640.0,3,1440.0
+KS-PROD-1434,Jewellery & Brassware,Dokra Bronze,Filigree,Masterpiece,3940.0,4600.0,130.0,90.0,8760.0,10060.0,10100.0,1,10070.0
+KS-PROD-1435,Woodcraft & Carvings,Sandalwood,Wood Turning,Masterpiece,1080.0,1020.0,60.0,100.0,2260.0,3220.0,2990.0,5,2710.0
+KS-PROD-1436,Home Decor & Brassware,Wrought Iron,Beaten Metal Hammering,Standard,240.0,490.0,80.0,70.0,880.0,1060.0,1000.0,1,1010.0
+KS-PROD-1437,Textiles & Embroidery,Linen,Chikankari Stitching,Masterpiece,270.0,370.0,90.0,60.0,790.0,980.0,1000.0,2,910.0
+KS-PROD-1438,Jewellery & Brassware,Silver Filigree,Filigree,Masterpiece,5260.0,3940.0,240.0,50.0,9490.0,13650.0,13840.0,4,11840.0
+KS-PROD-1439,Woodcraft & Carvings,Sandalwood,Jaali Latticework,Masterpiece,1210.0,1070.0,130.0,30.0,2440.0,3480.0,3330.0,6,2960.0
+KS-PROD-1440,Pottery & Terracotta,Quartz Paste,Wheel Pottery,Standard,750.0,450.0,130.0,50.0,1380.0,2150.0,2200.0,9,1820.0
+KS-PROD-1441,Handloom & Sarees,Khadi,Jacquard Weaving,Standard,2980.0,3400.0,100.0,160.0,6640.0,11380.0,10840.0,8,9060.0
+KS-PROD-1442,Handloom & Sarees,Silk Cotton,Jacquard Weaving,Standard,1450.0,1180.0,200.0,120.0,2950.0,3780.0,3860.0,3,3430.0
+KS-PROD-1443,Bamboo & Cane Craft,Wild Bamboo,Split Cane Weaving,Standard,390.0,580.0,90.0,60.0,1120.0,2060.0,1880.0,9,1570.0
+KS-PROD-1444,Home Decor & Brassware,Pure Brass,Beaten Metal Hammering,Masterpiece,690.0,780.0,80.0,50.0,1600.0,1670.0,1750.0,1,1840.0
+KS-PROD-1445,Pottery & Terracotta,Clay,Blue Pottery Glazing,Standard,370.0,640.0,100.0,90.0,1200.0,2120.0,2200.0,9,1730.0
+KS-PROD-1446,Home Decor & Brassware,Wrought Iron,Beaten Metal Hammering,Masterpiece,590.0,420.0,50.0,80.0,1140.0,1720.0,1590.0,2,1410.0
+KS-PROD-1447,Pottery & Terracotta,Terracotta,Terracotta Modelling,Fine Heritage,680.0,720.0,140.0,40.0,1580.0,2360.0,2510.0,10,2060.0
+KS-PROD-1448,Jewellery & Brassware,Cast Brass,Filigree,Fine Heritage,1760.0,2660.0,160.0,180.0,4760.0,8420.0,7660.0,10,6510.0
+KS-PROD-1449,Bamboo & Cane Craft,Golden Cane,Coiled Bamboo Weaving,Standard,340.0,380.0,40.0,50.0,810.0,1100.0,1180.0,6,1000.0
+KS-PROD-1450,Jewellery & Brassware,Cast Brass,Filigree,Masterpiece,4830.0,2810.0,170.0,110.0,7920.0,10640.0,10300.0,1,9300.0
+KS-PROD-1451,Textiles & Embroidery,Organic Cotton,Block Printing,Fine Heritage,340.0,730.0,80.0,50.0,1200.0,1330.0,1410.0,2,1380.0
+KS-PROD-1452,Pottery & Terracotta,Clay,Wheel Pottery,Standard,490.0,440.0,90.0,90.0,1110.0,1600.0,1510.0,2,1350.0
+KS-PROD-1453,Home Decor & Brassware,Terracotta,Beaten Metal Hammering,Standard,230.0,490.0,40.0,30.0,790.0,1020.0,1040.0,4,920.0
+KS-PROD-1454,Pottery & Terracotta,Stoneware,Blue Pottery Glazing,Masterpiece,420.0,1230.0,100.0,90.0,1840.0,3150.0,3040.0,7,2520.0
+KS-PROD-1455,Woodcraft & Carvings,Teak Wood,Wood Turning,Fine Heritage,420.0,1460.0,60.0,50.0,1990.0,3050.0,3000.0,9,2560.0
+KS-PROD-1456,Bags & Accessories,Cotton Canvas,Hand Braiding,Fine Heritage,240.0,670.0,90.0,60.0,1060.0,1530.0,1650.0,9,1360.0
+KS-PROD-1457,Bamboo & Cane Craft,Seagrass,Coiled Bamboo Weaving,Standard,140.0,320.0,80.0,20.0,560.0,750.0,680.0,1,640.0
+KS-PROD-1458,Handloom & Sarees,Chanderi Cotton,Zari Booti Work,Masterpiece,2000.0,1470.0,250.0,200.0,3920.0,7200.0,7250.0,10,5740.0
+KS-PROD-1459,Home Decor & Brassware,Bell Metal,Beaten Metal Hammering,Masterpiece,550.0,760.0,80.0,60.0,1450.0,2180.0,2150.0,8,1840.0
+KS-PROD-1460,Woodcraft & Carvings,Sandalwood,Wood Turning,Fine Heritage,700.0,990.0,60.0,70.0,1820.0,2400.0,2380.0,5,2130.0
+KS-PROD-1461,Jewellery & Brassware,Dokra Bronze,Lost-Wax Dokra Casting,Standard,1090.0,3500.0,220.0,80.0,4890.0,6880.0,6900.0,3,5990.0
+KS-PROD-1462,Pottery & Terracotta,Stoneware,Blue Pottery Glazing,Masterpiece,260.0,1210.0,70.0,70.0,1610.0,3020.0,2760.0,8,2290.0
+KS-PROD-1463,Pottery & Terracotta,Stoneware,Wheel Pottery,Masterpiece,450.0,1210.0,150.0,50.0,1860.0,3170.0,3050.0,10,2540.0
+KS-PROD-1464,Textiles & Embroidery,Organic Cotton,Chikankari Stitching,Standard,360.0,400.0,30.0,70.0,860.0,1440.0,1330.0,5,1140.0
+KS-PROD-1465,Home Decor & Brassware,Pure Brass,Sand Casting,Masterpiece,510.0,540.0,30.0,70.0,1150.0,1590.0,1500.0,3,1360.0
+KS-PROD-1466,Woodcraft & Carvings,Rosewood,Wood Turning,Fine Heritage,260.0,970.0,110.0,50.0,1390.0,1850.0,1930.0,2,1670.0
+KS-PROD-1467,Bags & Accessories,Burlap,Jute Stitching,Masterpiece,670.0,850.0,80.0,70.0,1670.0,2810.0,2560.0,6,2210.0
+KS-PROD-1468,Handloom & Sarees,Chanderi Cotton,Pit Loom Weaving,Fine Heritage,2350.0,1700.0,180.0,170.0,4400.0,7630.0,7050.0,9,5970.0
+KS-PROD-1469,Pottery & Terracotta,Terracotta,Terracotta Modelling,Standard,150.0,880.0,100.0,70.0,1200.0,1590.0,1710.0,7,1460.0
+KS-PROD-1470,Home Decor & Brassware,Terracotta,Sand Casting,Standard,370.0,520.0,50.0,80.0,1020.0,1050.0,1130.0,1,1170.0
+KS-PROD-1471,Pottery & Terracotta,Quartz Paste,Wheel Pottery,Fine Heritage,700.0,400.0,120.0,30.0,1250.0,2230.0,2070.0,7,1730.0
+KS-PROD-1472,Bamboo & Cane Craft,Rattan,Split Cane Weaving,Masterpiece,240.0,740.0,50.0,40.0,1070.0,1410.0,1410.0,1,1260.0
+KS-PROD-1473,Jewellery & Brassware,Copper Alloy,Lost-Wax Dokra Casting,Standard,2730.0,2290.0,100.0,110.0,5230.0,8710.0,8480.0,7,7060.0
+KS-PROD-1474,Textiles & Embroidery,Tussar Silk,Chikankari Stitching,Standard,400.0,370.0,70.0,50.0,890.0,1670.0,1520.0,7,1270.0
+KS-PROD-1475,Handloom & Sarees,Chanderi Cotton,Pit Loom Weaving,Fine Heritage,4160.0,3740.0,120.0,200.0,8220.0,10330.0,10740.0,4,9520.0
+KS-PROD-1476,Woodcraft & Carvings,Sandalwood,Jaali Latticework,Masterpiece,1170.0,690.0,140.0,60.0,2060.0,3160.0,3380.0,8,2740.0
+KS-PROD-1477,Pottery & Terracotta,Terracotta,Wheel Pottery,Masterpiece,330.0,1280.0,50.0,40.0,1700.0,2550.0,2520.0,7,2160.0
+KS-PROD-1478,Textiles & Embroidery,Organic Cotton,Block Printing,Fine Heritage,400.0,740.0,60.0,30.0,1230.0,1890.0,1820.0,8,1570.0
+KS-PROD-1479,Jewellery & Brassware,Silver Filigree,Hand Engraving,Masterpiece,1450.0,6010.0,230.0,100.0,7790.0,10870.0,11170.0,3,9590.0
+KS-PROD-1480,Pottery & Terracotta,Clay,Terracotta Modelling,Fine Heritage,420.0,380.0,100.0,80.0,980.0,1240.0,1220.0,2,1130.0
+KS-PROD-1481,Woodcraft & Carvings,Rosewood,Wood Turning,Fine Heritage,730.0,510.0,70.0,30.0,1340.0,1980.0,1840.0,3,1640.0
+KS-PROD-1482,Woodcraft & Carvings,Sheesham Wood,Wood Turning,Standard,320.0,1130.0,90.0,70.0,1610.0,2570.0,2550.0,6,2130.0
+KS-PROD-1483,Bags & Accessories,Cotton Canvas,Hand Braiding,Standard,450.0,390.0,90.0,70.0,1000.0,1480.0,1350.0,3,1220.0
+KS-PROD-1484,Home Decor & Brassware,Pure Brass,Beaten Metal Hammering,Standard,330.0,350.0,80.0,50.0,810.0,1470.0,1420.0,10,1160.0
+KS-PROD-1485,Home Decor & Brassware,Pure Brass,Beaten Metal Hammering,Fine Heritage,480.0,410.0,100.0,30.0,1020.0,1700.0,1600.0,7,1360.0
+KS-PROD-1486,Pottery & Terracotta,Quartz Paste,Wheel Pottery,Fine Heritage,630.0,410.0,130.0,40.0,1210.0,1670.0,1760.0,6,1490.0
+KS-PROD-1487,Home Decor & Brassware,Wrought Iron,Sand Casting,Fine Heritage,390.0,440.0,40.0,40.0,910.0,1370.0,1470.0,10,1200.0
+KS-PROD-1488,Woodcraft & Carvings,Sheesham Wood,Wood Turning,Standard,360.0,630.0,100.0,70.0,1160.0,1450.0,1430.0,1,1330.0
+KS-PROD-1489,Jewellery & Brassware,Dokra Bronze,Hand Engraving,Masterpiece,3790.0,2780.0,170.0,50.0,6790.0,9070.0,8360.0,3,7810.0
+KS-PROD-1490,Textiles & Embroidery,Tussar Silk,Chikankari Stitching,Masterpiece,610.0,690.0,70.0,80.0,1450.0,2550.0,2640.0,10,2090.0
+KS-PROD-1491,Jewellery & Brassware,Dokra Bronze,Hand Engraving,Masterpiece,2650.0,4930.0,170.0,140.0,7890.0,9630.0,9620.0,2,9070.0
+KS-PROD-1492,Bags & Accessories,Golden Jute,Hand Braiding,Standard,240.0,230.0,90.0,40.0,600.0,960.0,940.0,7,790.0
+KS-PROD-1493,Woodcraft & Carvings,Sheesham Wood,Wood Turning,Fine Heritage,410.0,1240.0,150.0,30.0,1830.0,3020.0,2970.0,8,2470.0
+KS-PROD-1494,Home Decor & Brassware,Terracotta,Beaten Metal Hammering,Masterpiece,460.0,820.0,90.0,30.0,1400.0,2410.0,2390.0,9,1950.0
+KS-PROD-1495,Pottery & Terracotta,Quartz Paste,Blue Pottery Glazing,Masterpiece,230.0,1340.0,120.0,90.0,1780.0,2360.0,2440.0,6,2130.0
+KS-PROD-1496,Pottery & Terracotta,Quartz Paste,Terracotta Modelling,Fine Heritage,780.0,710.0,100.0,30.0,1620.0,2090.0,1930.0,2,1860.0
+KS-PROD-1497,Woodcraft & Carvings,Sandalwood,Jaali Latticework,Fine Heritage,390.0,1420.0,90.0,70.0,1970.0,2710.0,2540.0,4,2320.0
+KS-PROD-1498,Jewellery & Brassware,Dokra Bronze,Filigree,Standard,2510.0,1310.0,170.0,140.0,4130.0,6790.0,6350.0,5,5440.0
+KS-PROD-1499,Bamboo & Cane Craft,Golden Cane,Coiled Bamboo Weaving,Fine Heritage,330.0,330.0,80.0,70.0,810.0,1070.0,1090.0,3,960.0
+KS-PROD-1500,Bags & Accessories,Cotton Canvas,Hand Braiding,Fine Heritage,210.0,510.0,60.0,60.0,840.0,1160.0,1130.0,4,1010.0
