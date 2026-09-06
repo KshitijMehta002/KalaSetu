@@ -133,7 +133,7 @@ export const Marketplace = () => {
                 value={searchInput}
                 onChange={(e) => setSearchInput(e.target.value)}
                 placeholder="Search pottery, silk sarees, brass lamps, artisan..."
-                className="w-full pl-11 pr-4 py-3 rounded-xl border border-[#FED7AA] dark:border-[#3E3228] bg-white dark:bg-[#26201B] text-sm focus:outline-none focus:ring-2 focus:ring-[#D97706]"
+                className="w-full pl-11 pr-4 py-3 rounded-xl border border-[#FED7AA] dark:border-[#3E3228] bg-white dark:bg-[#26201B] text-sm text-[#292524] dark:text-[#F5F5F4] placeholder:text-[#A8A29E] focus:outline-none focus:ring-2 focus:ring-[#D97706]"
               />
               <Search className="w-5 h-5 text-[#78716C] absolute left-3.5 top-3.5" />
               {searchInput && (
@@ -196,7 +196,7 @@ export const Marketplace = () => {
             <select
               value={currentSort}
               onChange={(e) => updateParam('sort', e.target.value)}
-              className="py-1.5 px-3 rounded-lg border border-[#FED7AA] dark:border-[#3E3228] bg-white dark:bg-[#26201B] text-xs font-medium focus:outline-none focus:ring-1 focus:ring-[#D97706]"
+              className="py-1.5 px-3 rounded-lg border border-[#FED7AA] dark:border-[#3E3228] bg-white dark:bg-[#26201B] text-[#292524] dark:text-[#F5F5F4] text-xs font-medium focus:outline-none focus:ring-1 focus:ring-[#D97706]"
             >
               <option value="newest">Newest Arrivals</option>
               <option value="price-low">Price: Low to High</option>
@@ -277,14 +277,14 @@ export const Marketplace = () => {
                   placeholder="Min"
                   value={priceRange.min}
                   onChange={(e) => setPriceRange({ ...priceRange, min: e.target.value })}
-                  className="w-full px-2.5 py-1.5 text-xs rounded-lg border border-[#FED7AA] dark:border-[#3E3228] bg-white dark:bg-[#26201B]"
+                  className="w-full px-2.5 py-1.5 text-xs rounded-lg border border-[#FED7AA] dark:border-[#3E3228] bg-white dark:bg-[#26201B] text-[#292524] dark:text-[#F5F5F4] placeholder:text-[#A8A29E]"
                 />
                 <input
                   type="number"
                   placeholder="Max"
                   value={priceRange.max}
                   onChange={(e) => setPriceRange({ ...priceRange, max: e.target.value })}
-                  className="w-full px-2.5 py-1.5 text-xs rounded-lg border border-[#FED7AA] dark:border-[#3E3228] bg-white dark:bg-[#26201B]"
+                  className="w-full px-2.5 py-1.5 text-xs rounded-lg border border-[#FED7AA] dark:border-[#3E3228] bg-white dark:bg-[#26201B] text-[#292524] dark:text-[#F5F5F4] placeholder:text-[#A8A29E]"
                 />
               </div>
               <button
