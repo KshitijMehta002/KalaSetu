@@ -1,5 +1,7 @@
 @import "tailwindcss";
 
+@custom-variant dark (&:where(.dark, .dark *));
+
 @layer base {
   :root {
     --primary: #8B4513;
@@ -28,10 +30,21 @@
 
   body {
     font-family: 'Plus Jakarta Sans', sans-serif;
+    color: var(--text-main);
+    background-color: var(--bg-warm);
   }
 
   h1, h2, h3, h4, h5, h6 {
     font-family: 'Outfit', sans-serif;
+    color: var(--text-main);
+  }
+
+  input, select, textarea {
+    color: var(--text-main);
+  }
+
+  input::placeholder, textarea::placeholder {
+    color: var(--text-muted);
   }
 }
 
